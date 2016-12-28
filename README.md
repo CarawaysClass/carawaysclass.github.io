@@ -12,4 +12,3 @@ If you want to embed any of the html pages found in this repo, you simply use an
 ...so if I want to embed the instructor-info.html page, I use the following:
 
 &lt;p&gt;&lt;iframe src="https://carawaysclass.github.io/instructor-info.html" width="600px" height="1200px"&gt;&lt;/iframe&gt;&lt;/p&gt;
-
