@@ -3,8 +3,6 @@
 
 <img src="LinkedIn-Logo-2C.png" alt="LinkedIn logo" width="250"> 
 
-## Description  
-
 ### What is LinkedIn and Why Should I Care 
 
 Have you used LinkedIn before? Or even heard of it? It's often referred to as "Facebook for Professionals". Others describe it as a social network for people already working and who have experience.  
