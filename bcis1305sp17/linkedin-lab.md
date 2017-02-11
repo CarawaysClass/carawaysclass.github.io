@@ -13,7 +13,7 @@ As a college student, you may think that LinkedIn is something that you will loo
 
 ## Learning Activities  
   
-Read this article from Forbes explaining <a="http://onforb.es/1vinKke" target="_blank">Why College Freshmen Need To Major In LinkedIn</a>.  
+Read this article from Forbes explaining <a href="http://onforb.es/1vinKke" target="_blank">Why College Freshmen Need To Major In LinkedIn</a>.  
 
 Actually, joining LinkedIn now is exactly what you should do. Learning how LinkedIn works today even as you are student will set you up for success using LinkedIn in the future. It may even help you find your path to what you want to do even if that is uncertain right now.   
 
@@ -29,7 +29,7 @@ Again, there is no cost in signing up and creating your LinkedIn profile.  It is
 
 Once you have entered the basic contact information and created your profile, there are some "best practices" to keep in mind when adding to and updating your profile. The goal is to make sure that your profile represents you accurately and in the best possible light.  
 
-This video, <a href="https://youtu.be/B8WZxYFaSmI" target="_blank">Top Five Profile To-Do's<a>, provides a quick list of items to initially add to your LinkedIn profile.   
+This video, <a href="https://youtu.be/B8WZxYFaSmI" target="_blank">Top Five Profile To-Do's</a>, provides a quick list of items to initially add to your LinkedIn profile.   
 
 Going a bit further, here's a <a href="https://students.linkedin.com/content/dam/university/global/en_US/site/pdf/LinkedIn%20Profile%20Checklist%20-%20College%20Students.pdf" target="_blank">checklist</a> that is worth revisiting in the future as you update the education and experience sections of your LinkedIn profile and as you begin networking with others on LinkedIn.  
 
@@ -48,7 +48,7 @@ From these suggestions, here are the things I am looking for you to do in your p
 <li>Start building your network by adding me as one of your contacts</li>  
 <li>Add your skills.</li>  
 <li>Join a group related to your field or area of interest.</li>  
-</ol>. 
+</ol>
 
 This assignment is worth 20 points.  Here is the Grading Rubric for the completed items that I want to see in your LinkedIn profile:  
 
