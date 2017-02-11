@@ -30,7 +30,7 @@ For this assignment, you will create your own LinkedIn profile. Even if you alre
 <p>From these suggestions, here are the things I am looking for you to do in your profile:</p>  
 
 <ol>
-<li>Create your profile.</li>  
+<li>Create your profile (account).</li>  
 <li>Upload an appropriate professional photo.</li>  
 <li>Write a brief informative profile headline.</li>  
 <li>Write a summary statement.</li>  
