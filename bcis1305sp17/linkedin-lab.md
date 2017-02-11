@@ -36,29 +36,33 @@ Going a bit further, here's a [checklist](https://students.linkedin.com/content/
 ### Assignment Tasks  
  
 From these suggestions, here are the things I am looking for you to do in your profile:  
+<ol>
+<li>Create your profile.</li>  
+<li>Upload an appropriate professional photo.</li>  
+<li>Write a brief informative profile headline.</li>  
+<li>Write a summary statement.</li>  
+<li>Add your Experience.</li>  
+<li>Include being a student at Lone Star College in your Education section</li>  
+<li>Claim your own unique and personalized URL and set your profile to public</li>  
+<li>Start building your network by adding me as one of your contacts</li>  
+<li>Add your skills.</li>  
+<li>Join a group related to your field or area of interest.</li>  
+</ol>
 
-1. Create your profile.  
-2. Upload an appropriate photo.  
-3. Write an informative and personal profile headline.  
-4. Write a summary statement.  
-5. Add your Experience.  
-6. Include being a student at Lone Star College in your Education section.  
-7. Claim your own unique and personalized URL and set your profile to public.   
-8. Start building your network by adding me as one of your contacts.  
-9. Add your skills.   
-10. Join a group related to your field or area of interest.  
+This assignment is worth 20 points.  Here is the Grading Rubric for the completed items that I want to see in your LinkedIn profile:  
+<ul>
+<li>Appropriate profile picture: 5pts</li>  
+<li>Profile/professional headline: 2pts</li>  
+<li>Summary statement: 3pts</li>  
+<li>Personalized URL: 2pts</li>  
+<li>Experience section: 4pts</li>  
+<li>Education section including being a current student at [Lone Star College](https://www.linkedin.com/edu/alumni?id=31952&trk=ta-chg-school): 4pts</li>  
+</ul>
 
-Here is the Grading Rubric for the assignment:  
+<h3>Submitting Your Work</h3>   
 
-- LinkedIn Profile has been created. (5%)  
-- An appropriate profile picture has been added. (5%)  
-- A brief profile headline has been added. (5%)  
-- A summary statement has been added. (5%)  
-- A personalized URL has been added. (10%)  
-- The Experience section has been added. (10%)  
-- Established that you are a student at [Lone Star College](https://www.linkedin.com/edu/alumni?id=31952&trk=ta-chg-school) by adding that as part of your Education section. (10%)  
-- Connect request has been sent to me, [Bruce Caraway](https://www.linkedin.com/in/brucecaraway). (10%)  
-- Joined an [LI group](https://www.linkedin.com/grp/?trk=nav_responsive_sub_nav_groups) related to your field of study or area of interest. (10%)  
-- Timeliness: Completed by due date. The Connection Request you send to me (from within LI) is proof of your completion of this assignment. (10%)  
-- Readable: All wording and descriptions use proper grammar, correct spelling, and appropriate terms. (20%) 
-
+<ol>
+<li>Complete your profile and then find my profile on LinkedIn.</li>
+<li>Make sure you use proper grammar and spelling. (This will be included in my grading of your profile.)</li>
+<li>[Send me a Connect request](https://www.linkedin.com/in/brucecaraway) from within LinkedIn by clicking either the 'Send Message' or 'Connect' button next to my profile before the due date.</li>.
+</ol>
