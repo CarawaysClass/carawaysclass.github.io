@@ -21,7 +21,7 @@ Watch this short video that explains how [LinkedIn is For Students](https://yout
 
 Connecting with your classmates, counselors, and professors throughout your college career will help you begin to build a network of contacts.  It's that network that may help you find that perfect job in the future.  With today's highly competitive job market, you need to do everything you can to be recognized and remembered...to be remarkable. Connecting via LinkedIn will help you make and maintain contacts who may one day be looking for someone just like you to fill a job at their company!  
 
-##Creating your own LinkedIn Profile  
+## Creating your own LinkedIn Profile  
 
 For this assignment, you will create your own LinkedIn profile. Even if you already have a LinkedIn profile, read through the rest of this next section to make sure your profile is in tip-top shape.  
 
