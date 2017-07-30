@@ -6,20 +6,19 @@
 **Office:** UP NRB Bldg, Room 209P
 **Email:** <a href = "mailto:bruce.caraway@lonestar.edu">bruce.caraway@lonestar.edu</a>
 **Website:** <a href = "https://carawaysclass.com">carawaysclass.com</a>
-**Slack Team Site:** <a href="https://itse1311-sum17.slack.com" target="_blank">slack.com/itse1311-sum17</a>
+**Slack Team Site:** <a href="https://itse1311-fall17.slack.com" target="_blank">slack.com/itse1311-fall17</a>
 ## Course Info
 **Course Number:** ITSE 1311  
 **Course Title:** Beginning Web Progamming  
-**Term and Year:** Summer 2017
-**Course Section(s):** 6001/2
-**Class Days & Times:** TuTh 7:50AM-11:20AM  
-**Class Room:** UP 13.731
+**Term and Year:** Fall 2017
+**Course Section(s):** 6001/2 and 6003/4
+**Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
 
 Campus Map:  <a href="http://www.lonestar.edu/maps-universitypark.htm" target="_blank">Lone Star College - University Park</a>
 ## Office Hours:   
-Wednesdays 10am - 1pm
+TBD
 or by appointment
 
 ## Course Description  
@@ -27,7 +26,7 @@ This course is designed to equip you, the student, with the fundamental programm
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
-* Check the slack <a href="https://itse1311-sum17.slack.com/messages/C5MNZP1NF" target="_blank">#schedule channel</a> for our weekly Learning Activities and Assignments.  This information will also be posted in D2L.
+* Check the slack site for our weekly Learning Activities and Assignments.  This information will also be posted in D2L.
 * For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
 * For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
 * Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with D2L or your student email.
@@ -47,21 +46,21 @@ None.
 
 ## Required Materials
 
-<img style="float: right; margin: 20px;" src="https://carawaysclass.com/wp-content/uploads/2016/01/learning-web-design-300h.jpg" width="200px" alt="book cover photo">
-To be successful in this class, the student must have access to the textbook:<a href="http://amzn.to/1MZOXvi">Learning Web Design: A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics</a> 
+<img style="float: right; margin: 20px;" src="https://carawaysclass.com/wp-content/uploads/2017/07/murach.jpg"" width="200px" alt="book cover photo">
+To be successful in this class, the student must have access to the textbook:<a href="http://amzn.to/2tNpTHX">Murach's HTML5 and CSS3</a>. 
 
-4th Ed. 
-by Jennifer Niederst Robbins
-O’Reilly, 2012
-ISBN: 978-1449319274
+3rd Ed. 
+by Anne Boehm and Zak Ruvalcaba
+Murach, 2015
+ISBN: 978-1890774837
 
-The book may be purchased (and even rented) from <a href="http://amzn.to/1MZOXvi" target="_blank">amazon.com</a> or other retail booksellers.
+The book may be purchased (and even rented) from <a href="http://amzn.to/2tNpTHX" target="_blank">amazon.com</a> or other retail booksellers.
 
 
 ## Instructor Guidelines and Policies 
 
 ### Communication
-Outside of the classroom, we will use <a href="https://itse1311-sum17.slack.com" target="_blank">slack.com</a> for most student-to-professor and student-to-student communication.  Slack is an online communication tool that allows team members or students in a class to stay in contact with each other.  Using Slack, you can hold a direct conversation with your instructor, share an idea with one of your classmates, or enter into a discussion with a group of your classmates.
+Outside of the classroom, we will use <a href="https://itse1311-fall17.slack.com" target="_blank">slack.com</a> for most student-to-professor and student-to-student communication.  Slack is an online communication tool that allows team members or students in a class to stay in contact with each other.  Using Slack, you can hold a direct conversation with your instructor, share an idea with one of your classmates, or enter into a discussion with a group of your classmates.
 
 
 ### Emailing Your Instructor
@@ -143,7 +142,7 @@ If you have any issues in our classroom, the course content or with me, I would 
 If you have not attended class for Face-to-Face sections or if you have not logged into D2L for Online sections by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
 
 ### Withdrawal Policy
-Withdrawal from the course after the Official Day of Record and prior to “W” Day (Thursday June 29th, 2017) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the online class, you must withdraw at the registration office prior to “W” day.
+Withdrawal from the course after the Official Day of Record and prior to “W” Day (Monday November 13th, 2017) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the online class, you must withdraw at the registration office prior to “W” day.
 
 _If you stop attending class and do not officially withdraw, you **will receive an “F”** for the course._
 
