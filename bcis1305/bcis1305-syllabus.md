@@ -1,4 +1,4 @@
-# SYLLABUS: ITSE 1311 - Beginning Web Programming 
+# SYLLABUS: BCIS 1305 - Business Computer Applications 
 
 ## Instructor Contact Information
 **Name:** Bruce Caraway
@@ -6,10 +6,10 @@
 **Office:** UP NRB Bldg, Room 209P
 **Email:** <a href = "mailto:bruce.caraway@lonestar.edu">bruce.caraway@lonestar.edu</a>
 **Website:** <a href = "https://carawaysclass.com">carawaysclass.com</a>
-**Slack Team Site:** <a href="https://itse1311-fall17.slack.com" target="_blank">slack.com/itse1311-fall17</a>
+**Slack Team Site:** <a href="https://bcis1305-fall17.slack.com" target="_blank">slack.com/bcis1305-fall17</a>
 ## Course Info
-**Course Number:** ITSE 1311  
-**Course Title:** Beginning Web Programming  
+**Course Number:** BCIS 1305  
+**Course Title:** Business Computer Applications  
 **Term and Year:** Fall 2017
 **Course Section(s):** 6001/2 and 6003/4
 **Class Days & Times:** ONLINE  
@@ -30,57 +30,65 @@ This course is designed to equip you, the student, with the fundamental programm
 * For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
 * For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
 * Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with D2L or your student email.
-* _Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**_.
+* Call the McGraw-Hill support line (<a href="tel:800-331-5094">800-331-5094</a>) for issues with **SIMnet**. Be sure to get a case number when you contact them.
+**SIMnet** is the online service that you will use to complete a majority of the Skills-based assignments of our class.  
+* Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
 * Please use my office hours (see location and hours above) should you have a question or any issue that you need to discuss outside of class.
+* _Even though most of our class assignments can be completed on a Mac, **there may be specific SIMnet assignments that require the Windows (PC) version of Office 2016**_. If you do not have Office 2016 (for Windows) at home, you may use the general use PCs at any LSC campus.
 
 ## Student Learning Outcomes  
 
-Generally, students completing this course will:  
+Generally, students completing this course will be to:
 
-* Demonstrate the use of markup and scripting languages.
-* Create interactive web pages.
+1. Describe the fundamentals of Information Technology (IT) infrastructure components: hardware, software, and data communications systems.  
+2. Explain the guiding principles of professional behavior in computing.  
+3. Demonstrate proper file management techniques to manipulate electronic files and folders in a local and networked environment.  
+4. Use business productivity software to manipulate data and find solutions to business problems.  
+5. Explain the concepts and terminology used in the operation of application systems in a business environment.  
+6. Identify emerging technologies for use in business applications.  
+7. Complete projects that integrate business software applications.  
 
 ## Prerequisites  
 None.
-
 ## Required Materials
+To be successful in this class, the student must:  
 
-<img style="float: right; margin: 20px;" src="https://carawaysclass.com/wp-content/uploads/2017/07/murach.jpg"" width="200px" alt="book cover photo">
-To be successful in this class, the student must have access to the textbook:<a href="http://amzn.to/2tNpTHX">Murach's HTML5 and CSS3</a>. 
-
-3rd Ed. 
-by Anne Boehm and Zak Ruvalcaba
-Murach, 2015
-ISBN: 978-1890774837
-
-The book may be purchased (and even rented) from <a href="http://amzn.to/2tNpTHX" target="_blank">amazon.com</a> or other retail booksellers.
-
+* Have access to a Windows PC with Microsoft Office 2016 installed\n _*OR*_ access to a Mac with Microsoft 2016 installed.  As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>.   
+* Register for access to the McGraw-Hill Connect & SIMnet environments.  The course eText and ISBN that we will be using is: 
+        O'LEARY | LSC LONE STAR COLLEGE CONNECT AC CMPTG ESS 2017 | SIMNET OFF 2016 
+2016 © McGraw-Hill, Inc. 
+ISBN: 978-1260076219 
 
 ## Instructor Guidelines and Policies 
 
 ### Communication
-Outside of the classroom, we will use <a href="https://itse1311-fall17.slack.com" target="_blank">slack.com</a> for most student-to-professor and student-to-student communication.  Slack is an online communication tool that allows team members or students in a class to stay in contact with each other.  Using Slack, you can hold a direct conversation with your instructor, share an idea with one of your classmates, or enter into a discussion with a group of your classmates.
+We will use <a href="https://bcis1305-fall17.slack.com" target="_blank">slack.com</a> for most student-to-professor and student-to-student communication.  Slack is an online communication tool that allows team members or students in a class to stay in contact with each other.  
+
+Using Slack, you can hold a direct conversation with your instructor, share an idea with one of your classmates, or enter into a discussion with a group of your classmates.
 
 
 ### Emailing Your Instructor
 In some instances you may wish to email your instructor.  If you do choose to use email, be sure to include your name, course name, and course number in the email.   Keep the body of your message brief, and to-the-point.  Here is an example of a good email:
 
 <blockquote>
+
 Professor Caraway:
 
-I am Angela Ford from your ITSE 1311 (Beginning Web Programming) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
+I am Angela Ford from your BCIS 1305 (Business Computer Apps) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
 
 Angela Ford
+
 </blockquote>
 
 ### Office Visits
 Please feel free to drop by my office for help during my office hours (listed at the top of this document) but it is best to let me know you are coming as I may have meetings or other appointments already scheduled.  I am available by appointment if you cannot visit during office hours.  Contact me via slack.com or email to coordinate a convenient time for both of us.
 
 ### Attendance
-Your attendance is expected each class day.  Roll will be taken within the first 5 minutes of class.  You are considered tardy if you are not there when roll is taken but arrive in the first 15 minutes of class. If you arrive after the 20 minute mark you will be marked absent.  **10% of your overall grade is based on your attendance**.
+We do not formally meet so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in online Slack discussion or chat session.  It is your responsibility to keep up with the material and check the class D2L page regularly for updates, assignment due dates, and potential schedule changes.
 
-Should you anticipate that you will not be able to log on and participate in class for an extended period, please notify me in advance by email:  bruce.e.caraway@lonestar.edu.  Not logging in to the online class at a regular interval will significantly impact your chance for success.  
+Should you anticipate that you will not be able to log on and participate in class for an extended period (72 hours), please notify me in advance.  Not logging in to the online class at a regular interval will significantly impact your chance for success.   **I reserve the right to drop a student if they are not active in the course and do not respond to my email during a 7 day period.**
+ 
  
 ### Class Participation
 The college classroom is a place for adult men and women to meet with a common purpose of improving their intellectual and academic skills.  This applies to both face-to-face and online classes.  When engaging your instructor and fellow students, you will be expected to treat everyone with respect and in a professional manner.  The use of profanity, derogatory terms, and threats in any class-related forum will not be tolerated.  If a student violates this rule, they will be asked to leave the classroom (in a face-to-face section) or their access to the class will be blocked (in an online section).  
@@ -98,12 +106,14 @@ Assignments are due according to the schedule posted in slack.com (and D2L).  St
 Evaluation will be based on the following grade components:
 
 | Grade Type | Points |
-| ---------- | :------: |
-| Quizzes | 150 |
-| Labs | 250 |
-| Programming Challenges | 250 |
-| Final | 250 |
-| Attendance | 100 |
+| :---------: | :------: |
+| Quizzes (10%) | 100 |
+| SIMBook Readings (10%) | 100 |
+| SIMnet Projects (30%) | 300 |
+| Labs (20%) | 200 |
+| Capstone Projects (20%) | 200 |
+| Integrated Project (5%) | 50 |
+| Final Exam (5%) | 50 |
 | **TOTAL POINTS** | **1000** |
 
 
@@ -117,25 +127,31 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 | 600-699 | D |
 | 0-599 | F |
 
-
-### Final Exam 
-Our Final Exam will be administered on our last day of class, July 11.  If you have other final exams or questions about the exam schedule, please see the LSC published <a href="http://www.lonestar.edu/examschedule.htm" target="_blank">Final Exam Schedule</a>.
-
 ## Tentative Course Outline 
 | Week | Topics | Assignments |
-| :---: | ---------- | ------ |
-| 1<br><br><br> | How the Web Works<br>Web Concepts<br>Creating a Simple Page<br> |  Syllabus Quiz<br>Lab 1<br>Quiz 1<br>Programming Challenge 1 |  
-| 2<br><br><br> | HTML Markup<br>Links<br>Images<br>Tables | Lab 2<br>Quiz 2<br>Programming Challenge 2 <br>|
-| 3<br><br><br> |  Forms<br>Cascading Style Sheets<br>Colors and Backgrounds | Lab 3<br>Quiz 3<br>Programming Challenge 3 <br>|
-| 4<br><br><br> | Box Model<br>Floating and Positioning<br>Page Layout | Lab 4<br>Quiz 4<br>Programming Challenge 4 <br>|
-| 5<br><br><br> | Transitions and Transforms<br>CSS Techniques<br>Colors and Backgrounds | Lab 5<br>Quiz 5<br>Programming Challenge 5<br> |
-| 6 | Semester Project | Final Exam |
+| :---: | -------- | ------ |
+| 1<br><br><br><br><br><br> | Class Introduction<br>SIMnet Registration<br>slack.com Registration<br>Word Ch. 1<br><br><br> | MS Office Ch. 1 (SIMBook reading)<br>Word Ch. 1 (SIMBook reading and SIMnet project)<br>slack.com introduction post<br>Syllabus Quiz |  
+| 2<br><br><br><br><br> | Word Ch. 2<br>Word Ch. 3<br><br><br><br> | Word Ch. 2 (SimBook reading and SIMnet project)<br>Word Ch. 3 (SimBook reading and SIMnet project)<br>Word Processors Quiz |  
+| 3<br><br><br> |  Word Ch. 4<br>File Management<br><br> | Word Ch. 4 (SimBook reading and SIMnet project)<br>File management lab<br>Word capstone project<br>File Management Quiz |  
+| 4<br><br><br> | Computing Essentials Ch. 5 System Unit<br>Computing Essentials<br>Ch. 6 Input/Output | System Unit lab<br>Input/Output lab<br>Hardware Quiz <br>|
+| 5<br><br><br> | Excel Ch. 1<br>Excel Ch. 2<br>LinkedIn.com | Excel Ch. 1 (SimBook reading and SIMnet project)<br>Excel Ch. 2 (SimBook reading and SIMnet project)<br>LinkedIn profile lab |
+| 6 | Excel Ch. 3<br>Excel Ch. 4<br>Screencasting | Excel Ch. 3 (SimBook reading and SIMnet project)<br>Excel Ch. 4 (SimBook reading and SIMnet project)<br>Screencasting lab<br>Spreadsheets Quiz |
+| 7 |  | Excel capstone project |
+| 8 | Computing Essentials Ch. 9 Privacy, Ethics, & Security | Security lab<br><br>Privacy, Ethics, and Security Quiz |
+| 9 | Computing Essentials Ch. 3 System Software<br>Computing Essentials Ch. 4 <br>Application Software | System Software lab<br>Application Software lab<br><br>Software Quiz |
+| 10 | PowerPoint Ch. 1<br>PowerPoint Ch. 2 | PowerPoint Ch. 1 (SimBook reading and SIMnet project)<br>PowerPoint Ch. 2 (SimBook reading and SIMnet project) |
+| 11 | PowerPoint Ch. 3 | PowerPoint Ch. 3 (SimBook reading and SIMnet project)<br>PowerPoint capstone project<br>Presentation Software Quiz |
+| 12 | Emerging Technology | Emerging Tech 1 lab<br>Emerging Tech 2 lab<br>Emerging Tech Quiz |
+| 13 | Databases<br>Programming | Databases (SIMnet project)<br>Programming lab<br>Databases Quiz |
+| 14 | Databases | Databases capstone |
+| 15 |  | Integrated Project |
+| 16 | FINALS | Final Exam |
 
 
 ### Department/Division Contact
 If you have any issues in our classroom, the course content or with me, I would ask that you first address the issue directly with me.  If you feel that the issue remains unresolved even after speaking with me, you may contact the following individuals to whom I report.
 
-* Department Chair: Gina Sprowl | <a href="tel:281-290-3755">281-290-3755</a> | <a href="mailto:gina.m.sprowl@lonestar.edu">gina.m.sprowl@lonestar.edu</a>
+* Department Chair: Gary Tucker | <a href="tel:281-290-2957">281-290-2957</a> | <a href="mailto:gary.d.tucker@lonestar.edu">gary.d.tucker@lonestar.edu</a>
 * Dean: Steven Kahla | <a href="tel:281-655-3788">281-655-3788</a> | <a href="mailto:steven.c.kahla@lonestar.edu">steven.c.kahla@lonestar.edu</a>
 
 ### Non Attendance at Start of Semester
