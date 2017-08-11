@@ -22,7 +22,7 @@ TBD
 or by appointment
 
 ## Course Description  
-This course is designed to equip you, the student, with the fundamental programming skills necessary to build HTML-based web pages.  Generally (and per the course catalog), this course will develop skills used in web programming including mark-up and scripting languages.
+In this course, students will study computer terminology, hardware, and software related to the business environment. The focus of this course is on business productivity software applications and professional behavior in computing, including word processing (as needed), spreadsheets, databases, presentation graphics, and business-oriented utilization of the Internet. 
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
@@ -56,9 +56,8 @@ To be successful in this class, the student must:
 
 * Have access to a Windows PC with Microsoft Office 2016 installed\n _*OR*_ access to a Mac with Microsoft 2016 installed.  As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>.   
 * Register for access to the McGraw-Hill Connect & SIMnet environments.  The course eText and ISBN that we will be using is: 
-        O'LEARY | LSC LONE STAR COLLEGE CONNECT AC CMPTG ESS 2017 | SIMNET OFF 2016 
-2016 © McGraw-Hill, Inc. 
-ISBN: 978-1260076219 
+        O'LEARY | LSC LONE STAR COLLEGE CONNECT AC CMPTG ESS 2017 | SIMNET OFF 2016  © McGraw-Hill, Inc. 
+        ISBN: 978-1260076219 
 
 ## Instructor Guidelines and Policies 
 

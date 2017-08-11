@@ -11,7 +11,7 @@
 **Course Number:** ITSE 1311  
 **Course Title:** Beginning Web Programming  
 **Term and Year:** Fall 2017
-**Course Section(s):** 6001/2 and 6003/4
+**Course Section(s):** 6001/2
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
@@ -60,27 +60,31 @@ The book may be purchased (and even rented) from <a href="http://amzn.to/2tNpTHX
 ## Instructor Guidelines and Policies 
 
 ### Communication
-Outside of the classroom, we will use <a href="https://itse1311-fall17.slack.com" target="_blank">slack.com</a> for most student-to-professor and student-to-student communication.  Slack is an online communication tool that allows team members or students in a class to stay in contact with each other.  Using Slack, you can hold a direct conversation with your instructor, share an idea with one of your classmates, or enter into a discussion with a group of your classmates.
+Outside of the classroom, we will use <a href="https://itse1311-fall17.slack.com" target="_blank">slack.com</a> for most student-to-professor and student-to-student communication.  Slack is an online communication tool that allows team members or students in a class to stay in contact with each other.  
+
+Using Slack, you can hold a direct conversation with your instructor, share an idea with one of your classmates, or enter into a discussion with a group of your classmates.
 
 
 ### Emailing Your Instructor
 In some instances you may wish to email your instructor.  If you do choose to use email, be sure to include your name, course name, and course number in the email.   Keep the body of your message brief, and to-the-point.  Here is an example of a good email:
 
 <blockquote>
+
 Professor Caraway:
 
 I am Angela Ford from your ITSE 1311 (Beginning Web Programming) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
 
 Angela Ford
+
 </blockquote>
 
 ### Office Visits
 Please feel free to drop by my office for help during my office hours (listed at the top of this document) but it is best to let me know you are coming as I may have meetings or other appointments already scheduled.  I am available by appointment if you cannot visit during office hours.  Contact me via slack.com or email to coordinate a convenient time for both of us.
 
 ### Attendance
-Your attendance is expected each class day.  Roll will be taken within the first 5 minutes of class.  You are considered tardy if you are not there when roll is taken but arrive in the first 15 minutes of class. If you arrive after the 20 minute mark you will be marked absent.  **10% of your overall grade is based on your attendance**.
+We do not formally meet so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in online Slack discussion or chat session.  It is your responsibility to keep up with the material and check the class D2L page regularly for updates, assignment due dates, and potential schedule changes.
 
-Should you anticipate that you will not be able to log on and participate in class for an extended period, please notify me in advance by email:  bruce.e.caraway@lonestar.edu.  Not logging in to the online class at a regular interval will significantly impact your chance for success.  
+Should you anticipate that you will not be able to log on and participate in class for an extended period (72 hours), please notify me in advance.  Not logging in to the online class at a regular interval will significantly impact your chance for success.   **I reserve the right to drop a student if they are not active in the course and do not respond to my email during a 7 day period.**  
  
 ### Class Participation
 The college classroom is a place for adult men and women to meet with a common purpose of improving their intellectual and academic skills.  This applies to both face-to-face and online classes.  When engaging your instructor and fellow students, you will be expected to treat everyone with respect and in a professional manner.  The use of profanity, derogatory terms, and threats in any class-related forum will not be tolerated.  If a student violates this rule, they will be asked to leave the classroom (in a face-to-face section) or their access to the class will be blocked (in an online section).  
@@ -103,7 +107,6 @@ Evaluation will be based on the following grade components:
 | Labs | 250 |
 | Programming Challenges | 250 |
 | Final | 250 |
-| Attendance | 100 |
 | **TOTAL POINTS** | **1000** |
 
 
@@ -117,7 +120,7 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 | 600-699 | D |
 | 0-599 | F |
 
-
+ onom
 ### Final Exam 
 Our Final Exam will be administered on our last day of class, July 11.  If you have other final exams or questions about the exam schedule, please see the LSC published <a href="http://www.lonestar.edu/examschedule.htm" target="_blank">Final Exam Schedule</a>.
 
