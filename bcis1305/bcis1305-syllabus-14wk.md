@@ -10,8 +10,7 @@
 **Course Number:** BCIS 1305  
 **Course Title:** Business Computer Applications  
 **Term and Year:** Fall 2017
-**Course Dates:** August 28 - December 14, 2017
-**Course Section(s):** 6001/2 and 6003/4
+**Course Section(s):** 6005/6
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
@@ -112,10 +111,10 @@ Evaluation will be based on the following grade components:
 | Quizzes (10%) | 100 |
 | SIMBook Readings (10%) | 100 |
 | SIMnet Projects (30%) | 300 |
-| Labs (16%) | 160 |
+| Labs (20%) | 200 |
 | Capstone Projects (20%) | 200 |
-| Integrated Project (7%) | 70 |
-| Final Exam (7%) | 70 |
+| Integrated Project (5%) | 50 |
+| Final Exam (5%) | 50 |
 | **TOTAL POINTS** | **1000** |
 
 
@@ -133,8 +132,8 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 | Week | Topics | Assignments |
 | :---: | -------- | ------ |
 | 1<br><br><br><br> | Class Introduction<br>SIMnet Registration<br>Slack.com Registration<br>Concepts:  Hardware<br> | Slack.com introduction post<br>Syllabus quiz<br>Hardware quiz<br><br> |  
-| 2<br><br><br><br> | Concepts: Software<br>Concepts: The Internet<br>Concepts: File Management<br>Skills: Screencasting | Software quiz<br> File Management lab<br>File Management quiz<br>Screencasting lab<br>|  
-| 3<br><br><br> |  Skills: Word Ch. 1<br>Skills: Word Ch. 2<br><br><br><br> | MS Office Ch. 1 (SIMBook reading)<br>Word Ch. 1 (SIMBook reading and SIMnet project)<br>Word Ch. 2 (SimBook reading and SIMnet project)<br> |  
+| 2<br><br><br><br> | Concepts: Software<br>Concepts: The Internet<br>Concepts: File Management<br>Skills: Screencasting | File Management lab<br>File Management quiz<br>Screencasting lab<br>Software quiz<br> |  
+| 3<br><br><br> |  Skills: Word Ch. 1<br>Skills: Word Ch. 2<br><br> | MS Office Ch. 1 (SIMBook reading)<br>Word Ch. 1 (SIMBook reading and SIMnet project)<br>Word Ch. 2 (SimBook reading and SIMnet project)<br> |  
 | 4<br><br><br><br><br><br> | Skills: Word Ch. 3<br>Skills: Word Ch. 4<br><br><br><br><br> | Word Ch. 3 (SimBook reading and SIMnet project)<br>Word Ch. 4 (SimBook reading and SIMnet project)<br>Word Processors quiz <br>Word Capstone project|
 | 5<br><br><br> | Concepts: LinkedIn.com<br>Skills: PowerPoint Ch. 1<br><br>| LinkedIn Profile lab<br>PowerPoint Ch. 1 (SimBook reading and SIMnet project)<br> |
 | 6<br><br><br><br><br><br> | Skills: PowerPoint Ch. 2 <br>Skills: PowerPoint Ch. 3<br><br><br><br><br> | PowerPoint Ch. 2 (SimBook reading and SIMnet project)<br>PowerPoint Ch. 3 (SimBook reading and SIMnet project)<br>Presentation Software quiz<br>PowerPoint Capstone project |
