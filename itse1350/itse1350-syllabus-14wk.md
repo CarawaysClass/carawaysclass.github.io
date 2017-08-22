@@ -1,4 +1,4 @@
-# SYLLABUS: BCIS 1305 - Business Computer Applications 
+# SYLLABUS: ITSE 1350 - Systems Analysis and Design
 
 ## Instructor Contact Information
 **Name:** Bruce Caraway
@@ -7,8 +7,8 @@
 **Email:** <a href = "mailto:bruce.caraway@lonestar.edu">bruce.caraway@lonestar.edu</a>
 **Website:** <a href = "https://carawaysclass.com">carawaysclass.com</a>
 ## Course Info
-**Course Number:** BCIS 1305  
-**Course Title:** Business Computer Applications  
+**Course Number:** BCIS 1350  
+**Course Title:** Systems Analysis and Design  
 **Term and Year:** Fall 2017
 **Course Dates:** September 11 - December 14, 2017
 **Course Section(s):** 6005/6
@@ -21,7 +21,7 @@ Campus Map:  <a href="http://www.lonestar.edu/maps-universitypark.htm" target="_
 TBD or by appointment
 
 ## Course Description  
-In this course, students will study computer terminology, hardware, and software related to the business environment. The focus of this course is on business productivity software applications and professional behavior in computing, including word processing (as needed), spreadsheets, databases, presentation graphics, and business-oriented utilization of the Internet. 
+Comprehensive introduction to the planning, design, and construction of computer information systems using the systems development life cycle and other appropriate design tools. 
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
@@ -29,39 +29,37 @@ In this course, students will study computer terminology, hardware, and software
 * For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
 * For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
 * Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with D2L or your student email.
-* Call the McGraw-Hill support line (<a href="tel:800-331-5094">800-331-5094</a>) for issues with **SIMnet**. Be sure to get a case number when you contact them.
-**SIMnet** is the online service that you will use to complete a majority of the Skills-based assignments of our class.  
 * Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
 * Please use my office hours (see location and hours above) should you have a question or any issue that you need to discuss outside of class.
-* _Even though most of our class assignments can be completed on a Mac, **there may be specific SIMnet assignments that require the Windows (PC) version of Office 2016**_. If you do not have Office 2016 (for Windows) at home, you may use the general use PCs at any LSC campus.
 
 ## Student Learning Outcomes  
 
 Generally, students completing this course will be to:
 
-1. Describe the fundamentals of Information Technology (IT) infrastructure components: hardware, software, and data communications systems.  
-2. Explain the guiding principles of professional behavior in computing.  
-3. Demonstrate proper file management techniques to manipulate electronic files and folders in a local and networked environment.  
-4. Use business productivity software to manipulate data and find solutions to business problems.  
-5. Explain the concepts and terminology used in the operation of application systems in a business environment.  
-6. Identify emerging technologies for use in business applications.  
-7. Complete projects that integrate business software applications.  
+1. Compare and contrast project management tools.
+2. Develop a prototype.
+3. Develop documentation for the system life cycle.
+4. Identify phases of the system design life cycle.
+5. Use system design tools.  
 
 ## Prerequisites  
-None.  
+
+* College Level Readiness in Reading AND Writing, ITSE 1302 and one programming language.   
+* MATH 0308.  
+
 ## Required Materials  
 To be successful in this class, the student must:  
-
-* Have access to a Windows PC with Microsoft Office 2016 installed
- _*OR*_ 
- access to a Mac with Microsoft 2016 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
-* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: 
->O'LEARY 
->LSC LONE STAR COLLEGE CONNECT AC CMPTG ESS 2017 
->SIMNET OFF 2016  © McGraw-Hill, Inc. 
->ISBN: 978-1260076219 
->**NOTE**:  I will provide further purchasing information once our class starts.  There are considerably less expensive purchasing options than the campus bookstore so please wait until after the first day of class before purchasing your SIMnet access code.
+<a href="http://amzn.to/2sR4NXZ"><img src="rosenblatt-cover.png" style="float:right;"></a>
+* Have Internet access.
+* Have access to our textbook (digital or physical): 
+>Systems Analysis and Design, 11th ed. 
+>Tilley | Rosenblatt 
+>© Cengage, 2016 
+>ISBN: 978-1305494602 
+>**NOTE**:  You can purchase or rent the book from the campus
+> bookstore or, if you prefer, you can [purchase or rent from Amazon](http://amzn.to/2sR4NXZ) 
+>for a reduced price.
 
 ## Instructor Guidelines and Policies 
 
@@ -78,7 +76,7 @@ In some instances you may wish to email your instructor.  If you do choose to us
 
 > Professor Caraway:
 
->I am Angela Ford from your BCIS 1305 (Business Computer Apps) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
+>I am Angela Ford from your ITSE 1350 (Systems Analysis and Design) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
 
 >Angela Ford
 
