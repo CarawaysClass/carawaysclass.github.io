@@ -143,8 +143,8 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 | 9<br><br><br><br><br> | Skills: Excel Ch. 3<br>Skills: Excel Ch. 4<br><br><br><br> | Excel Ch. 3 (SimBook reading and SIMnet project)<br>Excel Ch. 4 (SimBook reading and SIMnet project)<br>Spreadsheets quiz |
 | 10<br><br> | Skills: Maintaining your LinkedIn profile | Excel Capstone project<br>LinkedIn Follow-up lab |
 | 11<br><br><br> | Emerging Technology<br><br><br> | Input/Output lab<br>Emerging Tech lab<br>Emerging Tech quiz |
-| 12 | Skills: Programming | Programming lab<br>Databases Quiz |
-| 13 | Skills: Databases | Databases capstone |
+| 12 | Skills: Programming | Programming lab |
+| 13 | Skills: Databases | Databases Quiz<br>Databases capstone |
 | 14 |  | Integrated Project |
 | 15 |  | Integrated Project |
 | 16 | FINALS | Final Exam |
