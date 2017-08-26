@@ -1,4 +1,4 @@
-# SYLLABUS: ITSE 1350 - Systems Analysis and Design
+# SYLLABUS: ITSE 1304 - Intro to Spreadsheets
 
 ## Instructor Contact Information
 **Name:** Bruce Caraway
@@ -7,10 +7,10 @@
 **Email:** <a href = "mailto:bruce.caraway@lonestar.edu">bruce.caraway@lonestar.edu</a>
 **Website:** <a href = "https://carawaysclass.com">carawaysclass.com</a>
 ## Course Info
-**Course Number:** BCIS 1350  
-**Course Title:** Systems Analysis and Design  
+**Course Number:** ITSW 1304  
+**Course Title:** Intro to Spreadsheets  
 **Term and Year:** Fall 2017
-**Course Dates:** September 11 - December 14, 2017
+**Course Dates:** October 23 - December 14, 2017
 **Course Section(s):** 6003/4
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
@@ -21,7 +21,7 @@ Campus Map:  <a href="http://www.lonestar.edu/maps-universitypark.htm" target="_
 TBD or by appointment
 
 ## Course Description  
-Comprehensive introduction to the planning, design, and construction of computer information systems using the systems development life cycle and other appropriate design tools. 
+In this course, students will learn about the concepts, procedures, and application of electronic spreadsheets and, more specifically, this course introduces the topic of spreadsheet software using Microsoft Excel.  We will look at how spreadsheets can be used to perform calculations, organize data, communicate quantitative information, make financial decisions, share data, and more.  Knowing how to use  spreadsheet software like Excel is a key skill required in just about any business setting. 
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
@@ -37,23 +37,22 @@ Comprehensive introduction to the planning, design, and construction of computer
 
 Generally, students completing this course will be to:
 
-1. Compare and contrast project management tools.
-2. Develop a prototype.
-3. Develop documentation for the system life cycle.
-4. Identify phases of the system design life cycle.
-5. Use system design tools.  
+1. Create formulas and functions.
+2. Define spreadsheet terminology and concepts.
+3. Generate charts, graphs, and reports.
+4. Use Formatting Features.  
 
 ## Prerequisites  
 
-* College Level Readiness in Reading AND Writing, ITSE 1302 and one programming language.   
-* MATH 0308.  
+* ITSC 1301 or COSC 1301.  
 
 ## Required Materials  
 To be successful in this class, the student must:  
 
 * Have Internet access.
-* Have access to our textbook (digital or physical). 
->**NOTE**:  I am still working with our publisher to determine the exact ISBN required for our course.  I will update this section once I have this information.
+* Access to a Windows PC with Microsoft Excel 2016 installed 
+OR access to a Mac with Microsoft Excel 2016 installed.  As an LSC student you get Office for free. 
+* Access to SIMnet (your instructor will provide you with an access code).
 
 ## Instructor Guidelines and Policies 
 
@@ -70,7 +69,7 @@ In some instances you may wish to email your instructor.  If you do choose to us
 
 > Professor Caraway:
 
->I am Angela Ford from your ITSE 1350 (Systems Analysis and Design) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
+>I am Angela Ford from your ITSW 1304 (Intro to Spreadsheets) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
 
 >Angela Ford
 
@@ -100,10 +99,10 @@ Evaluation will be based on the following grade components:
 
 | Grade Type | Points |
 | :---------: | :------: |
-| Quizzes (20%) | 200 |
-| Projects (40%) | 400 |
-| Semester Project (20%) | 200 |
-| Final Exam (20%) | 200 |
+| SIMBook Readings (10%) | 100 |
+| SIMpaths (10%) | 100 |
+| Projects (60%) | 600 |
+| Capstone Projects (20%) | 200 |
 | **TOTAL POINTS** | **1000** |
 
 
@@ -119,24 +118,18 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 
 ## Tentative Course Outline 
 
-This will be updated with more detail the week before class starts on 9/11. 
+This will be updated with more detail the week before class starts on October 23rd. 
 
 | Week | Topics | 
 | :---: | -------- | 
-| 1 | Chapter 1 |
-| 2 | Chapter 2 |
-| 3 | Chapter 3 |
-| 4 | Chapter 4 |
-| 5 | Chapter 5 |
-| 6 | Chapter 6 |
-| 7 | Chapter 7 |
-| 8 | Chapter 8 |
-| 9 | Chapter 9 |
-| 10 | Chapter 10 |
-| 11 | Chapter 11 |
-| 12 | Chapter 12 |
-| 13 | Semester Project |
-| 14 | FINALS | 
+| 1 | SIMnet, Windows 10, MS Office, and Excel Docs |
+| 2 | Working with Formulas and Functions |
+| 3 | Creating and Editing Charts Formatting, Organizing, and Getting Data |
+| 4 | Consolidating, Linking, and Inserting Objects Exploring the Function Library |
+| 5 | Capstone 1 |
+| 6 | Working with Templates and Sharing Work |
+| 7 | Exploring Data Analysis and Business Intelligence, Recording and Editing Macros |
+| 8 | FINALS - Capstone 2 | 
 
 
 ### Department/Division Contact

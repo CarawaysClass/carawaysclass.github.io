@@ -133,16 +133,16 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 | :---: | -------- | ------ |
 | 1<br><br><br><br> | Class Introduction<br>SIMnet Registration<br>Slack.com Registration<br>Concepts:  Hardware<br> | Slack.com introduction post<br>Syllabus quiz<br>Hardware quiz<br><br> |  
 | 2<br><br><br><br> | Concepts: Software<br>Concepts: The Internet<br>Concepts: File Management<br>Skills: Screencasting | Software quiz<br> File Management lab<br>File Management quiz<br>Screencasting lab<br>|  
-| 3<br><br><br><br> |  Skills: Word Ch. 1<br>Skills: Word Ch. 2<br>Skills: Word Ch. 3<br><br> | MS Office Ch. 1 (SIMBook reading)<br>Word Ch. 1 (SIMBook reading and SIMnet project)<br>Word Ch. 2 (SimBook reading and SIMnet project)<br>Word Ch. 3 (SimBook reading and SIMnet project) <br>|  
-| 4<br><br><br> | Skills: Word Ch. 4<br><br><br> | Word Ch. 4 (SimBook reading and SIMnet project)<br>Word Processors quiz <br>Word Capstone project<br>|
-| 5<br><br><br> | Concepts: LinkedIn.com<br>Skills: PowerPoint Ch. 1<br>Skills: PowerPoint Ch. 2 <br><br>| LinkedIn Profile lab<br>PowerPoint Ch. 1 (SimBook reading and SIMnet project)<br>PowerPoint Ch. 2 (SimBook reading and SIMnet project)<br> |
-| 6<br><br><br><br>| Skills: PowerPoint Ch. 3<br><br><br><br> | PowerPoint Ch. 3 (SimBook reading and SIMnet project)<br>Presentation Software quiz<br>PowerPoint Capstone project |
+| 3<br><br><br> |  Skills: Word Ch. 1<br>Skills: Word Ch. 2<br><br><br><br> | MS Office Ch. 1 (SIMBook reading)<br>Word Ch. 1 (SIMBook reading and SIMnet project)<br>Word Ch. 2 (SimBook reading and SIMnet project)<br> |  
+| 4<br><br><br><br><br><br> | Skills: Word Ch. 3<br>Skills: Word Ch. 4<br><br><br><br><br> | Word Ch. 3 (SimBook reading and SIMnet project)<br>Word Ch. 4 (SimBook reading and SIMnet project)<br>Word Processors quiz <br>Word Capstone project|
+| 5<br><br><br> | Concepts: LinkedIn.com<br>Skills: PowerPoint Ch. 1<br><br>| LinkedIn Profile lab<br>PowerPoint Ch. 1 (SimBook reading and SIMnet project)<br> |
+| 6<br><br><br><br><br><br> | Skills: PowerPoint Ch. 2 <br>Skills: PowerPoint Ch. 3<br><br><br><br><br> | PowerPoint Ch. 2 (SimBook reading and SIMnet project)<br>PowerPoint Ch. 3 (SimBook reading and SIMnet project)<br>Presentation Software quiz<br>PowerPoint Capstone project |
 | 7<br><br><br> | Concepts: Privacy, Ethics, & Security<br>Skills: Excel Ch. 1<br>Skills: Excel Ch. 2<br><br> | Security lab<br>Privacy, Ethics, and Security Quiz<br>Excel Ch. 1 (SimBook reading and SIMnet project)<br>Excel Ch. 2 (SimBook reading and SIMnet project) |
 | 8<br><br><br> | Skills: Excel Ch. 3<br>Skills: Excel Ch. 4<br><br> | Excel Ch. 3 (SimBook reading and SIMnet project)<br>Excel Ch. 4 (SimBook reading and SIMnet project)<br>Spreadsheets quiz |
 | 9<br> | Skills: Maintaining your LinkedIn profile <br>| Excel Capstone project<br>LinkedIn Follow-up lab |
 | 10<br><br><br> | Emerging Technology<br><br><br> | Input/Output lab<br>Emerging Tech lab<br>Emerging Tech quiz |
-| 11 | Skills: Programming | Programming lab<br>Databases Quiz |
-| 12 | Skills: Databases | Databases capstone<br>Integrated Project |
+| 11 | Skills: Programming | Programming lab<br>|
+| 12 | Skills: Databases | Databases Quiz<br>Databases capstone<br>Integrated Project |
 | 13 |  | Integrated Project |
 | 14 | FINALS | Final Exam |
 
@@ -150,7 +150,7 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 ### Department/Division Contact
 If you have any issues in our classroom, the course content or with me, I would ask that you first address the issue directly with me.  If you feel that the issue remains unresolved even after speaking with me, you may contact the following individuals to whom I report.
 
-* Department Chair: Gary Tucker | <a href="tel:281-290-2757">281-290-2757</a> | <a href="mailto:gary.d.tucker@lonestar.edu">gary.d.tucker@lonestar.edu</a>
+* Department Chair: Gary Tucker | <a href="tel:281-290-2957">281-290-2957</a> | <a href="mailto:gary.d.tucker@lonestar.edu">gary.d.tucker@lonestar.edu</a>
 * Dean: Steven Kahla | <a href="tel:281-655-3788">281-655-3788</a> | <a href="mailto:steven.c.kahla@lonestar.edu">steven.c.kahla@lonestar.edu</a>
 
 ### Non Attendance at Start of Semester
