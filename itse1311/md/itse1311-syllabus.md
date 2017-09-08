@@ -36,7 +36,7 @@ This course is designed to equip you, the student, with the fundamental programm
 
 ## Student Learning Outcomes  
 
-Generally, students completing this course will:  
+Generally, students completing this course will be able to:  
 
 * Demonstrate the use of markup and scripting languages.
 * Create interactive web pages.

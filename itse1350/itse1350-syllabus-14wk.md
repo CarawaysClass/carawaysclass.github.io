@@ -29,13 +29,14 @@ Comprehensive introduction to the planning, design, and construction of computer
 * For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
 * For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
 * Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with D2L or your student email.
+* For technical issues with MindTap, create a ticket with Cengage technical support (<a href="http://support.cengage.com" target="_blank">http://support.cengage.com</a>)
 * Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
 * Please use my office hours (see location and hours above) should you have a question or any issue that you need to discuss outside of class.
 
 ## Student Learning Outcomes  
 
-Generally, students completing this course will be to:
+Generally, students completing this course will be able to:
 
 1. Compare and contrast project management tools.
 2. Develop a prototype.
@@ -52,7 +53,7 @@ Generally, students completing this course will be to:
 To be successful in this class, the student must:  
 
 * Have Internet access.
-* Have access to our textbook (digital or physical). 
+* Have a license to access the MindTap version of our course. 
 >**NOTE**:  I am still working with our publisher to determine the exact ISBN required for our course.  I will update this section once I have this information.
 
 ## Instructor Guidelines and Policies 
@@ -100,10 +101,9 @@ Evaluation will be based on the following grade components:
 
 | Grade Type | Points |
 | :---------: | :------: |
-| Quizzes (20%) | 200 |
-| Projects (40%) | 400 |
-| Semester Project (20%) | 200 |
-| Final Exam (20%) | 200 |
+| Unit Tests (60%) | 600 |
+| Projects (30%) | 300 |
+| Final Exam (10%) | 100 |
 | **TOTAL POINTS** | **1000** |
 
 
@@ -119,23 +119,21 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 
 ## Tentative Course Outline 
 
-This will be updated with more detail the week before class starts on 9/11. 
-
 | Week | Topics | 
 | :---: | -------- | 
-| 1 | Chapter 1 |
-| 2 | Chapter 2 |
-| 3 | Chapter 3 |
-| 4 | Chapter 4 |
-| 5 | Chapter 5 |
-| 6 | Chapter 6 |
-| 7 | Chapter 7 |
-| 8 | Chapter 8 |
-| 9 | Chapter 9 |
-| 10 | Chapter 10 |
-| 11 | Chapter 11 |
-| 12 | Chapter 12 |
-| 13 | Semester Project |
+| 1 | Chapter 1 - Introduction to Systems Analysis and Design |
+| 2 | Chapter 2 - Analyzing the Business Case |
+| 3 | Chapter 3 - Managing Systems Projects |
+| 4 | Chapter 4 - Requirements Modeling / Project 1 |
+| 5 | Chapter 5 - Data and Process Modeling |
+| 6 | Chapter 6 - Object Modeling |
+| 7 | Chapter 7 - Development Strategies |
+| 8 | Chapter 8 - User Interface Design / Project 2 |
+| 9 | Chapter 9 - Data Design |
+| 10 | Chapter 10 - System Architecture |
+| 11 | Chapter 11 - Managing Systems Implementation |
+| 12 | Chapter 12 - Managing Systems Support and Security |
+| 13 | Project 3 |
 | 14 | FINALS | 
 
 
