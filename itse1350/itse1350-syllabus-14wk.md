@@ -53,9 +53,10 @@ Generally, students completing this course will be able to:
 To be successful in this class, the student must:  
 
 * Have Internet access.
-* Have a license to access the MindTap version of our course. 
->**NOTE**:  I am still working with our publisher to determine the exact ISBN required for our course.  I will update this section once I have this information.
-
+* Have a license to access the MindTap version of our course.  You may purchase access directly from Cengage by visiting:  
+<blockquote> 
+<a href="http://services.cengagebrain.com/course/site.html?id=2148250" target="_blank">http://services.cengagebrain.com/course/site.html?id=2148250</a>
+</blockquote>
 ## Instructor Guidelines and Policies 
 
 ### Communication
