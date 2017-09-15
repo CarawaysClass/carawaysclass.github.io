@@ -11,7 +11,7 @@
 **Course Title:** Business Computer Applications  
 **Term and Year:** Fall 2017
 **Course Dates:** September 11 - December 14, 2017
-**Course Section(s):** 6005/6
+**Course Section(s):** 6001/2, 6003/4, 6005/6, 6009/10
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
@@ -38,7 +38,7 @@ In this course, students will study computer terminology, hardware, and software
 
 ## Student Learning Outcomes  
 
-Generally, students completing this course will be to:
+Generally, students completing this course will be able to:
 
 1. Describe the fundamentals of Information Technology (IT) infrastructure components: hardware, software, and data communications systems.  
 2. Explain the guiding principles of professional behavior in computing.  
