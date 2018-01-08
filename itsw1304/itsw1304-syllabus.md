@@ -24,14 +24,14 @@ TBD or by appointment
 In this course, students will learn about the concepts, procedures, and application of electronic spreadsheets and, more specifically, this course introduces the topic of spreadsheet software using Microsoft Excel.  We will look at how spreadsheets can be used to perform calculations, organize data, communicate quantitative information, make financial decisions, share data, and more.  Knowing how to use  spreadsheet software like Excel is a key skill required in just about any business setting. 
 
 ## Syllabus Fast Facts
-* Our <a href="https://slack.com" target="_blank">Slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
-* Check the Slack site for our weekly Learning Activities and Assignments.  
+* Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
+* Check the slack site for our weekly Learning Activities and Assignments.  
 * For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
 * For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
-* Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or Brightspace (D2L).
+* Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or D2L.
 * Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
-* Please use my office hours (see location and hours above) should you need to meet with me about a question or issue.
+* Please use my office hours (see location and hours above) should you need to meet with me about a question or any issue that we need to discuss in person.
 
 ## Student Learning Outcomes  
 
@@ -51,16 +51,13 @@ To be successful in this class, the student must:
 
 * Have Internet access.
 * Access to a Windows PC with Microsoft Excel 2016 installed 
-OR access to a Mac with Microsoft Excel 2016 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>). 
-* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: 
->MS Office Excel 2016: Complete by Nordell 
->SIMNET OFF 2016  © McGraw-Hill, Inc. 
->ISBN: 978-125989296 
->**NOTE**:  I will provide further purchasing information once our class starts.  There are considerably less expensive purchasing options than the campus bookstore so please wait until after the first day of class before purchasing your SIMnet access code.
+OR access to a Mac with Microsoft Excel 2016 installed.  As an LSC student you get Office for free. 
+* Access to SIMnet (your instructor will provide you with an access code).
+
 ## Instructor Guidelines and Policies 
 
 ### Communication
-We will use <a href="https://slack.com" target="_blank">Slack.com</a> for most student-to-professor and student-to-student communication.  Slack is an online communication tool that allows team members or students in a class to stay in contact with each other.  
+We will use <a href="https://slack.com" target="_blank">slack.com</a> for most student-to-professor and student-to-student communication.  Slack is an online communication tool that allows team members or students in a class to stay in contact with each other.  
 
 With Slack, you can hold a direct conversation with your instructor, share an idea with one of your classmates, or enter into a discussion with a group of your classmates.
 

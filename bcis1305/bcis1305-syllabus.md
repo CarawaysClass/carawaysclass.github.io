@@ -9,9 +9,9 @@
 ## Course Info
 **Course Number:** BCIS 1305  
 **Course Title:** Business Computer Applications  
-**Term and Year:** Fall 2017
-**Course Dates:** August 28 - December 14, 2017
-**Course Section(s):** 6001/2 and 6003/4
+**Term and Year:** Sprint 2018
+**Course Dates:** January 16 - May 11, 2018
+**Course Section(s):** 6001/2 | 6003/4 | 6005/6
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
@@ -25,16 +25,16 @@ In this course, students will study computer terminology, hardware, and software
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
-* Check the slack site for our weekly Learning Activities and Assignments.  This information will also be posted in D2L.
+* Check the slack site for our weekly Learning Activities and Assignments.  
 * For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
 * For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
-* Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with D2L or your student email.
+* Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or D2L.
 * Call the McGraw-Hill support line (<a href="tel:800-331-5094">800-331-5094</a>) for issues with **SIMnet**. Be sure to get a case number when you contact them.
-**SIMnet** is the online service that you will use to complete a majority of the Skills-based assignments of our class.  
+**SIMnet** is the online service that you will use to complete a majority of the assignments of our class.  
 * Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
-* Please use my office hours (see location and hours above) should you have a question or any issue that you need to discuss outside of class.
-* _Even though most of our class assignments can be completed on a Mac, **there may be specific SIMnet assignments that require the Windows (PC) version of Office 2016**_. If you do not have Office 2016 (for Windows) at home, you may use the general use PCs at any LSC campus.
+* Please use my office hours (see location and hours above) should you need to meet with me about a question or any issue that we need to discuss in person.
+* _Even though most of our class assignments can be completed on a Mac, **there may be specific SIMnet assignments that require the Windows (PC) version of Office 2016**_. If you do not have Office 2016 (for Windows) at home, you may need to use the general-use PCs at any LSC campus.
 
 ## Student Learning Outcomes  
 
@@ -66,7 +66,7 @@ To be successful in this class, the student must:
 ## Instructor Guidelines and Policies 
 
 ### Communication
-We will use <a href="https://slack.com" target="_blank">slack.com</a> for most student-to-professor and student-to-student communication.  Slack is an online communication tool that allows team members or students in a class to stay in contact with each other.  
+We will use <a href="https://slack.com" target="_blank">Slack.com</a> for most student-to-professor and student-to-student communication.  Slack is an online communication tool that allows team members or students in a class to stay in contact with each other.  
 
 With Slack, you can hold a direct conversation with your instructor, share an idea with one of your classmates, or enter into a discussion with a group of your classmates.
 
