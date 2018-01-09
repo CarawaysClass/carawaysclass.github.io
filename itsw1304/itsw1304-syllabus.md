@@ -100,9 +100,12 @@ Evaluation will be based on the following grade components:
 | Grade Type | Points |
 | :---------: | :------: |
 | SIMBook Readings (10%) | 100 |
-| SIMpaths (10%) | 100 |
-| Projects (60%) | 600 |
-| Capstone Projects (20%) | 200 |
+| SIMpaths (4.5%) | 45 |
+| SIMNet Projects (54%) | 540 |
+| Mid-semester Capstone Project (7.5%) | 75 |
+| Slack Discussions (9%) | 90 |
+| Final Project (15%) | 150 |
+
 | **TOTAL POINTS** | **1000** |
 
 
@@ -122,14 +125,14 @@ This will be updated with more detail the week before class starts on October 23
 
 | Week | Topics | 
 | :---: | -------- | 
-| 1 | SIMnet, Windows 10, MS Office, and Excel Docs |
-| 2 | Working with Formulas and Functions |
-| 3 | Creating and Editing Charts Formatting, Organizing, and Getting Data |
-| 4 | Consolidating, Linking, and Inserting Objects Exploring the Function Library |
-| 5 | Capstone 1 |
-| 6 | Working with Templates and Sharing Work |
-| 7 | Exploring Data Analysis and Business Intelligence, Recording and Editing Macros |
-| 8 | FINALS - Capstone 2 | 
+| 1 | SIMnet, Windows 10, MS Office, and Creating and Editing Workbooks (Ch1) |
+| 2 | Working with Formulas and Functions (Ch2) |
+| 3 | Creating and Editing Charts (Ch3) & Formatting, Organizing, and Getting Data (Ch4)|
+| 4 | Consolidating, Linking, and Inserting Objects (Ch5) |
+| 5 | Exploring the Function Library (Ch6) & Mid-semester Capstone |
+| 6 | Working with Templates and Sharing Work (Ch7) |
+| 7 | Exploring Data Analysis and Business Intelligence (Ch8) Recording and Editing Macros (Ch9) |
+| 8 | FINALS - Final Project | 
 
 
 ### Department/Division Contact
@@ -142,7 +145,7 @@ If you have any issues in our classroom, the course content or with me, I would 
 If you have not attended class for Face-to-Face sections or if you have not logged into D2L for Online sections by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
 
 ### Withdrawal Policy
-Withdrawal from the course after the Official Day of Record and prior to “W” Day (Monday November 13th, 2017) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the online class, you must withdraw at the registration office prior to “W” day.
+Withdrawal from the course after the Official Day of Record and prior to “W” Day (Friday November 6th, 2018) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the online class, you must withdraw at the registration office prior to “W” day.
 
 _If you stop attending class and do not officially withdraw, you **will receive an “F”** for the course._
 
