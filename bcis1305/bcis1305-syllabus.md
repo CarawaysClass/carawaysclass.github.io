@@ -18,7 +18,12 @@
 
 Campus Map:  <a href="http://www.lonestar.edu/maps-universitypark.htm" target="_blank">Lone Star College - University Park</a>
 ## Office Hours:   
-TBD or by appointment
+Tuesday 10 - 11:30am
+Wednesday 1-2:30pm
+Thursday 10 - 11:30am
+
+...or by appointment
+
 
 ## Course Description  
 In this course, students will study computer terminology, hardware, and software related to the business environment. The focus of this course is on business productivity software applications and professional behavior in computing, including word processing (as needed), spreadsheets, databases, presentation graphics, and business-oriented utilization of the Internet. 
@@ -57,11 +62,10 @@ To be successful in this class, the student must:
  _*OR*_ 
  access to a Mac with Microsoft 2016 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
 * Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: 
->O'LEARY 
->LSC LONE STAR COLLEGE CONNECT AC CMPTG ESS 2017 
->SIMNET OFF 2016  © McGraw-Hill, Inc. 
->ISBN: 978-1260076219 
->**NOTE**:  I will provide further purchasing information once our class starts.  There are considerably less expensive purchasing options than the campus bookstore so please wait until after the first day of class before purchasing your SIMnet access code.
+> MS Office 2016 In Practice: Complete (SIMNET 2017)
+> Author: Nordell
+> Access Code 
+>  **Note** I am still waiting on further information from our publisher specific to the purchasing options. I will forward as soon as I have that information.
 
 ## Instructor Guidelines and Policies 
 

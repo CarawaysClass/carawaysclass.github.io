@@ -18,7 +18,11 @@
 
 Campus Map:  <a href="http://www.lonestar.edu/maps-universitypark.htm" target="_blank">Lone Star College - University Park</a>
 ## Office Hours:   
-TBD or by appointment
+Tuesday 10 - 11:30am
+Wednesday 1-2:30pm
+Thursday 10 - 11:30am
+
+...or by appointment
 
 ## Course Description  
 In this course, students will learn about the concepts, procedures, and application of electronic spreadsheets and, more specifically, this course introduces the topic of spreadsheet software using Microsoft Excel.  We will look at how spreadsheets can be used to perform calculations, organize data, communicate quantitative information, make financial decisions, share data, and more.  Knowing how to use  spreadsheet software like Excel is a key skill required in just about any business setting. 
@@ -52,7 +56,11 @@ To be successful in this class, the student must:
 * Have Internet access.
 * Access to a Windows PC with Microsoft Excel 2016 installed 
 OR access to a Mac with Microsoft Excel 2016 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
-* Register for access to the McGraw-Hill SIMnet environment.  
+* Register for access to the McGraw-Hill SIMnet environment.
+> MS Office Excel 2016: Complete (SIMNET 2017)
+> Author: Nordell
+> Access Code
+> **Note** I am still waiting on further information from our publisher specific to the purchasing options. I will forward as soon as I have that information.  
 
 ## Instructor Guidelines and Policies 
 
