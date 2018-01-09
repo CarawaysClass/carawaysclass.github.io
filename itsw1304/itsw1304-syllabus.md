@@ -51,13 +51,13 @@ To be successful in this class, the student must:
 
 * Have Internet access.
 * Access to a Windows PC with Microsoft Excel 2016 installed 
-OR access to a Mac with Microsoft Excel 2016 installed.  As an LSC student you get Office for free. 
-* Access to SIMnet (your instructor will provide you with an access code).
+OR access to a Mac with Microsoft Excel 2016 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
+* Register for access to the McGraw-Hill SIMnet environment.  
 
 ## Instructor Guidelines and Policies 
 
 ### Communication
-We will use <a href="https://slack.com" target="_blank">slack.com</a> for most student-to-professor and student-to-student communication.  Slack is an online communication tool that allows team members or students in a class to stay in contact with each other.  
+We will use <a href="https://slack.com" target="_blank">Slack.com</a> for most student-to-professor and student-to-student communication.  Slack is an online communication tool that allows team members or students in a class to stay in contact with each other.  
 
 With Slack, you can hold a direct conversation with your instructor, share an idea with one of your classmates, or enter into a discussion with a group of your classmates.
 
@@ -65,7 +65,7 @@ I will email you an invitation to our Slack class site, during the first week of
 
 
 ### Emailing Your Instructor
-In some instances you may wish to email your instructor.  If you do choose to use email, be sure to include your name, course name, and course number in the email.   Keep the body of your message brief, and to-the-point.  Here is an example of a good email:
+Slack is your best choice in communicating with me, but there may be instances where you wish to email me.  If you choose to use email, be sure to include your name, course name, and course number in the email.   Keep the body of your message brief, and to-the-point.  Here is an example of a good email:
 
 > Professor Caraway:
 
@@ -75,12 +75,12 @@ In some instances you may wish to email your instructor.  If you do choose to us
 
 
 ### Office Visits
-Please feel free to drop by my office for help during my office hours (listed at the top of this document) but it is best to let me know you are coming as I may have meetings or other appointments already scheduled.  I am available by appointment if you cannot visit during office hours.  Contact me via Slack or email to coordinate a convenient time for both of us.
+Please feel free to drop by my office for help during my office hours (listed at the top of this document) but it is best to let me know you are coming as I may have meetings or other appointments already scheduled.  I am also available by appointment if you cannot visit during office hours.  Contact me via Slack or email to coordinate a convenient time for both of us.
 
 ### Attendance
 We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in online Slack discussion or chat session.  It is your responsibility to keep up with the material and check the class D2L page regularly for updates, assignment due dates, and potential schedule changes.
 
-Should you anticipate that you will not be able to log on and participate in class for an extended period (72 hours), please notify me in advance.  Not logging in to the online class at a regular interval will significantly impact your chance for success.   **I reserve the right to drop a student if they are not active in the course and do not respond to my email during a 7 day period.**  
+Should you anticipate that you will not be able to log on and participate in class for an extended period (72 hours), please notify me in advance.  Not logging in to the online class at a regular interval will significantly impact your chance for success.   **I reserve the right to drop a student if they are not active in the course and do not respond to my Slack or email correspondence during a 7 day period.**  
 
 ### Class Participation
 The college classroom is a place for adult men and women to meet with a common purpose of improving their intellectual and academic skills.  This applies to both face-to-face and online classes.  When engaging your instructor and fellow students, you will be expected to treat everyone with respect and in a professional manner.  The use of profanity, derogatory terms, and threats in any class-related forum will not be tolerated.  If a student violates this rule, they will be asked to leave the classroom (in a face-to-face section) or their access to the class will be blocked (in an online section).  

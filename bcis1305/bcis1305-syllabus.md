@@ -74,7 +74,7 @@ I will email you an invitation to our Slack class site, during the first week of
 
 
 ### Emailing Your Instructor
-In some instances you may wish to email your instructor.  If you do choose to use email, be sure to include your name, course name, and course number in the email.   Keep the body of your message brief, and to-the-point.  Here is an example of a good email:
+Slack is your best choice in communicating with me, but there may be instances where you wish to email me.  If you choose to use email, be sure to include your name, course name, and course number in the email.   Keep the body of your message brief, and to-the-point.  Here is an example of a good email:
 
 > Professor Caraway:
 
@@ -84,12 +84,12 @@ In some instances you may wish to email your instructor.  If you do choose to us
 
 
 ### Office Visits
-Please feel free to drop by my office for help during my office hours (listed at the top of this document) but it is best to let me know you are coming as I may have meetings or other appointments already scheduled.  I am available by appointment if you cannot visit during office hours.  Contact me via Slack or email to coordinate a convenient time for both of us.
+Please feel free to drop by my office for help during my office hours (listed at the top of this document) but it is best to let me know you are coming as I may have meetings or other appointments already scheduled.  I am also available by appointment if you cannot visit during office hours.  Contact me via Slack or email to coordinate a convenient time for both of us.
 
 ### Attendance
 We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in online Slack discussion or chat session.  It is your responsibility to keep up with the material and check the class D2L page regularly for updates, assignment due dates, and potential schedule changes.
 
-Should you anticipate that you will not be able to log on and participate in class for an extended period (72 hours), please notify me in advance.  Not logging in to the online class at a regular interval will significantly impact your chance for success.   **I reserve the right to drop a student if they are not active in the course and do not respond to my email during a 7 day period.**
+Should you anticipate that you will not be able to log on and participate in class for an extended period (72 hours), please notify me in advance.  Not logging in to the online class at a regular interval will significantly impact your chance for success.   **I reserve the right to drop a student if they are not active in the course and do not respond to my Slack or email correspondence during a 7 day period.**
  
  
 ### Class Participation
