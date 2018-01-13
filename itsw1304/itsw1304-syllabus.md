@@ -1,4 +1,4 @@
-# SYLLABUS: ITSW 1304 - Intro to Spreadsheets
+# Syllabus: ITSW 1304 Intro to Spreadsheets
 
 ## Instructor Contact Information
 **Name:** Bruce Caraway
@@ -60,12 +60,12 @@ OR access to a Mac with Microsoft Excel 2016 installed.  (As an LSC student you 
 > MS Office Excel 2016: Complete (SIMNET 2017)
 > Author: Nordell
 > Access Code
-> **Note** I am still waiting on further information from our publisher specific to the purchasing options. I will forward as soon as I have that information.  
+> **Note** You may purchase your access code from the campus bookstore or from within the SIMnet app.  I recommend that if you haven't already purchased your access code to wait until after the first week of class to buy.  The publisher provides two weeks of "free" access to start our semester. 
 
 ## Instructor Guidelines and Policies 
 
 ### Communication
-We will use <a href="https://slack.com" target="_blank">Slack.com</a> for most student-to-professor and student-to-student communication.  Slack is an online communication tool that allows team members or students in a class to stay in contact with each other.  
+We will use <a href="https://slack.com" target="_blank">Slack.com</a> for most student-to-professor and student-to-student communication.  Slack is an on-line communication tool that allows team members or students in a class to stay in contact with each other.  
 
 With Slack, you can hold a direct conversation with your instructor, share an idea with one of your classmates, or enter into a discussion with a group of your classmates.
 
@@ -86,12 +86,12 @@ Slack is your best choice in communicating with me, but there may be instances w
 Please feel free to drop by my office for help during my office hours (listed at the top of this document) but it is best to let me know you are coming as I may have meetings or other appointments already scheduled.  I am also available by appointment if you cannot visit during office hours.  Contact me via Slack or email to coordinate a convenient time for both of us.
 
 ### Attendance
-We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in online Slack discussion or chat session.  It is your responsibility to keep up with the material and check the class D2L page regularly for updates, assignment due dates, and potential schedule changes.
+We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in on-line Slack discussion or chat session.  It is your responsibility to keep up with the material and check the class D2L page regularly for updates, assignment due dates, and potential schedule changes.
 
-Should you anticipate that you will not be able to log on and participate in class for an extended period (72 hours), please notify me in advance.  Not logging in to the online class at a regular interval will significantly impact your chance for success.   **I reserve the right to drop a student if they are not active in the course and do not respond to my Slack or email correspondence during a 7 day period.**  
+Should you anticipate that you will not be able to log on and participate in class for an extended period (72 hours), please notify me in advance.  Not logging in to the on-line class at a regular interval will significantly impact your chance for success.   **I will withdraw a student if they are not active in the course and do not respond to my Slack or email correspondence during a 7 day period.**  
 
 ### Class Participation
-The college classroom is a place for adult men and women to meet with a common purpose of improving their intellectual and academic skills.  This applies to both face-to-face and online classes.  When engaging your instructor and fellow students, you will be expected to treat everyone with respect and in a professional manner.  The use of profanity, derogatory terms, and threats in any class-related forum will not be tolerated.  If a student violates this rule, they will be asked to leave the classroom (in a face-to-face section) or their access to the class will be blocked (in an online section).  
+The college classroom is a place for adult men and women to meet with a common purpose of improving their intellectual and academic skills.  This applies to both face-to-face and on-line classes.  When engaging your instructor and fellow students, you will be expected to treat everyone with respect and in a professional manner.  The use of profanity, derogatory terms, and threats in any class-related forum will not be tolerated.  If a student violates this rule, they will be asked to leave the classroom (in a face-to-face section) or their access to the class will be blocked (in an on-line section).  
 
 The violating student will not be allowed to return to class or regain access until he or she arranges a conference with the instructor.  It is the student’s responsibility to arrange for this conference. 
      
@@ -129,8 +129,6 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 
 ## Tentative Course Outline 
 
-This will be updated with more detail the week before class starts on October 23rd. 
-
 | Week | Topics | 
 | :---: | -------- | 
 | 1 | SIMnet, Windows 10, MS Office, and Creating and Editing Workbooks (Ch1) |
@@ -150,10 +148,10 @@ If you have any issues in our classroom, the course content or with me, I would 
 * Dean: Steven Kahla | <a href="tel:281-655-3788">281-655-3788</a> | <a href="mailto:steven.c.kahla@lonestar.edu">steven.c.kahla@lonestar.edu</a>
 
 ### Non Attendance at Start of Semester
-If you have not attended class for Face-to-Face sections or if you have not logged into D2L for Online sections by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
+If you have not attended class for a face-to-face section or if you have not logged into D2L for an on-line section by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
 
 ### Withdrawal Policy
-Withdrawal from the course after the Official Day of Record and prior to “W” Day (Friday November 6th, 2018) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the online class, you must withdraw at the registration office prior to “W” day.
+Withdrawal from the course after the Official Day of Record and prior to “W” Day (Friday April 6th, 2018) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
 
 _If you stop attending class and do not officially withdraw, you **will receive an “F”** for the course._
 
@@ -201,21 +199,21 @@ The consequences for academic dishonesty are determined by the professor, or the
 5. Being expelled from the college system.
 
 ### Student Behavior Expectations
-Students are expected to conduct themselves appropriately while on College property or in an online environment.  Students may receive disciplinary action up to and including suspension, if they violate System or College rules, disrupt classes, or interfere with the opportunity of others to obtain an education.  Students who pose a threat to the safety of others will be subject to immediate withdrawal from the classroom, campus environment, and/or online environment, as well as face subsequent criminal charges, as appropriate.  
+Students are expected to conduct themselves appropriately while on College property or in an on-line environment.  Students may receive disciplinary action up to and including suspension, if they violate System or College rules, disrupt classes, or interfere with the opportunity of others to obtain an education.  Students who pose a threat to the safety of others will be subject to immediate withdrawal from the classroom, campus environment, and/or on-line environment, as well as face subsequent criminal charges, as appropriate.  
 
-**Please refer to the Student Code of Conduct located online at <a href="http://www.lonestar.edu/student-responsibilities.htm"  target="_blank">http://www.lonestar.edu/student-responsibilities.htm</a> for additional information.**
+**Please refer to the Student Code of Conduct located on-line at <a href="http://www.lonestar.edu/student-responsibilities.htm"  target="_blank">http://www.lonestar.edu/student-responsibilities.htm</a> for additional information.**
 
 _Sleeping (or laying your head on your desk) is not allowed in the classroom. On the first occurrence, you will be asked to refrain from sleeping.  On a second occurrence, you will be asked to leave the room._
 
 Lone Star College - University Park is a smoking-free campus.  _The use of e-cigarettes, electronic cigarettes, vapor cigarettes, pipes, vapes, etc. is strictly prohibited throughout campus._
 
 ### Lone Star College Assistive Facilities
-Lone Star College is very committed to equal access in educational opportunities and provides assistance through disability services. Each main campus has an assistive technology lab to assist students with disabilities. These centers offer a wide range of educational technology tools, such as screen readers, for example, to assist students with their educational needs.  Information specific to your campus' Assistive Services is located online at <a href="http://www.lonestar.edu/19287.htm" target="_blank">http://www.lonestar.edu/19287.htm</a>.  
+Lone Star College is very committed to equal access in educational opportunities and provides assistance through disability services. Each main campus has an assistive technology lab to assist students with disabilities. These centers offer a wide range of educational technology tools, such as screen readers, for example, to assist students with their educational needs.  Information specific to your campus' Assistive Services is located on-line at <a href="http://www.lonestar.edu/19287.htm" target="_blank">http://www.lonestar.edu/19287.htm</a>.  
 
 ### Americans with Disabilities Act Statement
 Lone Star College-University Park is dedicated to providing the least restrictive environment for all students.  We promote equity in academic access through the implementation of reasonable accommodations as required by the Vocational Rehabilitation Act of 1973, Title V, Section 504 and the Americans with Disabilities Act of 1990 (ADA) which will enable students with disabilities to participate in and benefit from all post-secondary educational activities.
 
-Disability Services is located on the LSC University Park campus in Building 13, Suite 200.  You may contact Disability Services at the following number:  <a href="tel:281-401-5370">281-401-5370</a>.  Additional information may be accessed online at the following URL:  <a href="http://www.lonestar.edu/disability-services.htm" target="_blank">http://www.lonestar.edu/disability-services.htm</a>.
+Disability Services is located on the LSC University Park campus in Building 13, Suite 200.  You may contact Disability Services at the following number:  <a href="tel:281-401-5370">281-401-5370</a>.  Additional information may be accessed on-line at the following URL:  <a href="http://www.lonestar.edu/disability-services.htm" target="_blank">http://www.lonestar.edu/disability-services.htm</a>.
 
 ### Campus Safety and Security
 Lone Star College System is committed to maintaining the safety of the students, faculty, staff, and guests while visiting one of our campuses.  See <a href="http://www.lonestar.edu/campus-safety.htm" target="_blank">http://www.lonestar.edu/campus-safety.htm</a> for details.  Register at <a href="http://www.lonestar.edu/LoneStarCollegeAlert.htm" target="_blank">http://www.lonestar.edu/LoneStarCollegeAlert.htm</a> to receive emergency notifications.  In the event of an emergency, contact the police at 5911.
@@ -243,4 +241,4 @@ Access to the System’s e-mail and similar electronic communications systems ar
 Law strictly prohibits unauthorized copying of software purchased by Lone Star College-University Park for use in laboratories.  Lone Star College-University Park administration will take appropriate disciplinary action against anyone violating copyright laws.
 
 ### Evaluation of Instruction
-Lone Star College-University Park is committed to student success.  As part of its institutional effectiveness efforts, our instructors are assessed in several ways.  For the continuous improvement of our instruction, all students are required to provide input for each course they take each semester using the Course Evaluations Questionnaire, which can be accessed online for each course.  This occurs approximately half way through your course and your instructor will provide you more information on this process.  Once you evaluate your course, print and turn in the receipt of completion to your instructor.  The college deans review these evaluations each semester.  The deans and/or department chairs may visit each instructor’s class at some time during the semester to observe the instructional environment being provided and complete an assessment of the instructor. 
+Lone Star College-University Park is committed to student success.  As part of its institutional effectiveness efforts, our instructors are assessed in several ways.  For the continuous improvement of our instruction, all students are required to provide input for each course they take each semester using the Course Evaluations Questionnaire, which can be accessed on-line for each course.  This occurs approximately half way through your course and your instructor will provide you more information on this process.  Once you evaluate your course, print and turn in the receipt of completion to your instructor.  The college deans review these evaluations each semester.  The deans and/or department chairs may visit each instructor’s class at some time during the semester to observe the instructional environment being provided and complete an assessment of the instructor. 
