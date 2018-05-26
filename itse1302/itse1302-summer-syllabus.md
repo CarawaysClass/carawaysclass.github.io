@@ -1,32 +1,30 @@
-# SYLLABUS: BCIS 1305 - Business Computer Applications 
+# SYLLABUS: ITSE 1302 - Computer Pragramming 
 
 ## Instructor Contact Information
 **Name:** Bruce Caraway
 **Office Phone:** <a href="tel:281-401-5394">281-401-5394</a>
-**Office:** UP Building 12, Room 632
+**Office:** Bldg 12, Room 632
 **Email:** <a href = "mailto:bruce.caraway@lonestar.edu">bruce.caraway@lonestar.edu</a>
 **Website:** <a href = "https://carawaysclass.com">carawaysclass.com</a>
 ## Course Info
-**Course Number:** BCIS 1305  
-**Course Title:** Business Computer Applications  
-**Term and Year:** Spring 2018
-**Course Dates:** January 16 - May 11, 2018
-**Course Section(s):** 6001/2 | 6003/4 | 6005/6
+**Course Number:** ITSE 1302  
+**Course Title:** Computer Programming  
+**Term and Year:** Summer I 2018
+**Course Dates:** June 4 - July 10, 2018
+**Course Section(s):** 6001/2
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
 
 Campus Map:  <a href="http://www.lonestar.edu/maps-universitypark.htm" target="_blank">Lone Star College - University Park</a>
 ## Office Hours:   
-Tuesday 10 - 11:30am
-Wednesday 1-2:30pm
-Thursday 10 - 11:30am
+Tuesday 10a - 2p
 
 ...or by appointment
 
 
 ## Course Description  
-In this course, students will study computer terminology, hardware, and software related to the business environment. The focus of this course is on business productivity software applications and professional behavior in computing, including word processing (as needed), spreadsheets, databases, presentation graphics, and business-oriented utilization of the Internet. 
+This course serves as an introduction to computer programming.  It includes design, development, testing, implementation and documentation. 
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
@@ -43,29 +41,23 @@ In this course, students will study computer terminology, hardware, and software
 
 ## Student Learning Outcomes  
 
-Generally, students completing this course will be to:
+Generally, students completing this course will be able to:
 
-1. Describe the fundamentals of Information Technology (IT) infrastructure components: hardware, software, and data communications systems.  
-2. Explain the guiding principles of professional behavior in computing.  
-3. Demonstrate proper file management techniques to manipulate electronic files and folders in a local and networked environment.  
-4. Use business productivity software to manipulate data and find solutions to business problems.  
-5. Explain the concepts and terminology used in the operation of application systems in a business environment.  
-6. Identify emerging technologies for use in business applications.  
-7. Complete projects that integrate business software applications.  
+1. Design computer programs
+2. Write computer programs
+3. Test computer programs
+4. Document computer programs  
 
-## Prerequisites  
-None.  
+## Corequisites  
+- ITSC 1301 or COSC 1301 or BCIS 1305 (for Business majors only) Department Approval.  
 ## Required Materials  
 To be successful in this class, the student must:  
 
-* Have access to a Windows PC with Microsoft Office 2016 installed
- _*OR*_ 
- access to a Mac with Microsoft 2016 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
-* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: 
-> MS Office 2016 In Practice: Complete (SIMNET 2017)
-> Author: Nordell
-> Access Code 
-> **Note** You may purchase your access code from the campus bookstore or from within the SIMnet app.  I recommend that if you haven't already purchased your access code to wait until after the first week of class to buy.  The publisher provides two weeks of "free" access to start our semester. 
+* Have access to a computer with internet access  
+* Have a physical or digital copy of our textbook:
+> Murach's Python Programming
+> Authors: Joel Murach and Michael Murach
+> ISBN:  978-1890774974
 
 ## Instructor Guidelines and Policies 
 
@@ -82,7 +74,7 @@ Slack is your best choice in communicating with me, but there may be instances w
 
 > Professor Caraway:
 
->I am Angela Ford from your BCIS 1305 (Business Computer Apps) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
+>I am Angela Ford from your ITSE 1302 (Computer Programming) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
 
 >Angela Ford
 
@@ -91,7 +83,7 @@ Slack is your best choice in communicating with me, but there may be instances w
 Please feel free to drop by my office for help during my office hours (listed at the top of this document) but it is best to let me know you are coming as I may have meetings or other appointments already scheduled.  I am also available by appointment if you cannot visit during office hours.  Contact me via Slack or email to coordinate a convenient time for both of us.
 
 ### Attendance
-We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in on-line Slack discussion or chat session.  It is your responsibility to keep up with the material and check the class D2L page regularly for updates, assignment due dates, and potential schedule changes.
+We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in on-line Slack discussion or chat session.  It is your responsibility to keep up with the material and check the class Brightspace page regularly for updates, assignment due dates, and potential schedule changes.
 
 Should you anticipate that you will not be able to log on and participate in class for an extended period (72 hours), please notify me in advance.  Not logging in to the on-line class at a regular interval will significantly impact your chance for success.   **I will withdraw a student if they are not active in the course and do not respond to my Slack or email correspondence during a 7 day period.**
  
@@ -254,4 +246,4 @@ Access to the System’s e-mail and similar electronic communications systems ar
 Law strictly prohibits unauthorized copying of software purchased by Lone Star College-University Park for use in laboratories.  Lone Star College-University Park administration will take appropriate disciplinary action against anyone violating copyright laws.
 
 ### Evaluation of Instruction
-Lone Star College-University Park is committed to student success.  As part of its institutional effectiveness efforts, our instructors are assessed in several ways.  For the continuous improvement of our instruction, all students are required to provide input for each course they take each semester using the Course Evaluations Questionnaire, which can be accessed on-line for each course.  This occurs approximately half way through your course and your instructor will provide you more information on this process.  Once you evaluate your course, print and turn in the receipt of completion to your instructor.  The college deans review these evaluations each semester.  The deans and/or department chairs may visit each instructor’s class at some time during the semester to observe the instructional environment being provided and complete an assessment of the instructor. 
+Lone Star College-University Park is committed to student success.  As part of its institutional effectiveness efforts, our instructors are assessed in several ways.  For the continuous improvement of our instruction, all students are required to provide input for each course they take each semester using the Course Evaluations Questionnaire, which can be accessed on-line for each course.  This occurs approximately half way through your course and your instructor will provide you more information on this process.  Once you evaluate your course, print and turn in the receipt of completion to your instructor.  The college deans review these evaluations each semester.  The deans and/or department chairs may visit each instructor’s class at some time during the semester to observe the instructional environment being provided and complete an assessment of the instructor. It
