@@ -126,20 +126,20 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 | 0-599 | F |
 
 ## Tentative Course Outline 
-| Week | Topics | Assignments |
+| Week | Topics | Topics & Assignments |
 | :---: | -------- | ------ |
-| 1<br><br><br> | Class Introduction<br>Chapter 1<br>Chapter 2<br><br><br> |  Intro to Python Programming<br>Writing your First Program<br>|  
-| 2<br><br><br> | Chapter 3<br>Chapter 4<br> | Control Statements<br>Flowcharting<br>Functions<br> |  
-| 3<br><br><br> | Chapter 5<br>Midterm<br> | Test & Debug<br>Midterm Exam<br>|
+| 1<br><br><br> | Class Introduction<br>Chapter 1<br>Chapter 2 |  Intro to Python Programming<br>Writing your First Program<br><br>|  
+| 2<br><br><br> | Chapter 3<br>Chapter 4<br><br> | Control Statements<br>Flowcharting<br>Functions<br> |  
+| 3<br><br> | Chapter 5<br>Midterm<br> | Test & Debug<br>Midterm Exam<br>|
 | 4<br><br><br> | Chapter 6<br>Chapter 7<br>Chapter 8<br> | List and Tuples<br>File I/O<br>Handling Exceptions|
-| 5<br><br><br> | Chapter 9<br>Chapter 10<br> | Working with Numbers<br>Working with Strings|
+| 5<br><br> | Chapter 9<br>Chapter 10<br> | Working with Numbers<br>Working with Strings|
 | 6<br> | FINALS WEEK | Integrated Project<br> Final Exam |
 
 
 ### Department/Division Contact
 If you have any issues in our classroom, the course content or with me, I would ask that you first address the issue directly with me.  If you feel that the issue remains unresolved even after speaking with me, you may contact the following individuals to whom I report.
 
-* Department Chair: Gary Tucker | <a href="tel:281-290-2957">281-290-2957</a> | <a href="mailto:gary.d.tucker@lonestar.edu">gary.d.tucker@lonestar.edu</a>
+* Dept. Chair: Gary Tucker | <a href="tel:281-290-2957">281-290-2957</a> | <a href="mailto:gary.d.tucker@lonestar.edu">gary.d.tucker@lonestar.edu</a>
 * Dean: Steven Kahla | <a href="tel:281-655-3788">281-655-3788</a> | <a href="mailto:steven.c.kahla@lonestar.edu">steven.c.kahla@lonestar.edu</a>
 
 ### Non Attendance at Start of Semester
