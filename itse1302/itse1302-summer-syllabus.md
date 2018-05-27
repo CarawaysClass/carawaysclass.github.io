@@ -22,8 +22,6 @@ Tuesday 10a - 2p
 
 ...or by appointment
 
-TEST 2
-
 ## Course Description  
 This course serves as an introduction to computer programming.  It includes design, development, testing, implementation and documentation. 
 
