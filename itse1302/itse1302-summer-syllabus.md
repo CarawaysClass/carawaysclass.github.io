@@ -1,20 +1,20 @@
 # SYLLABUS: ITSE 1302 - Computer Pragramming 
 
 ## Instructor Contact Information
-**Name:** Bruce Caraway
-**Office Phone:** <a href="tel:281-401-5394">281-401-5394</a>
-**Office:** Bldg 12, Room 632
-**Email:** <a href = "mailto:bruce.caraway@lonestar.edu">bruce.caraway@lonestar.edu</a>
-**Website:** <a href = "https://carawaysclass.com">carawaysclass.com</a>
+**Name:** Bruce Caraway  
+**Office Phone:** <a href="tel:281-401-5394">281-401-5394</a>  
+**Office:** Bldg 12, Room 632  
+**Email:** <a href = "mailto:bruce.caraway@lonestar.edu">bruce.caraway@lonestar.edu</a>  
+**Website:** <a href = "https://carawaysclass.com">carawaysclass.com</a>  
 ## Course Info
 **Course Number:** ITSE 1302  
 **Course Title:** Computer Programming  
-**Term and Year:** Summer I 2018
-**Course Dates:** June 4 - July 10, 2018
-**Course Section(s):** 6001/2
-**Class Days & Times:** ONLINE  
-**Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
-**Total Contact Hours** 80
+**Term and Year:** Summer I 2018  
+**Course Dates:** June 4 - July 10, 2018  
+**Course Section(s):** 6001/2  
+**Class Days & Times:** ONLINE   
+**Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)  
+**Total Contact Hours** 80  
 
 Campus Map:  <a href="http://www.lonestar.edu/maps-universitypark.htm" target="_blank">Lone Star College - University Park</a>
 ## Office Hours:   
