@@ -41,7 +41,7 @@ In this course, students will study computer terminology, hardware, and software
 
 ## Student Learning Outcomes  
 
-Generally, students completing this course will be to:
+Generally, students completing this course will be able to:
 
 1. Describe the fundamentals of Information Technology (IT) infrastructure components: hardware, software, and data communications systems.  
 2. Explain the guiding principles of professional behavior in computing.  
