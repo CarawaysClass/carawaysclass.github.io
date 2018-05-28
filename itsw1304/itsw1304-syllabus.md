@@ -39,7 +39,7 @@ In this course, students will learn about the concepts, procedures, and applicat
 
 ## Student Learning Outcomes  
 
-Generally, students completing this course will be to:
+Generally, students completing this course will be able to:
 
 1. Create formulas and functions.
 2. Define spreadsheet terminology and concepts.
