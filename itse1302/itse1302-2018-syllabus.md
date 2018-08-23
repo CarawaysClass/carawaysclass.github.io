@@ -1,4 +1,4 @@
-# SYLLABUS: BCIS 1305 - Business Computer Applications 
+# SYLLABUS: ITSE 1302 - Computer Pragramming 
 
 ## Instructor Contact Information
 **Name:** Bruce Caraway
@@ -7,11 +7,11 @@
 **Email:** <a href = "mailto:bruce.caraway@lonestar.edu">bruce.caraway@lonestar.edu</a>
 **Website:** <a href = "https://carawaysclass.com">carawaysclass.com</a>
 ## Course Info
-**Course Number:** BCIS 1305  
-**Course Title:** Business Computer Applications  
+**Course Number:** ITSE 1311  
+**Course Title:** Beginning Web Programming  
 **Term and Year:** Fall 2018
 **Course Dates:** August 27 - December 16, 2018
-**Course Section(s):** 6001/2 | 6003/4 
+**Course Section(s):** 6001/2 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
@@ -26,46 +26,42 @@ Thursday 10am - Noon
 
 
 ## Course Description  
-In this course, students will study computer terminology, hardware, and software related to the business environment. The focus of this course is on business productivity software applications and professional behavior in computing, including word processing (as needed), spreadsheets, databases, presentation graphics, and business-oriented utilization of the Internet. 
+This course is designed to equip you, the student, with the primary critical thinking and fundamental programming skills necessary to solve fairly complex problems.  You should develop skills that incorporate the fundamental ideas of structured programming in your problem solving approach.  This course will serve as the foundation for understanding how to program.
+
+Generally (and per the course catalog), this course will introduce you to concepts and tools used in designing, developing, testing, implementing, and documenting computer programs. 
 
 ## Syllabus Fast Facts
-* Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
-* Check the slack site for our weekly Learning Activities and Assignments.  
-* For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
-* For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
+* Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.  
+* Check the Brightspace calendar and content module *each week* for scheduled Learning Activities and Assignments.  
+* Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.  
+* For messages received between _Monday and Friday noon_, I will make every effort to reply by 5pm, the following day.  
+* For messages received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
 * Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or D2L.
-* Call the McGraw-Hill support line (<a href="tel:800-331-5094">800-331-5094</a>) for issues with **SIMnet**. Be sure to get a case number when you contact them.
-**SIMnet** is the on-line service that you will use to complete a majority of the assignments of our class.  
 * Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
-* Please use my virtual office hours (see hours above) should you need to set up a WebEx meeting or call for any question or issue that you would like to discuss.
-* _Even though most of our class assignments can be completed on a Mac, **there may be specific SIMnet assignments that require the Windows (PC) version of Office 2016**_. If you do not have Office 2016 (for Windows) at home, you may need to use the general-use PCs at any LSC campus.
 
 ## Student Learning Outcomes  
 
-Generally, students completing this course will be to:
+Generally, students completing this course will be able to:
 
-1. Describe the fundamentals of Information Technology (IT) infrastructure components: hardware, software, and data communications systems.  
-2. Explain the guiding principles of professional behavior in computing.  
-3. Demonstrate proper file management techniques to manipulate electronic files and folders in a local and networked environment.  
-4. Use business productivity software to manipulate data and find solutions to business problems.  
-5. Explain the concepts and terminology used in the operation of application systems in a business environment.  
-6. Identify emerging technologies for use in business applications.  
-7. Complete projects that integrate business software applications.  
+1. Design computer programs
+2. Write computer programs
+3. Test computer programs
+4. Document computer programs  
 
-## Prerequisites  
-None.  
+## Corequisites  
+- ITSC 1301 or COSC 1301 or BCIS 1305 (for Business majors only) Department Approval.  
+
 ## Required Materials  
 To be successful in this class, the student must:  
 
-* Have access to a Windows PC with Microsoft Office 2016 installed
- _*OR*_ 
- access to a Mac with Microsoft 2016 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
-* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: ISBN: **978-1-260-72803-3**
-> Office 2016 SimNet - simnet online for Microsoft Office 2016, 1st ed
-> Author: Triad Interactive
-> Access Code 
-> **Note** You may purchase your access code from the campus bookstore or from within the SIMnet app.  I recommend that if you haven't already purchased your access code to wait until after the first week of class to buy.  The publisher provides two weeks of "free" access to start our semester. 
+* Have access to a computer with internet access  
+* Have a physical or digital copy of our textbook:
+> Murach's Python Programming
+> Authors: Joel Murach and Michael Murach
+> ISBN:  978-1890774974
+
+This program can be purchased from the campus bookstore and online through a variety of vendors included <a href="https://amzn.to/2JaoRje" target="_blank">Amazon.com</a>.  
 
 ## Instructor Guidelines and Policies 
 
@@ -82,23 +78,22 @@ Slack is your best choice in communicating with me, but there may be instances w
 
 > Professor Caraway:
 
->I am Angela Ford from your BCIS 1305 (Business Computer Apps) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
+>I am Angela Ford from your ITSE 1302 (Computer Programming) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
 
 >Angela Ford
 
 
 ### Office Visits
-I currently live several hours from Houston so I am not in my campus office  that often.  I am always happy to set up a "virtual" visit using WebEx or a phone call.  
-During the semester, I do schedule occasional visits to campus - usually one or two days a month.  If you do want to meet in person, please let me know via Slack and I will review my upcoming visit calendar to determine if we can meet at a time that is convenient. 
+Please feel free to drop by my office for help during my office hours (listed at the top of this document) but it is best to let me know you are coming as I may have meetings or other appointments already scheduled.  I am also available by appointment if you cannot visit during office hours.  Contact me via Slack or email to coordinate a convenient time for both of us.
 
 ### Attendance
-We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in on-line Slack discussions or chat sessions.  It is your responsibility to keep up with the material and to check in for updates, assignment due dates, and potential schedule changes.
+We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in on-line Slack discussion or chat session.  It is your responsibility to keep up with the material and check the class Brightspace page regularly for updates, assignment due dates, and potential schedule changes.
 
 Should you anticipate that you will not be able to log on and participate in class for an extended period (72 hours), please notify me in advance.  Not logging in to the on-line class at a regular interval will significantly impact your chance for success.   **I will withdraw a student if they are not active in the course and do not respond to my Slack or email correspondence during a 7 day period.**
  
  
 ### Class Participation
-The college classroom is a place for adult men and women to meet with a common purpose of improving their intellectual and academic skills.  This applies to both face-to-face and on-line classes.  When engaging your instructor and fellow students, you will be expected to treat everyone with respect and in a professional manner.  The use of profanity, derogatory terms, and threats in any class-related forum will not be tolerated.  If a student violates this rule, they will be asked to leave the classroom (in a face-to-face section) or their access to the class will be blocked (in an on-line section).  
+The college classroom is a place for adult men and women to meet with a common purpose of improving their intellectual and academic skills.  This applies to both face-to-face and online classes.  When engaging your instructor and fellow students, you will be expected to treat everyone with respect and in a professional manner.  The use of profanity, derogatory terms, and threats in any class-related forum will not be tolerated.  If a student violates this rule, they will be asked to leave the classroom (in a face-to-face section) or their access to the class will be blocked (in an on-line section).  
 
 The violating student will not be allowed to return to class or regain access until he or she arranges a conference with the instructor.  It is the student’s responsibility to arrange for this conference. 
      
@@ -115,12 +110,11 @@ Evaluation will be based on the following grade components:
 | Grade Type | Points |
 | :---------: | :------: |
 | Quizzes (10%) | 100 |
-| SIMBook Readings (10%) | 100 |
-| SIMnet Projects (30%) | 300 |
-| Labs (16%) | 160 |
-| Capstone Projects (20%) | 200 |
-| Integrated Project (7%) | 70 |
-| Final Exam (7%) | 70 |
+| Programming Projects (30%) | 300 |
+| Participation (10%) | 100 |
+| Midterm Exam (15%) | 150 |
+| Semester Project (20%) | 200 |
+| Final Exam (15%) | 150 |
 | **TOTAL POINTS** | **1000** |
 
 
@@ -135,37 +129,33 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 | 0-599 | F |
 
 ## Tentative Course Outline 
-| Week | Topics | Assignments |
+| Week | Topics | Topics & Assignments |
 | :---: | -------- | ------ |
-| 1<br><br><br><br> | Class Introduction<br>SIMnet Registration<br>Slack.com Registration<br>Concepts:  Hardware<br> | Slack.com introduction post<br>Syllabus quiz<br>Hardware quiz<br><br> |  
-| 2<br><br><br><br> | Concepts: Software<br>Concepts: The Internet<br>Concepts: File Management<br>Skills: Screencasting | Software quiz<br> File Management lab<br>File Management quiz<br>Screencasting lab<br>|  
-| 3<br><br><br> |  Skills: Word Ch. 1<br>Skills: Word Ch. 2<br><br><br><br> | MS Office Ch. 1 (SIMBook reading)<br>Word Ch. 1 (SIMBook reading and SIMnet project)<br>Word Ch. 2 (SimBook reading and SIMnet project)<br> |  
-| 4<br><br><br><br><br><br> | Skills: Word Ch. 3<br>Skills: Word Ch. 4<br><br><br><br><br> | Word Ch. 3 (SimBook reading and SIMnet project)<br>Word Ch. 4 (SimBook reading and SIMnet project)<br>Word Processors quiz <br>Word Capstone project|
-| 5<br><br><br> | Concepts: LinkedIn.com<br>Skills: PowerPoint Ch. 1<br><br>| LinkedIn Profile lab<br>PowerPoint Ch. 1 (SimBook reading and SIMnet project)<br> |
-| 6<br><br><br><br><br><br> | Skills: PowerPoint Ch. 2 <br>Skills: PowerPoint Ch. 3<br><br><br><br><br> | PowerPoint Ch. 2 (SimBook reading and SIMnet project)<br>PowerPoint Ch. 3 (SimBook reading and SIMnet project)<br>Presentation Software quiz<br>PowerPoint Capstone project |
-| 7<br><br> | Concepts: Privacy, Ethics, & Security<br> | Security lab<br>Privacy, Ethics, and Security Quiz |
-| 8<br><br><br><br> | Skills: Excel Ch. 1<br>Skills: Excel Ch. 2<br><br><br> | Excel Ch. 1 (SimBook reading and SIMnet project)<br>Excel Ch. 2 (SimBook reading and SIMnet project) |
-| 9<br><br><br><br><br> | Skills: Excel Ch. 3<br>Skills: Excel Ch. 4<br><br><br><br> | Excel Ch. 3 (SimBook reading and SIMnet project)<br>Excel Ch. 4 (SimBook reading and SIMnet project)<br>Spreadsheets quiz |
-| 10<br><br> | Skills: Maintaining your LinkedIn profile | Excel Capstone project<br>LinkedIn Follow-up lab |
-| 11<br><br><br> | Emerging Technology<br><br><br> | Input/Output lab<br>Emerging Tech lab<br>Emerging Tech quiz |
-| 12 | Skills: Programming | Programming lab |
-| 13 | Skills: Databases | Databases Quiz<br>Databases capstone |
-| 14 |  | Integrated Project |
-| 15 |  | Integrated Project |
-| 16 | FINALS | Final Exam |
+| 1<br><br><br> | Class Introduction<br>Chapter 1<br>Chapter 2 |  Intro to Python Programming<br>Writing your First Program<br><br>|  
+| 2<br><br><br> | Class Introduction<br>Chapter 1<br>Chapter 2 |  Intro to Python Programming<br>Writing your First Program<br><br>|  
+| 3<br><br><br> | Chapter 3<br>Chapter 4<br><br> | Control Statements<br>Flowcharting<br>Functions<br> |  
+| 4<br><br><br> | Chapter 3<br>Chapter 4<br><br> | Control Statements<br>Flowcharting<br>Functions<br> |  
+| 5<br><br> | Chapter 5<br>Midterm<br> | Test & Debug<br>Midterm Exam<br>|
+| 6<br><br> | Chapter 5<br>Midterm<br> | Test & Debug<br>Midterm Exam<br>|
+| 7<br><br><br> | Chapter 6<br>Chapter 7<br>Chapter 8<br> | List and Tuples<br>File I/O<br>Handling Exceptions|
+| 8<br><br><br> | Chapter 6<br>Chapter 7<br>Chapter 8<br> | List and Tuples<br>File I/O<br>Handling Exceptions|
+| 9<br><br> | Chapter 9<br>Chapter 10<br> | Working with Numbers<br>Working with Strings|
+| 10<br><br> | Chapter 9<br>Chapter 10<br> | Working with Numbers<br>Working with Strings|
+| 11<br> | FINALS WEEK | Integrated Project<br> Final Exam |
+| 12<br> | FINALS WEEK | Integrated Project<br> Final Exam |
 
 
 ### Department/Division Contact
 If you have any issues in our classroom, the course content or with me, I would ask that you first address the issue directly with me.  If you feel that the issue remains unresolved even after speaking with me, you may contact the following individuals to whom I report.
 
-* Department Chair: Gary Tucker | <a href="tel:281-290-2957">281-290-2957</a> | <a href="mailto:gary.d.tucker@lonestar.edu">gary.d.tucker@lonestar.edu</a>
+* Dept. Chair: Gary Tucker | <a href="tel:281-290-2957">281-290-2957</a> | <a href="mailto:gary.d.tucker@lonestar.edu">gary.d.tucker@lonestar.edu</a>
 * Dean: Steven Kahla | <a href="tel:281-655-3788">281-655-3788</a> | <a href="mailto:steven.c.kahla@lonestar.edu">steven.c.kahla@lonestar.edu</a>
 
 ### Non Attendance at Start of Semester
 If you have not attended class for Face-to-Face sections or if you have not logged into D2L for on-line sections by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
 
 ### Withdrawal Policy
-Withdrawal from the course after the Official Day of Record and prior to “W” Day (Monday November 12th, 2018) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
+Withdrawal from the course after the Official Day of Record and prior to “W” Day (Thursday June 28, 2018) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
 
 _If you stop attending class and do not officially withdraw, you **will receive an “F”** for the course._
 
@@ -255,4 +245,4 @@ Access to the System’s e-mail and similar electronic communications systems ar
 Law strictly prohibits unauthorized copying of software purchased by Lone Star College-University Park for use in laboratories.  Lone Star College-University Park administration will take appropriate disciplinary action against anyone violating copyright laws.
 
 ### Evaluation of Instruction
-Lone Star College-University Park is committed to student success.  As part of its institutional effectiveness efforts, our instructors are assessed in several ways.  For the continuous improvement of our instruction, all students are required to provide input for each course they take each semester using the Course Evaluations Questionnaire, which can be accessed on-line for each course.  This occurs approximately half way through your course and your instructor will provide you more information on this process.  Once you evaluate your course, print and turn in the receipt of completion to your instructor.  The college deans review these evaluations each semester.  The deans and/or department chairs may visit each instructor’s class at some time during the semester to observe the instructional environment being provided and complete an assessment of the instructor. 
+Lone Star College-University Park is committed to student success.  As part of its institutional effectiveness efforts, our instructors are assessed in several ways.  For the continuous improvement of our instruction, all students are required to provide input for each course they take each semester using the Course Evaluations Questionnaire, which can be accessed on-line for each course.  This occurs approximately half way through your course and your instructor will provide you more information on this process.  Once you evaluate your course, print and turn in the receipt of completion to your instructor.  The college deans review these evaluations each semester.  The deans and/or department chairs may visit each instructor’s class at some time during the semester to observe the instructional environment being provided and complete an assessment of the instructor. It

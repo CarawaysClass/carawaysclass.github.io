@@ -1,4 +1,4 @@
-# SYLLABUS: BCIS 1305 - Business Computer Applications 
+# SYLLABUS: ITSE 2302 - Intermediate Web Programming 
 
 ## Instructor Contact Information
 **Name:** Bruce Caraway
@@ -7,11 +7,11 @@
 **Email:** <a href = "mailto:bruce.caraway@lonestar.edu">bruce.caraway@lonestar.edu</a>
 **Website:** <a href = "https://carawaysclass.com">carawaysclass.com</a>
 ## Course Info
-**Course Number:** BCIS 1305  
-**Course Title:** Business Computer Applications  
+**Course Number:** ITSE 2302  
+**Course Title:** Intermediate Web Programming  
 **Term and Year:** Fall 2018
 **Course Dates:** August 27 - December 16, 2018
-**Course Section(s):** 6001/2 | 6003/4 
+**Course Section(s):** 6001/2 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
@@ -26,7 +26,7 @@ Thursday 10am - Noon
 
 
 ## Course Description  
-In this course, students will study computer terminology, hardware, and software related to the business environment. The focus of this course is on business productivity software applications and professional behavior in computing, including word processing (as needed), spreadsheets, databases, presentation graphics, and business-oriented utilization of the Internet. 
+This course is designed to equip you, the student, with the fundamental programming skills necessary to build HTML-based web pages.  Generally (and per the course catalog), this course will develop skills used in web programming including mark-up and scripting languages. 
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
@@ -34,38 +34,45 @@ In this course, students will study computer terminology, hardware, and software
 * For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
 * For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
 * Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or D2L.
-* Call the McGraw-Hill support line (<a href="tel:800-331-5094">800-331-5094</a>) for issues with **SIMnet**. Be sure to get a case number when you contact them.
-**SIMnet** is the on-line service that you will use to complete a majority of the assignments of our class.  
-* Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
+* Work is to be submitted by the Due Date.  **Late work will not be accepted**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
 * Please use my virtual office hours (see hours above) should you need to set up a WebEx meeting or call for any question or issue that you would like to discuss.
-* _Even though most of our class assignments can be completed on a Mac, **there may be specific SIMnet assignments that require the Windows (PC) version of Office 2016**_. If you do not have Office 2016 (for Windows) at home, you may need to use the general-use PCs at any LSC campus.
 
 ## Student Learning Outcomes  
 
-Generally, students completing this course will be to:
+Generally, students completing this course will be able to:  
 
-1. Describe the fundamentals of Information Technology (IT) infrastructure components: hardware, software, and data communications systems.  
-2. Explain the guiding principles of professional behavior in computing.  
-3. Demonstrate proper file management techniques to manipulate electronic files and folders in a local and networked environment.  
-4. Use business productivity software to manipulate data and find solutions to business problems.  
-5. Explain the concepts and terminology used in the operation of application systems in a business environment.  
-6. Identify emerging technologies for use in business applications.  
-7. Complete projects that integrate business software applications.  
+* Demonstrate the use of markup and scripting languages.
+* Create interactive web pages. 
+* Use HTML5 and CSS3 for the formatting and layout of a web page.  
+* Create and use HTML5 tables and forms.  
+* Add images, audio, and video to a web page.  
+* Use CSS3 transitions, transforms, animations, and filters.  
+* Design and deploy a website. 
 
 ## Prerequisites  
 None.  
 ## Required Materials  
 To be successful in this class, the student must:  
 
-* Have access to a Windows PC with Microsoft Office 2016 installed
- _*OR*_ 
- access to a Mac with Microsoft 2016 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
-* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: ISBN: **978-1-260-72803-3**
-> Office 2016 SimNet - simnet online for Microsoft Office 2016, 1st ed
-> Author: Triad Interactive
-> Access Code 
-> **Note** You may purchase your access code from the campus bookstore or from within the SIMnet app.  I recommend that if you haven't already purchased your access code to wait until after the first week of class to buy.  The publisher provides two weeks of "free" access to start our semester. 
+<a href="https://amzn.to/2tNpTHX"><img style="float: right; margin: 20px;" src="https://carawaysclass.com/wp-content/uploads/2017/07/murach.jpg" width="200px" alt="book cover photo"></a>
+To be successful in this class, the student must have access to the textbook:<a href="https://amzn.to/2tNpTHX">Murach's HTML5 and CSS3, 3rd Ed.</a>. 
+ 
+Author:  Anne Boehm and Zak Ruvalcaba
+Publisher: Murach, 2015
+ISBN: 978-1890774837
+
+The book may be purchased (and even rented) from <a href="http://amzn.to/2tNpTHX" target="_blank">amazon.com</a> or other retail booksellers.
+
+##Technical Requirements  
+Students must have access to a personal computer running a recent version of a 
+syntax-highlighting text editor (e.g., Notepad++ for Windows, TextMate for OSX).  This computer must have ready access to the Internet and Lone Star College’s Brightspace Learning Management System (LMS).  
+
+- This course cannot be completed on a public computer, i.e., one which the 
+student does not have administrator rights to install software.  
+- Because this is an online, technical class, the student must 
+maintain their computer in working order, keeping it up-to-date and free of malware.
+
 
 ## Instructor Guidelines and Policies 
 
@@ -82,13 +89,13 @@ Slack is your best choice in communicating with me, but there may be instances w
 
 > Professor Caraway:
 
->I am Angela Ford from your BCIS 1305 (Business Computer Apps) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
+>I am Angela Ford from your ITSE 1311 (Beginning Web Programming) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
 
 >Angela Ford
 
 
 ### Office Visits
-I currently live several hours from Houston so I am not in my campus office  that often.  I am always happy to set up a "virtual" visit using WebEx or a phone call.  
+I currently live several hours from Houston so I am not in my campus office  on a daily basis.  I am always happy to set up a "virtual" visit, though, using WebEx or a phone call.  
 During the semester, I do schedule occasional visits to campus - usually one or two days a month.  If you do want to meet in person, please let me know via Slack and I will review my upcoming visit calendar to determine if we can meet at a time that is convenient. 
 
 ### Attendance
@@ -112,48 +119,36 @@ Assignments are due according to the schedule posted in slack.com (and D2L).  St
 
 Evaluation will be based on the following grade components:
 
-| Grade Type | Points |
-| :---------: | :------: |
-| Quizzes (10%) | 100 |
-| SIMBook Readings (10%) | 100 |
-| SIMnet Projects (30%) | 300 |
-| Labs (16%) | 160 |
-| Capstone Projects (20%) | 200 |
-| Integrated Project (7%) | 70 |
-| Final Exam (7%) | 70 |
-| **TOTAL POINTS** | **1000** |
+| Grade Type | Percentage |
+| ---------- | :------: |
+| Quizzes | 10 |
+| Discussions | 10 |
+| Programming Exercises & Projects | 40 |
+| Final Semester Project| 40 |
+|  | **100%** |
 
 
-Our grade book is based on a 1000 point scale.  Your final letter grade will be based on the number of points you earn for the semester.  The number of points required for each letter grade are as follows:
+Letter Grade Assignment:
 
-| Points Earned | Letter Grade |
+| Final Average | Letter Grade |
 | :----------: | :------: |
-| 900-1000 | A |
-| 800-899 | B |
-| 700-799 | C |
-| 600-699 | D |
-| 0-599 | F |
+| 90-100% | A |
+| 80-89% | B |
+| 70-79% | C |
+| 60-69% | D |
+| 0-59% | F |
 
 ## Tentative Course Outline 
-| Week | Topics | Assignments |
-| :---: | -------- | ------ |
-| 1<br><br><br><br> | Class Introduction<br>SIMnet Registration<br>Slack.com Registration<br>Concepts:  Hardware<br> | Slack.com introduction post<br>Syllabus quiz<br>Hardware quiz<br><br> |  
-| 2<br><br><br><br> | Concepts: Software<br>Concepts: The Internet<br>Concepts: File Management<br>Skills: Screencasting | Software quiz<br> File Management lab<br>File Management quiz<br>Screencasting lab<br>|  
-| 3<br><br><br> |  Skills: Word Ch. 1<br>Skills: Word Ch. 2<br><br><br><br> | MS Office Ch. 1 (SIMBook reading)<br>Word Ch. 1 (SIMBook reading and SIMnet project)<br>Word Ch. 2 (SimBook reading and SIMnet project)<br> |  
-| 4<br><br><br><br><br><br> | Skills: Word Ch. 3<br>Skills: Word Ch. 4<br><br><br><br><br> | Word Ch. 3 (SimBook reading and SIMnet project)<br>Word Ch. 4 (SimBook reading and SIMnet project)<br>Word Processors quiz <br>Word Capstone project|
-| 5<br><br><br> | Concepts: LinkedIn.com<br>Skills: PowerPoint Ch. 1<br><br>| LinkedIn Profile lab<br>PowerPoint Ch. 1 (SimBook reading and SIMnet project)<br> |
-| 6<br><br><br><br><br><br> | Skills: PowerPoint Ch. 2 <br>Skills: PowerPoint Ch. 3<br><br><br><br><br> | PowerPoint Ch. 2 (SimBook reading and SIMnet project)<br>PowerPoint Ch. 3 (SimBook reading and SIMnet project)<br>Presentation Software quiz<br>PowerPoint Capstone project |
-| 7<br><br> | Concepts: Privacy, Ethics, & Security<br> | Security lab<br>Privacy, Ethics, and Security Quiz |
-| 8<br><br><br><br> | Skills: Excel Ch. 1<br>Skills: Excel Ch. 2<br><br><br> | Excel Ch. 1 (SimBook reading and SIMnet project)<br>Excel Ch. 2 (SimBook reading and SIMnet project) |
-| 9<br><br><br><br><br> | Skills: Excel Ch. 3<br>Skills: Excel Ch. 4<br><br><br><br> | Excel Ch. 3 (SimBook reading and SIMnet project)<br>Excel Ch. 4 (SimBook reading and SIMnet project)<br>Spreadsheets quiz |
-| 10<br><br> | Skills: Maintaining your LinkedIn profile | Excel Capstone project<br>LinkedIn Follow-up lab |
-| 11<br><br><br> | Emerging Technology<br><br><br> | Input/Output lab<br>Emerging Tech lab<br>Emerging Tech quiz |
-| 12 | Skills: Programming | Programming lab |
-| 13 | Skills: Databases | Databases Quiz<br>Databases capstone |
-| 14 |  | Integrated Project |
-| 15 |  | Integrated Project |
-| 16 | FINALS | Final Exam |
-
+| Week | Topics | 
+| :---: | ---------- | 
+| 1 | Class Introduction, Setup and Chapter 1 |  
+| 2 | Chapter 2 & 3 |
+| 3 | Chapter 4, 5 & 6 |
+| 4 | Chapter 7, 8 & 9 |
+| 5 | Chapter 10 & 11 |
+| 6 | Chapter 12, 13 & 14 |
+| 7 | Chapter 18 & 19 |
+| 8 | Final Exam |
 
 ### Department/Division Contact
 If you have any issues in our classroom, the course content or with me, I would ask that you first address the issue directly with me.  If you feel that the issue remains unresolved even after speaking with me, you may contact the following individuals to whom I report.
