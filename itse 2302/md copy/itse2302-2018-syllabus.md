@@ -26,7 +26,7 @@ Thursday 10am - Noon
 
 
 ## Course Description  
-This course is designed to equip you, the student, with the fundamental programming skills necessary to build HTML-based web pages.  Generally (and per the course catalog), this course will develop skills used in web programming including mark-up and scripting languages. 
+Generally (and per the course catalog), this course will teach server-side and client-side techniques for Web development.  
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
@@ -42,27 +42,22 @@ This course is designed to equip you, the student, with the fundamental programm
 
 Generally, students completing this course will be able to:  
 
-* Demonstrate the use of markup and scripting languages.
-* Create interactive web pages. 
-* Use HTML5 and CSS3 for the formatting and layout of a web page.  
-* Create and use HTML5 tables and forms.  
-* Add images, audio, and video to a web page.  
-* Use CSS3 transitions, transforms, animations, and filters.  
-* Design and deploy a website. 
+* Create and use client-side and server-side scripts to design and implement dynamic websites.
 
 ## Prerequisites  
 None.  
 ## Required Materials  
-To be successful in this class, the student must:  
 
-<a href="https://amzn.to/2tNpTHX"><img style="float: right; margin: 20px;" src="https://carawaysclass.com/wp-content/uploads/2017/07/murach.jpg" width="200px" alt="book cover photo"></a>
-To be successful in this class, the student must have access to the textbook:<a href="https://amzn.to/2tNpTHX">Murach's HTML5 and CSS3, 3rd Ed.</a>. 
- 
-Author:  Anne Boehm and Zak Ruvalcaba
-Publisher: Murach, 2015
-ISBN: 978-1890774837
+To be successful in this class, the student must have access to the textbook:
+> **JavaScript & jQuery Interactive Front-End Web Development (Print, eBook, Rental)**
+> Author:  Jon Duckett
+> Publisher: Wiley
+> Publish Date: June 30, 2014
+> ISBN: 978-1118531648
 
-The book may be purchased (and even rented) from <a href="http://amzn.to/2tNpTHX" target="_blank">amazon.com</a> or other retail booksellers.
+Note: You may purchase your textbook from any vendor as long as you get the exact edition of the book.  If you do not plan to keep the textbook, renting it is usually the least expensive way to obtain it. You could rent it for less than $50 at the LSC bookstore or online. 
+
+The book may be purchased (and even rented) from <a href="https://amzn.to/2o59nB4" target="_blank">amazon.com</a> or other retail booksellers.
 
 ##Technical Requirements  
 Students must have access to a personal computer running a recent version of a 
@@ -89,7 +84,7 @@ Slack is your best choice in communicating with me, but there may be instances w
 
 > Professor Caraway:
 
->I am Angela Ford from your ITSE 1311 (Beginning Web Programming) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
+>I am Angela Ford from your ITSE 2302 (Intermediate Web Programming) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
 
 >Angela Ford
 
@@ -141,13 +136,13 @@ Letter Grade Assignment:
 ## Tentative Course Outline 
 | Week | Topics | 
 | :---: | ---------- | 
-| 1 | Class Introduction, Setup and Chapter 1 |  
-| 2 | Chapter 2 & 3 |
-| 3 | Chapter 4, 5 & 6 |
-| 4 | Chapter 7, 8 & 9 |
-| 5 | Chapter 10 & 11 |
-| 6 | Chapter 12, 13 & 14 |
-| 7 | Chapter 18 & 19 |
+| 1 | Class Introduction and Setup |  
+| 2 | Chapter 3 & 4 |
+| 3 | Chapter 5 & 6 |
+| 4 | Chapter 7 & 8 |
+| 5 | Chapter 9 & 10 |
+| 6 | Chapter 11 & 12 |
+| 7 | Chapter 13 |
 | 8 | Final Exam |
 
 ### Department/Division Contact

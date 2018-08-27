@@ -1,4 +1,4 @@
-# SYLLABUS: ITSE 1302 - Computer Pragramming 
+# SYLLABUS: ITSE 1302 - Computer Programming 
 
 ## Instructor Contact Information
 **Name:** Bruce Caraway
@@ -7,11 +7,11 @@
 **Email:** <a href = "mailto:bruce.caraway@lonestar.edu">bruce.caraway@lonestar.edu</a>
 **Website:** <a href = "https://carawaysclass.com">carawaysclass.com</a>
 ## Course Info
-**Course Number:** ITSE 1311  
-**Course Title:** Beginning Web Programming  
+**Course Number:** ITSE 1302  
+**Course Title:** Computer Programming  
 **Term and Year:** Fall 2018
 **Course Dates:** August 27 - December 16, 2018
-**Course Section(s):** 6001/2 
+**Course Section(s):** 6005/6 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
@@ -45,9 +45,10 @@ Generally (and per the course catalog), this course will introduce you to concep
 Generally, students completing this course will be able to:
 
 1. Design computer programs
-2. Write computer programs
+2. Develop (write) computer programs
 3. Test computer programs
-4. Document computer programs  
+4. Implement computer programs
+5. Document computer programs  
 
 ## Corequisites  
 - ITSC 1301 or COSC 1301 or BCIS 1305 (for Business majors only) Department Approval.  
@@ -56,10 +57,9 @@ Generally, students completing this course will be able to:
 To be successful in this class, the student must:  
 
 * Have access to a computer with internet access  
-* Have a physical or digital copy of our textbook:
-> Murach's Python Programming
-> Authors: Joel Murach and Michael Murach
-> ISBN:  978-1890774974
+* Have access to our online textbook:
+> <a href="https://www.py4e.com/book.php" target="_blank">Python for Everybody</a>
+> 
 
 This program can be purchased from the campus bookstore and online through a variety of vendors included <a href="https://amzn.to/2JaoRje" target="_blank">Amazon.com</a>.  
 
@@ -107,42 +107,43 @@ Assignments are due according to the schedule posted in slack.com (and D2L).  St
 
 Evaluation will be based on the following grade components:
 
-| Grade Type | Points |
+| Grade Type | Percentage |
 | :---------: | :------: |
-| Quizzes (10%) | 100 |
-| Programming Projects (30%) | 300 |
-| Participation (10%) | 100 |
-| Midterm Exam (15%) | 150 |
-| Semester Project (20%) | 200 |
-| Final Exam (15%) | 150 |
-| **TOTAL POINTS** | **1000** |
+| Quizzes  | 15% |
+| Programming Exercises | 40% |
+| Participation | 20% |
+| Semester Project | 10% |
+| Exams | 15% |
+| **TOTAL** | **100%** |
 
 
-Our grade book is based on a 1000 point scale.  Your final letter grade will be based on the number of points you earn for the semester.  The number of points required for each letter grade are as follows:
+Letter Grade Assignment:
 
-| Points Earned | Letter Grade |
+| Final Percentage Earned | Letter Grade |
 | :----------: | :------: |
-| 900-1000 | A |
-| 800-899 | B |
-| 700-799 | C |
-| 600-699 | D |
-| 0-599 | F |
+| 90-100 | A |
+| 80-89 | B |
+| 70-79 | C |
+| 60-69 | D |
+| 0-59 | F |
 
 ## Tentative Course Outline 
-| Week | Topics | Topics & Assignments |
-| :---: | -------- | ------ |
-| 1<br><br><br> | Class Introduction<br>Chapter 1<br>Chapter 2 |  Intro to Python Programming<br>Writing your First Program<br><br>|  
-| 2<br><br><br> | Class Introduction<br>Chapter 1<br>Chapter 2 |  Intro to Python Programming<br>Writing your First Program<br><br>|  
-| 3<br><br><br> | Chapter 3<br>Chapter 4<br><br> | Control Statements<br>Flowcharting<br>Functions<br> |  
-| 4<br><br><br> | Chapter 3<br>Chapter 4<br><br> | Control Statements<br>Flowcharting<br>Functions<br> |  
-| 5<br><br> | Chapter 5<br>Midterm<br> | Test & Debug<br>Midterm Exam<br>|
-| 6<br><br> | Chapter 5<br>Midterm<br> | Test & Debug<br>Midterm Exam<br>|
-| 7<br><br><br> | Chapter 6<br>Chapter 7<br>Chapter 8<br> | List and Tuples<br>File I/O<br>Handling Exceptions|
-| 8<br><br><br> | Chapter 6<br>Chapter 7<br>Chapter 8<br> | List and Tuples<br>File I/O<br>Handling Exceptions|
-| 9<br><br> | Chapter 9<br>Chapter 10<br> | Working with Numbers<br>Working with Strings|
-| 10<br><br> | Chapter 9<br>Chapter 10<br> | Working with Numbers<br>Working with Strings|
-| 11<br> | FINALS WEEK | Integrated Project<br> Final Exam |
-| 12<br> | FINALS WEEK | Integrated Project<br> Final Exam |
+| Week | Chapters | Topics & Assignments |
+| :---: | -------------- | ------ |
+| 1 | Intro<br>Ch 1 |  Introduction to our class and the Python Programming Language<br>|  
+| 2 | Ch 2 |  Variables |  
+| 3 | Ch 3 | Conditionals |  
+| 4 | Ch 3 | Conditionals |  
+| 5 | Ch 4 | Functions |
+| 6 | Ch 4 | Functions |
+| 7 | Ch 1-4 | Midterm Exam |
+| 8 | Ch 5 | Iterations |
+| 9 | Ch 6 | Strings|
+| 10 | Ch 7 | Files |
+| 11 | Ch 8 & 9| Lists and Dictionaries |
+| 12 | Ch 10 | Tuples |
+| 13 | -- | Final Project |
+| 14 | -- | Final Exam |
 
 
 ### Department/Division Contact
@@ -155,7 +156,7 @@ If you have any issues in our classroom, the course content or with me, I would 
 If you have not attended class for Face-to-Face sections or if you have not logged into D2L for on-line sections by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
 
 ### Withdrawal Policy
-Withdrawal from the course after the Official Day of Record and prior to “W” Day (Thursday June 28, 2018) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
+Withdrawal from the course after the Official Day of Record and prior to “W” Day (Monday November 12th, 2018) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
 
 _If you stop attending class and do not officially withdraw, you **will receive an “F”** for the course._
 
