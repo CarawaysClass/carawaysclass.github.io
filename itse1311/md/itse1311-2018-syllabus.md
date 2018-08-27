@@ -55,14 +55,14 @@ None.
 ## Required Materials  
 To be successful in this class, the student must:  
 
-<a href="https://amzn.to/2tNpTHX"><img style="float: right; margin: 20px;" src="https://carawaysclass.com/wp-content/uploads/2017/07/murach.jpg" width="200px" alt="book cover photo"></a>
-To be successful in this class, the student must have access to the textbook:<a href="https://amzn.to/2tNpTHX">Murach's HTML5 and CSS3, 3rd Ed.</a>. 
+<a href="https://amzn.to/2tNpTHX"><img style="float: right; margin: 20px;" src="https://carawaysclass.com/wp-content/uploads/2017/07/murach-html4ed-e1535405398898.jpg" width="200px" alt="book cover photo"></a>
+To be successful in this class, the student must have access to the textbook:<a href="https://amzn.to/2BSLYMW">Murach's HTML5 and CSS3, 4th Ed.</a>. 
  
 Author:  Anne Boehm and Zak Ruvalcaba
-Publisher: Murach, 2015
-ISBN: 978-1890774837
+Publisher: Murach, 2018
+ISBN: 978-1943872268
 
-The book may be purchased (and even rented) from <a href="http://amzn.to/2tNpTHX" target="_blank">amazon.com</a> or other retail booksellers.
+The book may be purchased (and even rented) from <a href="https://amzn.to/2BSLYMW" target="_blank">amazon.com</a> or other retail booksellers.
 
 ##Technical Requirements  
 Students must have access to a personal computer running a recent version of a 
