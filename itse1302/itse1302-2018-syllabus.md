@@ -146,7 +146,7 @@ Letter Grade Assignment:
 | 11 | Ch 8 & 9| Lists and Dictionaries |
 | 12 | Ch 10 | Tuples |
 | 13 | -- | Final Project |
-| 14 | -- | Final Exam |
+| 14 | -- | Final Project |
 
 
 ### Department/Division Contact
