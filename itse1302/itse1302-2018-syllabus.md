@@ -16,6 +16,8 @@
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
 
+You can expect to spend at least 8-12 hours per week on this course during a 14-week semester.
+
 Campus Map:  <a href="http://www.lonestar.edu/maps-universitypark.htm" target="_blank">Lone Star College - University Park</a>
 ## Virtual Office Hours:   
 Tuesday 10am - Noon
@@ -84,7 +86,8 @@ Slack is your best choice in communicating with me, but there may be instances w
 
 
 ### Office Visits
-Please feel free to drop by my office for help during my office hours (listed at the top of this document) but it is best to let me know you are coming as I may have meetings or other appointments already scheduled.  I am also available by appointment if you cannot visit during office hours.  Contact me via Slack or email to coordinate a convenient time for both of us.
+I currently live several hours from Houston so I am not in my campus office that often. I am always happy to set up a “virtual” visit using WebEx or a phone call.
+During the semester, I do schedule occasional visits to campus - usually one or two days a month. If you do want to meet in person, please let me know via Slack and I will review my upcoming visit calendar to determine if we can meet at a time that is convenient.
 
 ### Attendance
 We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in on-line Slack discussion or chat session.  It is your responsibility to keep up with the material and check the class Brightspace page regularly for updates, assignment due dates, and potential schedule changes.
