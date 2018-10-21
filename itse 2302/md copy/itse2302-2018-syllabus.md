@@ -31,8 +31,8 @@ Generally (and per the course catalog), this course will teach server-side and c
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
 * Check Brightspace (D2L) for our weekly Learning Activities and Assignments.  
-* For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
-* For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
+* For communications received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
+* For communications received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
 * Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or D2L.
 * Work is to be submitted by the Due Date.  **Late work will not be accepted**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
@@ -63,10 +63,8 @@ The book may be purchased (and even rented) from <a href="https://amzn.to/2o59nB
 Students must have access to a personal computer running a recent version of a 
 syntax-highlighting text editor (e.g., Notepad++ for Windows, TextMate for OSX).  This computer must have ready access to the Internet and Lone Star College’s Brightspace Learning Management System (LMS).  
 
-- This course cannot be completed on a public computer, i.e., one which the 
-student does not have administrator rights to install software.  
-- Because this is an online, technical class, the student must 
-maintain their computer in working order, keeping it up-to-date and free of malware.
+- This course cannot be completed on a public computer, i.e., one which the student does not have administrator rights to install software.  
+- Because this is an online, technical class, the student must maintain their computer in working order, keeping it up-to-date and free of malware.
 
 
 ## Instructor Guidelines and Policies 
@@ -80,7 +78,7 @@ I will email you an invitation to our Slack class site, during the first week of
 
 
 ### Emailing Your Instructor
-Slack is your best choice in communicating with me, but there may be instances where you wish to email me.  If you choose to use email, be sure to include your name, course name, and course number in the email.   Keep the body of your message brief, and to-the-point.  Here is an example of a good email:
+Slack is your best choice in communicating with me, but there may be instances where you wish to email me.  If you choose to use email, be sure to include your name, course name, and course number in the email.   Keep the body of your message brief and to-the-point.  Here is an example of a good email:
 
 > Professor Caraway:
 
@@ -90,7 +88,7 @@ Slack is your best choice in communicating with me, but there may be instances w
 
 
 ### Office Visits
-I currently live several hours from Houston so I am not in my campus office  on a daily basis.  I am always happy to set up a "virtual" visit, though, using WebEx or a phone call.  
+I currently live several hours from Houston so I am not in my campus office on a daily basis.  I am always happy to set up a "virtual" visit, though, using WebEx or a phone call.  
 During the semester, I do schedule occasional visits to campus - usually one or two days a month.  If you do want to meet in person, please let me know via Slack and I will review my upcoming visit calendar to determine if we can meet at a time that is convenient. 
 
 ### Attendance
@@ -155,7 +153,7 @@ If you have any issues in our classroom, the course content or with me, I would 
 If you have not attended class for Face-to-Face sections or if you have not logged into D2L for on-line sections by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
 
 ### Withdrawal Policy
-Withdrawal from the course after the Official Day of Record and prior to “W” Day (Wednesday December 5th, 2018) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
+Withdrawal from the course after the Official Day of Record and prior to “W” Day (Wednesday December 5th, 2018) will result in a final grade of “W” on your transcript.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
 
 _If you stop attending class and do not officially withdraw, you **will receive an “F”** for the course._
 
