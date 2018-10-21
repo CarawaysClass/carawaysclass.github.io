@@ -10,7 +10,7 @@
 **Course Number:** ITSE 2302  
 **Course Title:** Intermediate Web Programming  
 **Term and Year:** Fall 2018
-**Course Dates:** August 27 - December 16, 2018
+**Course Dates:** October 22 - December 16, 2018
 **Course Section(s):** 6001/2 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
