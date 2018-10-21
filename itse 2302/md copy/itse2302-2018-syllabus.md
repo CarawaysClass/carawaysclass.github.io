@@ -30,7 +30,7 @@ Generally (and per the course catalog), this course will teach server-side and c
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
-* Check the slack site for our weekly Learning Activities and Assignments.  
+* Check Brightspace (D2L) for our weekly Learning Activities and Assignments.  
 * For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
 * For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
 * Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or D2L.
@@ -116,10 +116,10 @@ Evaluation will be based on the following grade components:
 
 | Grade Type | Percentage |
 | ---------- | :------: |
-| Quizzes | 10 |
-| Discussions | 10 |
+| Quizzes | 20 |
+| Discussions | 20 |
 | Programming Exercises & Projects | 40 |
-| Final Semester Project| 40 |
+| Final Exam | 20 |
 |  | **100%** |
 
 
@@ -155,7 +155,7 @@ If you have any issues in our classroom, the course content or with me, I would 
 If you have not attended class for Face-to-Face sections or if you have not logged into D2L for on-line sections by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
 
 ### Withdrawal Policy
-Withdrawal from the course after the Official Day of Record and prior to “W” Day (Monday November 12th, 2018) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
+Withdrawal from the course after the Official Day of Record and prior to “W” Day (Wednesday December 5th, 2018) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
 
 _If you stop attending class and do not officially withdraw, you **will receive an “F”** for the course._
 
