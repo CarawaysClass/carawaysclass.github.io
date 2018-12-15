@@ -155,7 +155,7 @@ If you have any issues in our classroom, the course content or with me, I would 
 If you have not attended class for Face-to-Face sections or if you have not logged into D2L for on-line sections by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
 
 ### Withdrawal Policy
-Withdrawal from the course after the Official Day of Record and prior to "W" Day (Monday November 12th, 2018) will result in a final grade of "W" on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a "W."  If you stop participating in the on-line class, you must withdraw at the registration office prior to "W" day.
+Withdrawal from the course after the Official Day of Record and prior to "W" Day will result in a final grade of "W" on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a "W."  If you stop participating in the on-line class, you must withdraw at the registration office prior to "W" day.
 
 _If you stop attending class and do not officially withdraw, you **will receive an "F"** for the course._
 
