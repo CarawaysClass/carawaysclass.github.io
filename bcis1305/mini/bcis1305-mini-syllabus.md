@@ -9,20 +9,19 @@
 ## Course Info
 **Course Number:** BCIS 1305  
 **Course Title:** Business Computer Applications  
-**Term and Year:** Fall 2018
-**Course Dates:** August 27 - December 16, 2018
-**Course Section(s):** 6001/2 | 6003/4 
+**Term and Year:** Spring 2019
+**Course Dates:** December 17, 2018 - January 13, 2019
+**Course Section(s):** 6009/6010 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
 
-Campus Map:  <a href="http://www.lonestar.edu/maps-universitypark.htm" target="_blank">Lone Star College - University Park</a>
 ## Virtual Office Hours:   
-Tuesday 10am - Noon
+Monday 10am - Noon
 Wednesday 1-3pm
 Thursday 10am - Noon
 
-...or by appointment
+...or just contact me via our Slack team site
 
 
 ## Course Description  
@@ -30,16 +29,16 @@ In this course, students will study computer terminology, hardware, and software
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
-* Check the slack site for our weekly Learning Activities and Assignments.  
-* For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
-* For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
-* Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or D2L.
+* Check SIMnet for our weekly Learning Activities and Assignments.  
+* Keep connected via our Slack team site for updates and notifications.
+* For Slack communications received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
+* For Slack communications received between _Friday noon and Sunday, I will reply by 5pm, the following Monday.
+* Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email, MyLonestar, and Brightspace (D2L).
 * Call the McGraw-Hill support line (<a href="tel:800-331-5094">800-331-5094</a>) for issues with **SIMnet**. Be sure to get a case number when you contact them.
-**SIMnet** is the on-line service that you will use to complete a majority of the assignments of our class.  
+**SIMnet** is the on-line service that we will use to complete a majority of the assignments of our class.  You will need to purchase a SIMnet access code for our course.
 * Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
-* Please use my virtual office hours (see hours above) should you need to set up a WebEx meeting or call for any question or issue that you would like to discuss.
-* _Even though most of our class assignments can be completed on a Mac, **there may be specific SIMnet assignments that require the Windows (PC) version of Office 2016**_. If you do not have Office 2016 (for Windows) at home, you may need to use the general-use PCs at any LSC campus.
+* * _Even though most of our class assignments can be completed on a Mac, **there are specific SIMnet assignments that require the Windows (PC) version of Office 2016**_. If you do not have Office 2016 (for Windows) at home, you may need to use the general-use Windows PCs found at any LSC campus.
 
 ## Student Learning Outcomes  
 
@@ -60,12 +59,11 @@ To be successful in this class, the student must:
 
 * Have access to a Windows PC with Microsoft Office 2016 installed
  _*OR*_ 
- access to a Mac with Microsoft 2016 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
+ access to a Mac with Microsoft 2016 installed.  (As an LSC student you <a href="https://portal.office.com" target="_blank">get Office for free</a>).   
 * Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: ISBN: **978-1-260-72803-3**
-> Office 2016 SimNet - simnet online for Microsoft Office 2016, 1st ed
+> Computing Essen 2017 (Access)(w/Office 2016)(CUSTOM)(LSC)
 > Author: Triad Interactive
-> Access Code 
-> **Note** You may purchase your access code from the campus bookstore or from within the SIMnet app.  I recommend that if you haven't already purchased your access code to wait until after the first week of class to buy.  The publisher provides two weeks of "free" access to start our semester. 
+> **Note** You may purchase your access code from the campus bookstore or from within the SIMnet app.  I recommend that wait until after the first week of class to buy.  The publisher provides two weeks of "free" access to start our semester. 
 
 ## Instructor Guidelines and Policies 
 
@@ -74,11 +72,11 @@ We will use <a href="https://slack.com" target="_blank">Slack.com</a> for most s
 
 With Slack, you can hold a direct conversation with your instructor, share an idea with one of your classmates, or enter into a discussion with a group of your classmates.
 
-I will email you an invitation to our Slack class site, during the first week of class.  This will include everything you will need to know in order to join and participate in our Slack class.
+I will email you an invitation to our Slack class site, during the first couple of days of class.  This will include everything you will need to know in order to join and participate in our Slack class.
 
 
 ### Emailing Your Instructor
-Slack is your best choice in communicating with me, but there may be instances where you wish to email me.  If you choose to use email, be sure to include your name, course name, and course number in the email.   Keep the body of your message brief, and to-the-point.  Here is an example of a good email:
+Slack is your best choice in communicating with me, but there may be instances where you wish to email me.  If you choose to use email, be sure to include your name, course name, and course number in the email.  If you do not fully identify yourself and course info, I will likely not reply. Keep the body of your message brief, and to-the-point.  Here is an example of a good email:
 
 > Professor Caraway:
 
@@ -88,8 +86,7 @@ Slack is your best choice in communicating with me, but there may be instances w
 
 
 ### Office Visits
-I currently live several hours from Houston so I am not in my campus office  that often.  I am always happy to set up a "virtual" visit using WebEx or a phone call.  
-During the semester, I do schedule occasional visits to campus - usually one or two days a month.  If you do want to meet in person, please let me know via Slack and I will review my upcoming visit calendar to determine if we can meet at a time that is convenient. 
+I currently live several hours from Houston so I am not in my campus office very often.  I am always happy to set up a "virtual" visit using WebEx or a phone call - just contact me via Slack to initiate a session.  
 
 ### Attendance
 We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in on-line Slack discussions or chat sessions.  It is your responsibility to keep up with the material and to check in for updates, assignment due dates, and potential schedule changes.
@@ -114,13 +111,13 @@ Evaluation will be based on the following grade components:
 
 | Grade Type | Points |
 | :---------: | :------: |
-| Quizzes (10%) | 100 |
-| SIMBook Readings (10%) | 100 |
-| SIMnet Projects (30%) | 300 |
-| Labs (16%) | 160 |
-| Capstone Projects (20%) | 200 |
-| Integrated Project (7%) | 70 |
-| Final Exam (7%) | 70 |
+| Quizzes (5%) | 50 |
+| SIMBook Readings (11%) | 110 |
+| SIMnet Projects (50%) | 500 |
+| Labs (6%) | 60 |
+| Capstone Projects (18%) | 180 |
+| Integrated Project (5%) | 50 |
+| Final Exam (5%) | 50 |
 | **TOTAL POINTS** | **1000** |
 
 
@@ -151,7 +148,6 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 | 12 | Skills: Programming | Programming lab |
 | 13 | Skills: Databases | Databases Quiz<br>Databases capstone |
 | 14 |  | Integrated Project |
-| 15 |  | Integrated Project |
 | 16 | FINALS | Final Exam |
 
 
