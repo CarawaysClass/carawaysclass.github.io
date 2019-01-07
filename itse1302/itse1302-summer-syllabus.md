@@ -9,8 +9,8 @@
 ## Course Info
 **Course Number:** ITSE 1302  
 **Course Title:** Computer Programming  
-**Term and Year:** Summer I 2018  
-**Course Dates:** June 4 - July 10, 2018  
+**Term and Year:** Spring 2019  
+**Course Dates:** January 14 - May 10, 2019  
 **Course Section(s):** 6001/2  
 **Class Days & Times:** ONLINE   
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)  

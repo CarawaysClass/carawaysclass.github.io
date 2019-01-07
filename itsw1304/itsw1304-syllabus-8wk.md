@@ -10,7 +10,7 @@
 **Course Number:** ITSW 1304  
 **Course Title:** Intro to Spreadsheets  
 **Term and Year:** Spring 2019 8W1
-**Course Dates:** January 14 - March 5, 2019
+**Course Dates:** January 14 - March 12, 2019
 **Course Section(s):** 6001/2 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
@@ -152,20 +152,20 @@ If you have any issues in our classroom, the course content or with me, I would 
 If you have not attended class for a face-to-face section or if you have not logged into D2L for an on-line section by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
 
 ### Withdrawal Policy
-Withdrawal from the course after the Official Day of Record and prior to “W” Day (Friday April 6th, 2018) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
+Withdrawal from the course after the Official Day of Record and prior to "W" Day (Friday April 6th, 2018) will result in a final grade of "W" on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a "W."  If you stop participating in the on-line class, you must withdraw at the registration office prior to "W" day.
 
-_If you stop attending class and do not officially withdraw, you **will receive an “F”** for the course._
+_If you stop attending class and do not officially withdraw, you **will receive an "F"** for the course._
 
 ### Incompletes
 An ‘I’ or Incomplete will be considered only in extreme cases of illness or emergency.  An Incomplete will only be considered for those students who have completed at least 75% of the course material and have a passing average (70 or better) for those assignments that they have completed.  Granting an Incomplete is fully at the discretion of your instructor.  
 
-A student who receives an "I" does not re-register for the course and must complete the course no later than the set due date not to exceed the end of the following fall or spring semester. The instructor must submit a signed “I” contract to the appropriate division; students will receive a copy of the contract following approval by the Dean or designee.
+A student who receives an "I" does not re-register for the course and must complete the course no later than the set due date not to exceed the end of the following fall or spring semester. The instructor must submit a signed "I" contract to the appropriate division; students will receive a copy of the contract following approval by the Dean or designee.
 
 ### Early Alert
 Early Alert is a student success effort designed to help students reach their full educational potential and successfully complete their classes.  By requesting Early Alert for a student, a faculty member sends a message to the advising/counseling team, who will then contact the student and schedule a meeting to discuss support options. Students may be referred to Early Alert for many reasons, including poor academic performance, lack of basic study skills, attendance, persistent tardiness, and personal or financial issues that interfere with class performance.
 
 ### Six Drop Rule
-Students who enrolled in Texas public institutions of higher education as first-time college students during the Fall 2007 term or later are subject to section 51.907 of the Texas Education Code, which states that an institution of higher education may not permit a student to drop (withdraw with a grade of “W”) from more than six courses, including courses that a transfer student has previously dropped at other Texas public institutions of higher education that have already been counted against their six drop limit.   Each student should fully understand this drop limit before you drop any course.  Please see a Counselor or Advisor in our Student Services area for additional information and assistance. <span style="color: red">_This policy does not affect developmental or ESOL students._</span>
+Students who enrolled in Texas public institutions of higher education as first-time college students during the Fall 2007 term or later are subject to section 51.907 of the Texas Education Code, which states that an institution of higher education may not permit a student to drop (withdraw with a grade of "W") from more than six courses, including courses that a transfer student has previously dropped at other Texas public institutions of higher education that have already been counted against their six drop limit.   Each student should fully understand this drop limit before you drop any course.  Please see a Counselor or Advisor in our Student Services area for additional information and assistance. <span style="color: red">_This policy does not affect developmental or ESOL students._</span>
 
 **Lone Star College-University Park Learning Center is committed to your success.**
 
@@ -194,8 +194,8 @@ The Lone Star College System upholds the core values of learning: honesty, respe
 The consequences for academic dishonesty are determined by the professor, or the professor and academic dean, or the professor and chief student services officer and can include but are not limited to:  
 
 1. Having additional class requirements imposed,  
-2. Receiving a grade of zero or “F” for an exam or assignment,  
-3. Receiving a grade of “F” for the course,
+2. Receiving a grade of zero or "F" for an exam or assignment,  
+3. Receiving a grade of "F" for the course,
 4. Being withdrawn from the course or program,
 5. Being expelled from the college system.
 
@@ -214,13 +214,13 @@ Lone Star College is very committed to equal access in educational opportunities
 ### Americans with Disabilities Act Statement
 Lone Star College-University Park is dedicated to providing the least restrictive environment for all students.  We promote equity in academic access through the implementation of reasonable accommodations as required by the Vocational Rehabilitation Act of 1973, Title V, Section 504 and the Americans with Disabilities Act of 1990 (ADA) which will enable students with disabilities to participate in and benefit from all post-secondary educational activities.
 
-Disability Services is located on the LSC University Park campus in Building 13, Suite 200.  You may contact Disability Services at the following number:  <a href="tel:281-401-5370">281-401-5370</a>.  Additional information may be accessed on-line at the following URL:  <a href="http://www.lonestar.edu/disability-services.htm" target="_blank">http://www.lonestar.edu/disability-services.htm</a>.
+Disability Services is located on the LSC University Park campus in Building 13, Suite 200.  You may contact Disability Services at the following number:  <a href="tel:281-401-5366">281-401-5366</a>.  Additional information may be accessed on-line at the following URL:  <a href="http://www.lonestar.edu/disability-services.htm" target="_blank">http://www.lonestar.edu/disability-services.htm</a>.
 
 ### Campus Safety and Security
 Lone Star College System is committed to maintaining the safety of the students, faculty, staff, and guests while visiting one of our campuses.  See <a href="http://www.lonestar.edu/campus-safety.htm" target="_blank">http://www.lonestar.edu/campus-safety.htm</a> for details.  Register at <a href="http://www.lonestar.edu/LoneStarCollegeAlert.htm" target="_blank">http://www.lonestar.edu/LoneStarCollegeAlert.htm</a> to receive emergency notifications.  In the event of an emergency, contact the police at 5911.
 
 ### Campus Carry
-The Texas Legislature enacted campus carry by passing Senate Bill 11, effective at LSC on August 1, 2017.  Senate Bill 11, known as the “Campus Carry” law, amends Texas law to allow license holders to carry concealed handguns on college campuses.  To carry a concealed handgun on LSC campuses, an individual must have a valid License to Carry issued by the Texas Department of Public Safety.
+The Texas Legislature enacted campus carry by passing Senate Bill 11, effective at LSC on August 1, 2017.  Senate Bill 11, known as the "Campus Carry" law, amends Texas law to allow license holders to carry concealed handguns on college campuses.  To carry a concealed handgun on LSC campuses, an individual must have a valid License to Carry issued by the Texas Department of Public Safety.
  
 LSC has established rules and regulations regarding enforcement of Campus Carry.  Lone Star College prohibits concealed carry in some areas of LSC campuses.  For more information about Campus Carry, visit the <a href="http://www.lonestar.edu/campuscarry" target="_blank">LSC Campus Carry website</a>.
 

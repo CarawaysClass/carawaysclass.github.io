@@ -3,17 +3,17 @@
 ## Instructor Contact Information
 **Name:** Bruce Caraway
 **Office Phone:** <a href="tel:281-401-5394">281-401-5394</a>
-**Office:** UP NRB Bldg, Room 209P
+**Office:** UP Building 12, Room 632
 **Email:** <a href = "mailto:bruce.caraway@lonestar.edu">bruce.caraway@lonestar.edu</a>
 **Website:** <a href = "https://carawaysclass.com">carawaysclass.com</a>
 ## Course Info
 **Course Number:** BCIS 1350  
 **Course Title:** Systems Analysis and Design  
-**Term and Year:** Fall 2017
-**Course Dates:** September 11 - December 14, 2017
-**Course Section(s):** 6003/4
+**Term and Year:** Spring 2019 8W2
+**Course Dates:** March 8 - May 10, 2019
+**Course Section(s):** 6001 
 **Class Days & Times:** ONLINE  
-**Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
+**Credit Hours:** 3 
 **Total Contact Hours** 80
 
 Campus Map:  <a href="http://www.lonestar.edu/maps-universitypark.htm" target="_blank">Lone Star College - University Park</a>
@@ -78,7 +78,8 @@ In some instances you may wish to email your instructor.  If you do choose to us
 
 
 ### Office Visits
-Please feel free to drop by my office for help during my office hours (listed at the top of this document) but it is best to let me know you are coming as I may have meetings or other appointments already scheduled.  I am available by appointment if you cannot visit during office hours.  Contact me via Slack or email to coordinate a convenient time for both of us.
+I currently live several hours from Houston so I am not in my campus office  that often.  I am always happy to set up a "virtual" visit using WebEx or a phone call.  
+During the semester, I do schedule occasional visits to campus - usually one or two days a month.  If you do want to meet in person, please let me know via Slack and I will review my upcoming visit calendar to determine if we can meet at a time that is convenient. 
 
 ### Attendance
 We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in online Slack discussion or chat session.  It is your responsibility to keep up with the material and check the class D2L page regularly for updates, assignment due dates, and potential schedule changes.

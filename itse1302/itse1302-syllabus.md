@@ -1,4 +1,4 @@
-# Syllabus: ITSW 1304 Intro to Spreadsheets
+# SYLLABUS: ITSE 1302 - Computer Programming 
 
 ## Instructor Contact Information
 **Name:** Bruce Caraway
@@ -7,60 +7,63 @@
 **Email:** <a href = "mailto:bruce.caraway@lonestar.edu">bruce.caraway@lonestar.edu</a>
 **Website:** <a href = "https://carawaysclass.com">carawaysclass.com</a>
 ## Course Info
-**Course Number:** ITSW 1304  
-**Course Title:** Intro to Spreadsheets  
-**Term and Year:** Spring 2019 8W1
-**Course Dates:** January 14 - March 5, 2019
+**Course Number:** ITSE 1302  
+**Course Title:** Computer Programming  
+**Term and Year:** Spring 2019
+**Course Dates:** January 14 - May 10, 2019
 **Course Section(s):** 6001/2 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
 
+You can expect to spend at least 6-10 hours per week on this course during a 16-week semester.
+
 Campus Map:  <a href="http://www.lonestar.edu/maps-universitypark.htm" target="_blank">Lone Star College - University Park</a>
-## Office Hours:   
-Tuesday 10 - 11:30am
-Wednesday 1-2:30pm
-Thursday 10 - 11:30am
+## Virtual Office Hours:   
+Tuesday 10am - Noon
+Wednesday 1-3pm
+Thursday 10am - Noon
 
 ...or by appointment
 
+
 ## Course Description  
-In this course, students will learn about the concepts, procedures, and application of electronic spreadsheets and, more specifically, this course introduces the topic of spreadsheet software using Microsoft Excel.  We will look at how spreadsheets can be used to perform calculations, organize data, communicate quantitative information, make financial decisions, share data, and more.  Knowing how to use  spreadsheet software like Excel is a key skill required in just about any business setting. 
+This course is designed to equip you, the student, with the primary critical thinking and fundamental programming skills necessary to solve fairly complex problems.  You should develop skills that incorporate the fundamental ideas of structured programming in your problem solving approach.  This course will serve as the foundation for understanding how to program.
+
+Generally (and per the course catalog), this course will introduce you to concepts and tools used in designing, developing, testing, implementing, and documenting computer programs. 
 
 ## Syllabus Fast Facts
-* Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
-* Check the slack site for our weekly Learning Activities and Assignments.  
-* For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
-* For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
+* Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.  
+* Check the Brightspace calendar and content module *each week* for scheduled Learning Activities and Assignments.  
+* Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.  
+* For messages received between _Monday and Friday noon_, I will make every effort to reply by 5pm, the following day.  
+* For messages received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
 * Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or D2L.
 * Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
-* Please use my office hours (see location and hours above) should you need to meet with me about a question or any issue that we need to discuss in person.
 
 ## Student Learning Outcomes  
 
 Generally, students completing this course will be able to:
 
-1. Create formulas and functions.
-2. Define spreadsheet terminology and concepts.
-3. Generate charts, graphs, and reports.
-4. Use Formatting Features.  
+1. Design computer programs
+2. Develop (write) computer programs
+3. Test computer programs
+4. Implement computer programs
+5. Document computer programs  
 
-## Prerequisites  
-
-* ITSC 1301 or COSC 1301.  
+## Corequisites  
+- ITSC 1301 or COSC 1301 or BCIS 1305 (for Business majors only) Department Approval.  
 
 ## Required Materials  
 To be successful in this class, the student must:  
 
-* Have Internet access.
-* Access to a Windows PC with Microsoft Excel 2016 installed 
-OR access to a Mac with Microsoft Excel 2016 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
-* Register for access to the McGraw-Hill SIMnet environment.
-> MS Office Excel 2016: Complete (SIMNET 2017)
-> Author: Nordell
-> Access Code
-> **Note** You may purchase your access code from the campus bookstore or from within the SIMnet app.  I recommend that if you haven't already purchased your access code to wait until after the first week of class to buy.  The publisher provides two weeks of "free" access to start our semester. 
+* Have access to a computer with internet access  
+* Have access to our online textbook:
+> <a href="https://www.py4e.com/book.php" target="_blank">Python for Everybody</a>
+> 
+
+This program can be purchased from the campus bookstore and online through a variety of vendors included <a href="https://amzn.to/2JaoRje" target="_blank">Amazon.com</a>.  
 
 ## Instructor Guidelines and Policies 
 
@@ -77,7 +80,7 @@ Slack is your best choice in communicating with me, but there may be instances w
 
 > Professor Caraway:
 
->I am Angela Ford from your ITSW 1304 (Intro to Spreadsheets) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
+>I am Angela Ford from your ITSE 1302 (Computer Programming) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
 
 >Angela Ford
 
@@ -87,12 +90,13 @@ I currently live several hours from Houston so I am not in my campus office  tha
 During the semester, I do schedule occasional visits to campus - usually one or two days a month.  If you do want to meet in person, please let me know via Slack and I will review my upcoming visit calendar to determine if we can meet at a time that is convenient. 
 
 ### Attendance
-We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in on-line Slack discussion or chat session.  It is your responsibility to keep up with the material and check the class D2L page regularly for updates, assignment due dates, and potential schedule changes.
+We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in on-line Slack discussion or chat session.  It is your responsibility to keep up with the material and check the class Brightspace page regularly for updates, assignment due dates, and potential schedule changes.
 
-Should you anticipate that you will not be able to log on and participate in class for an extended period (72 hours), please notify me in advance.  Not logging in to the on-line class at a regular interval will significantly impact your chance for success.   **I will withdraw a student if they are not active in the course and do not respond to my Slack or email correspondence during a 7 day period.**  
-
+Should you anticipate that you will not be able to log on and participate in class for an extended period (72 hours), please notify me in advance.  Not logging in to the on-line class at a regular interval will significantly impact your chance for success.   **I will withdraw a student if they are not active in the course and do not respond to my Slack or email correspondence during a 7 day period.**
+ 
+ 
 ### Class Participation
-The college classroom is a place for adult men and women to meet with a common purpose of improving their intellectual and academic skills.  This applies to both face-to-face and on-line classes.  When engaging your instructor and fellow students, you will be expected to treat everyone with respect and in a professional manner.  The use of profanity, derogatory terms, and threats in any class-related forum will not be tolerated.  If a student violates this rule, they will be asked to leave the classroom (in a face-to-face section) or their access to the class will be blocked (in an on-line section).  
+The college classroom is a place for adult men and women to meet with a common purpose of improving their intellectual and academic skills.  This applies to both face-to-face and online classes.  When engaging your instructor and fellow students, you will be expected to treat everyone with respect and in a professional manner.  The use of profanity, derogatory terms, and threats in any class-related forum will not be tolerated.  If a student violates this rule, they will be asked to leave the classroom (in a face-to-face section) or their access to the class will be blocked (in an on-line section).  
 
 The violating student will not be allowed to return to class or regain access until he or she arranges a conference with the instructor.  It is the student’s responsibility to arrange for this conference. 
      
@@ -106,66 +110,69 @@ Assignments are due according to the schedule posted in slack.com (and D2L).  St
 
 Evaluation will be based on the following grade components:
 
-| Grade Type | Points |
+| Grade Type | Percentage |
 | :---------: | :------: |
-| SIMBook Readings (10%) | 100 |
-| SIMpaths (4.5%) | 45 |
-| SIMNet Projects (54%) | 540 |
-| Mid-semester Capstone Project (7.5%) | 75 |
-| Slack Discussions (9%) | 90 |
-| Final Project (15%) | 150 |
-
-| **TOTAL POINTS** | **1000** |
+| Quizzes  | 15% |
+| Programming Exercises | 40% |
+| Participation | 20% |
+| Semester Project | 10% |
+| Exams | 15% |
+| **TOTAL** | **100%** |
 
 
-Our grade book is based on a 1000 point scale.  Your final letter grade will be based on the number of points you earn for the semester.  The number of points required for each letter grade are as follows:
+Letter Grade Assignment:
 
-| Points Earned | Letter Grade |
+| Final Percentage Earned | Letter Grade |
 | :----------: | :------: |
-| 900-1000 | A |
-| 800-899 | B |
-| 700-799 | C |
-| 600-699 | D |
-| 0-599 | F |
+| 90-100 | A |
+| 80-89 | B |
+| 70-79 | C |
+| 60-69 | D |
+| 0-59 | F |
 
 ## Tentative Course Outline 
-
-| Week | Topics | 
-| :---: | -------- | 
-| 1 | SIMnet, Windows 10, MS Office, and Creating and Editing Workbooks (Ch1) |
-| 2 | Working with Formulas and Functions (Ch2) |
-| 3 | Creating and Editing Charts (Ch3) & Formatting, Organizing, and Getting Data (Ch4)|
-| 4 | Consolidating, Linking, and Inserting Objects (Ch5) |
-| 5 | Exploring the Function Library (Ch6) & Mid-semester Capstone |
-| 6 | Working with Templates and Sharing Work (Ch7) |
-| 7 | Exploring Data Analysis and Business Intelligence (Ch8) Recording and Editing Macros (Ch9) |
-| 8 | FINALS - Final Project | 
+| Week | Chapters | Topics & Assignments |
+| :---: | -------------- | ------ |
+| 1 | Intro<br>Ch 1 |  Introduction to our class and the Python Programming Language<br>|  
+| 2 | Ch 2 |  Variables |  
+| 3 | Ch 3 | Conditionals |  
+| 4 | Ch 3 | Conditionals |  
+| 5 | Ch 4 | Functions |
+| 6 | Ch 4 | Functions |
+| 7 | Ch 1-4 | Midterm Exam |
+| 8 | Ch 5 | Iterations |
+| 9 | Ch 6 | Strings|
+| 10 | Ch 7 | Files |
+| 11 | Ch 8 & 9| Lists and Dictionaries |
+| 12 | Ch 10 | Tuples |
+| 13 | -- | Final Project |
+| 14 | -- | Final Project |
 
 
 ### Department/Division Contact
 If you have any issues in our classroom, the course content or with me, I would ask that you first address the issue directly with me.  If you feel that the issue remains unresolved even after speaking with me, you may contact the following individuals to whom I report.
 
-* Department Chair: Gary Tucker | <a href="tel:281-290-2957">281-290-2957</a> | <a href="mailto:gary.d.tucker@lonestar.edu">gary.d.tucker@lonestar.edu</a>
+* Dept. Chair: Gary Tucker | <a href="tel:281-290-2957">281-290-2957</a> | <a href="mailto:gary.d.tucker@lonestar.edu">gary.d.tucker@lonestar.edu</a>
 * Dean: Steven Kahla | <a href="tel:281-655-3788">281-655-3788</a> | <a href="mailto:steven.c.kahla@lonestar.edu">steven.c.kahla@lonestar.edu</a>
 
 ### Non Attendance at Start of Semester
-If you have not attended class for a face-to-face section or if you have not logged into D2L for an on-line section by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
+If you have not attended class for Face-to-Face sections or if you have not logged into D2L for on-line sections by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
 
 ### Withdrawal Policy
-Withdrawal from the course after the Official Day of Record and prior to “W” Day (Friday April 6th, 2018) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
+Withdrawal from the course after the Official Day of Record and prior to "W" Day (Monday November 12th, 2018) will result in a final grade of "W" on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a "W."  If you stop participating in the on-line class, you must withdraw at the registration office prior to "W" day.
 
-_If you stop attending class and do not officially withdraw, you **will receive an “F”** for the course._
+_If you stop attending class and do not officially withdraw, you **will receive an "F"** for the course._
 
 ### Incompletes
 An ‘I’ or Incomplete will be considered only in extreme cases of illness or emergency.  An Incomplete will only be considered for those students who have completed at least 75% of the course material and have a passing average (70 or better) for those assignments that they have completed.  Granting an Incomplete is fully at the discretion of your instructor.  
 
-A student who receives an "I" does not re-register for the course and must complete the course no later than the set due date not to exceed the end of the following fall or spring semester. The instructor must submit a signed “I” contract to the appropriate division; students will receive a copy of the contract following approval by the Dean or designee.
+A student who receives an "I" does not re-register for the course and must complete the course no later than the set due date not to exceed the end of the following fall or spring semester. The instructor must submit a signed "I" contract to the appropriate division; students will receive a copy of the contract following approval by the Dean or designee.
 
 ### Early Alert
 Early Alert is a student success effort designed to help students reach their full educational potential and successfully complete their classes.  By requesting Early Alert for a student, a faculty member sends a message to the advising/counseling team, who will then contact the student and schedule a meeting to discuss support options. Students may be referred to Early Alert for many reasons, including poor academic performance, lack of basic study skills, attendance, persistent tardiness, and personal or financial issues that interfere with class performance.
 
 ### Six Drop Rule
-Students who enrolled in Texas public institutions of higher education as first-time college students during the Fall 2007 term or later are subject to section 51.907 of the Texas Education Code, which states that an institution of higher education may not permit a student to drop (withdraw with a grade of “W”) from more than six courses, including courses that a transfer student has previously dropped at other Texas public institutions of higher education that have already been counted against their six drop limit.   Each student should fully understand this drop limit before you drop any course.  Please see a Counselor or Advisor in our Student Services area for additional information and assistance. <span style="color: red">_This policy does not affect developmental or ESOL students._</span>
+Students who enrolled in Texas public institutions of higher education as first-time college students during the Fall 2007 term or later are subject to section 51.907 of the Texas Education Code, which states that an institution of higher education may not permit a student to drop (withdraw with a grade of "W") from more than six courses, including courses that a transfer student has previously dropped at other Texas public institutions of higher education that have already been counted against their six drop limit.   Each student should fully understand this drop limit before you drop any course.  Please see a Counselor or Advisor in our Student Services area for additional information and assistance. <span style="color: red">_This policy does not affect developmental or ESOL students._</span>
 
 **Lone Star College-University Park Learning Center is committed to your success.**
 
@@ -194,8 +201,8 @@ The Lone Star College System upholds the core values of learning: honesty, respe
 The consequences for academic dishonesty are determined by the professor, or the professor and academic dean, or the professor and chief student services officer and can include but are not limited to:  
 
 1. Having additional class requirements imposed,  
-2. Receiving a grade of zero or “F” for an exam or assignment,  
-3. Receiving a grade of “F” for the course,
+2. Receiving a grade of zero or "F" for an exam or assignment,  
+3. Receiving a grade of "F" for the course,
 4. Being withdrawn from the course or program,
 5. Being expelled from the college system.
 
@@ -220,7 +227,7 @@ Disability Services is located on the LSC University Park campus in Building 13,
 Lone Star College System is committed to maintaining the safety of the students, faculty, staff, and guests while visiting one of our campuses.  See <a href="http://www.lonestar.edu/campus-safety.htm" target="_blank">http://www.lonestar.edu/campus-safety.htm</a> for details.  Register at <a href="http://www.lonestar.edu/LoneStarCollegeAlert.htm" target="_blank">http://www.lonestar.edu/LoneStarCollegeAlert.htm</a> to receive emergency notifications.  In the event of an emergency, contact the police at 5911.
 
 ### Campus Carry
-The Texas Legislature enacted campus carry by passing Senate Bill 11, effective at LSC on August 1, 2017.  Senate Bill 11, known as the “Campus Carry” law, amends Texas law to allow license holders to carry concealed handguns on college campuses.  To carry a concealed handgun on LSC campuses, an individual must have a valid License to Carry issued by the Texas Department of Public Safety.
+The Texas Legislature enacted campus carry by passing Senate Bill 11, effective at LSC on August 1, 2017.  Senate Bill 11, known as the "Campus Carry" law, amends Texas law to allow license holders to carry concealed handguns on college campuses.  To carry a concealed handgun on LSC campuses, an individual must have a valid License to Carry issued by the Texas Department of Public Safety.
  
 LSC has established rules and regulations regarding enforcement of Campus Carry.  Lone Star College prohibits concealed carry in some areas of LSC campuses.  For more information about Campus Carry, visit the <a href="http://www.lonestar.edu/campuscarry" target="_blank">LSC Campus Carry website</a>.
 
@@ -242,4 +249,4 @@ Access to the System’s e-mail and similar electronic communications systems ar
 Law strictly prohibits unauthorized copying of software purchased by Lone Star College-University Park for use in laboratories.  Lone Star College-University Park administration will take appropriate disciplinary action against anyone violating copyright laws.
 
 ### Evaluation of Instruction
-Lone Star College-University Park is committed to student success.  As part of its institutional effectiveness efforts, our instructors are assessed in several ways.  For the continuous improvement of our instruction, all students are required to provide input for each course they take each semester using the Course Evaluations Questionnaire, which can be accessed on-line for each course.  This occurs approximately half way through your course and your instructor will provide you more information on this process.  Once you evaluate your course, print and turn in the receipt of completion to your instructor.  The college deans review these evaluations each semester.  The deans and/or department chairs may visit each instructor’s class at some time during the semester to observe the instructional environment being provided and complete an assessment of the instructor. 
+Lone Star College-University Park is committed to student success.  As part of its institutional effectiveness efforts, our instructors are assessed in several ways.  For the continuous improvement of our instruction, all students are required to provide input for each course they take each semester using the Course Evaluations Questionnaire, which can be accessed on-line for each course.  This occurs approximately half way through your course and your instructor will provide you more information on this process.  Once you evaluate your course, print and turn in the receipt of completion to your instructor.  The college deans review these evaluations each semester.  The deans and/or department chairs may visit each instructor’s class at some time during the semester to observe the instructional environment being provided and complete an assessment of the instructor. It
