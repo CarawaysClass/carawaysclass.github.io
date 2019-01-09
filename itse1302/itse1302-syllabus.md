@@ -133,20 +133,22 @@ Letter Grade Assignment:
 ## Tentative Course Outline 
 | Week | Chapters | Topics & Assignments |
 | :---: | -------------- | ------ |
-| 1 | Intro<br>Ch 1 |  Introduction to our class and the Python Programming Language<br>|  
-| 2 | Ch 2 |  Variables |  
+| 1 | Ch 1 | Intro and the Python Programming Language|  
+| 2 | Ch 2 | Variables |  
 | 3 | Ch 3 | Conditionals |  
-| 4 | Ch 3 | Conditionals |  
+| 4 | Ch 3 | Conditionals (cont'd)|  
 | 5 | Ch 4 | Functions |
-| 6 | Ch 4 | Functions |
+| 6 | Ch 4 | Functions (cont'd)|
 | 7 | Ch 1-4 | Midterm Exam |
 | 8 | Ch 5 | Iterations |
-| 9 | Ch 6 | Strings|
+| 9 | Ch 6 | Strings |
 | 10 | Ch 7 | Files |
-| 11 | Ch 8 & 9| Lists and Dictionaries |
-| 12 | Ch 10 | Tuples |
-| 13 | -- | Final Project |
+| 11 | Ch 8 | Lists |
+| 12 | Ch 9| Dictionaries |
+| 13 | Ch 10 | Tuples |
 | 14 | -- | Final Project |
+| 15 | -- | Final Project |
+| 16 | -- | Final Exam (proctored) |
 
 
 ### Department/Division Contact
@@ -159,7 +161,7 @@ If you have any issues in our classroom, the course content or with me, I would 
 If you have not attended class for Face-to-Face sections or if you have not logged into D2L for on-line sections by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
 
 ### Withdrawal Policy
-Withdrawal from the course after the Official Day of Record and prior to "W" Day (Monday November 12th, 2018) will result in a final grade of "W" on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a "W."  If you stop participating in the on-line class, you must withdraw at the registration office prior to "W" day.
+Withdrawal from the course after the Official Day of Record and prior to "W" Day (Tuesday April 2nd, 2019) will result in a final grade of "W" on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a "W."  If you stop participating in the on-line class, you must withdraw at the registration office prior to "W" day.
 
 _If you stop attending class and do not officially withdraw, you **will receive an "F"** for the course._
 
