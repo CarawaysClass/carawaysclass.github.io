@@ -139,8 +139,8 @@ Letter Grade Assignment:
 | 4 | Ch 3 | Conditionals (cont'd)|  
 | 5 | Ch 4 | Functions |
 | 6 | Ch 4 | Functions (cont'd)|
-| 7 | Ch 1-4 | Midterm Exam |
-| 8 | Ch 5 | Iterations |
+| 7 | Ch 5 | Iterations |
+| 8 | Ch 1-4 | Midterm Exam |
 | 9 | Ch 6 | Strings |
 | 10 | Ch 7 | Files |
 | 11 | Ch 8 | Lists |

@@ -11,7 +11,7 @@
 **Course Title:** Business Computer Applications  
 **Term and Year:** Spring 2019
 **Course Dates:** January 14 - May 10, 2019
-**Course Section(s):** 6001/2 | 6003/4 
+**Course Section(s):** 6001/2 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
@@ -137,15 +137,15 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 ## Tentative Course Outline 
 | Week | Topics | Assignments |
 | :---: | -------- | ------ |
-| 1<br><br><br><br> | Class Introduction<br>SIMnet Registration<br>Slack.com Registration<br>Concepts:  Hardware<br> | Slack.com introduction post<br>Syllabus quiz<br>Hardware quiz<br><br> |  
-| 2<br><br><br><br> | Concepts: Software<br>Concepts: The Internet<br>Concepts: File Management<br>Skills: Screencasting | Software quiz<br> File Management lab<br>Screencasting lab<br>|  
-| 3<br><br><br> |  Skills: Word Ch. 1<br>Skills: Word Ch. 2<br><br><br><br> | MS Office Ch. 1 (SIMBook reading)<br>Word Ch. 1 (SIMBook reading and SIMnet project)<br>Word Ch. 2 (SimBook reading and SIMnet project)<br> |  
-| 4<br><br><br><br><br><br> | Skills: Word Ch. 3<br>Skills: Word Ch. 4<br><br><br><br><br> | Word Ch. 3 (SimBook reading and SIMnet project)<br>Word Ch. 4 (SimBook reading and SIMnet project)<br>Word Processors quiz <br>Word Capstone project|
+| 1<br><br><br><br> | Class Introduction<br>SIMnet Registration<br>Slack.com Registration<br>Concepts:  Hardware<br> | Slack.com introduction post<br>Hardware Lab<br><br><br> |  
+| 2<br><br><br><br> | Concepts: Software<br>Concepts: The Internet<br>Concepts: File Management<br>Skills: Screencasting | Software quiz<br> Screencasting lab<br><br><br>|  
+| 3<br><br><br> |  Skills: Word Ch. 1<br>Skills: Word Ch. 2<br><br> | MS Office Ch. 1 (SIMBook reading)<br>Word Ch. 1 (SIMBook reading and SIMnet project)<br>Word Ch. 2 (SimBook reading and SIMnet project)<br> |  
+| 4<br><br><br><br> | Skills: Word Ch. 3<br>Skills: Word Ch. 4<br><br><br> | Word Ch. 3 (SimBook reading and SIMnet project)<br>Word Ch. 4 (SimBook reading and SIMnet project)<br>Word Processors quiz <br>Word Capstone project|
 | 5<br><br><br> | Concepts: LinkedIn.com<br>Skills: PowerPoint Ch. 1<br><br>| LinkedIn Profile lab<br>PowerPoint Ch. 1 (SimBook reading and SIMnet project)<br> |
 | 6<br><br><br><br><br><br> | Skills: PowerPoint Ch. 2 <br>Skills: PowerPoint Ch. 3<br><br><br><br><br> | PowerPoint Ch. 2 (SimBook reading and SIMnet project)<br>PowerPoint Ch. 3 (SimBook reading and SIMnet project)<br>Presentation Software quiz<br>PowerPoint Capstone project |
 | 7<br><br> | Concepts: Privacy, Ethics, & Security<br> | Security lab<br>Privacy, Ethics, and Security Quiz |
-| 8<br><br><br><br> | Skills: Excel Ch. 1<br>Skills: Excel Ch. 2<br><br><br> | Excel Ch. 1 (SimBook reading and SIMnet project)<br>Excel Ch. 2 (SimBook reading and SIMnet project) |
-| 9<br><br><br><br><br> | Skills: Excel Ch. 3<br>Skills: Excel Ch. 4<br><br><br><br> | Excel Ch. 3 (SimBook reading and SIMnet project)<br>Excel Ch. 4 (SimBook reading and SIMnet project)<br>Spreadsheets quiz |
+| 8<br><br> | Skills: Excel Ch. 1<br>Skills: Excel Ch. 2<br> | Excel Ch. 1 (SimBook reading and SIMnet project)<br>Excel Ch. 2 (SimBook reading and SIMnet project) |
+| 9<br><br><br> | Skills: Excel Ch. 3<br>Skills: Excel Ch. 4<br><br> | Excel Ch. 3 (SimBook reading and SIMnet project)<br>Excel Ch. 4 (SimBook reading and SIMnet project)<br>Spreadsheets quiz |
 | 10<br><br> | Skills: Maintaining your LinkedIn profile | Excel Capstone project<br>LinkedIn Follow-up lab |
 | 11<br><br><br> | Emerging Technology<br><br><br> | Input/Output lab<br>Emerging Tech lab<br>Emerging Tech quiz |
 | 12 | Skills: Programming | Programming lab |
