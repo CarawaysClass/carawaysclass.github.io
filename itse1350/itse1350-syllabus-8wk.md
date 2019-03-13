@@ -123,19 +123,20 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 
 | Week | Topics | 
 | :---: | -------- | 
-| 1 | Chapter 1 - Introduction to Systems Analysis and Design |
-|   | Chapter 2 - Analyzing the Business Case |
-| 2 | Chapter 3 - Managing Systems Projects |
-|   | Chapter 4 - Requirements Modeling / Project 1 |
-| 3 | Chapter 5 - Data and Process Modeling |
-|   | Chapter 6 - Object Modeling |
-| 4 | Chapter 7 - Development Strategies |
-|   | Chapter 8 - User Interface Design / Project 2 |
-| 5 | Chapter 9 - Data Design |
-|   | Chapter 10 - System Architecture |
-| 6 | Chapter 11 - Managing Systems Implementation |
-|   | Chapter 12 - Managing Systems Support and Security |
-| 7 | Project 3 |
+| 1 | Unit 1 - Introduction to Systems Analysis and Design |
+|   | Unit 2 - Analyzing the Business Case |
+| 2 | Unit 3 - Managing Systems Projects |
+|   | Unit 4 - Requirements Modeling |
+| 3 | Unit 5 - Data and Process Modeling |
+|   | Unit 6 - Object Modeling |
+| 4 | Unit 7 - Development Strategies |
+|   | Project 1 |
+| 5 | Unit 8 - User Interface Design |
+|   | Unit 9 - Data Design |
+| 6 | Unit 10 - System Architecture |
+|   | Unit 11 - Managing Systems Implementation |
+| 7 | Unit 12 - Managing Systems Support and Security |
+|   | Project 2 |
 | 8 | FINALS | 
 
 
