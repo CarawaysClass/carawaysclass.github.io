@@ -25,8 +25,8 @@ Comprehensive introduction to the planning, design, and construction of computer
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
-* Check the slack site for our weekly Learning Activities and Assignments.  This information will also be posted in D2L.
-* For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
+* Check the slack site for our weekly Learning Activities and Assignments.  This information will also be posted in Brightspace (D2L).
+* For communications received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
 * For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
 * Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with D2L or your student email.
 * For technical issues with MindTap, create a ticket with Cengage technical support (<a href="http://support.cengage.com" target="_blank">http://support.cengage.com</a>)
