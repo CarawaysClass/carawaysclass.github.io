@@ -26,7 +26,7 @@ Thursday 10am - Noon
 
 
 ## Course Description  
-In this course, students will study computer terminology, hardware, and software related to the business environment. The focus of this course is on business productivity software applications and professional behavior in computing, including word processing (as needed), spreadsheets, databases, presentation graphics, and business-oriented utilization of the Internet. 
+A comprehensive application of skills learned in previous semesters in a simulated workplace. Includes coding, testing, maintenance, and documentation of a complete software and/or hardware solution. This course may be used as a capstone course for a certificate or degree. Prerequisite:  
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
@@ -54,7 +54,8 @@ Generally, students completing this course will be to:
 7. Complete projects that integrate business software applications.  
 
 ## Prerequisites  
-None.  
+College Level Readiness in Reading AND Writing AND Math. Completed 1 advanced level programming course. 
+s  
 ## Required Materials  
 To be successful in this class, the student must:  
 
