@@ -10,7 +10,7 @@
 **Course Number:** BCIS 1305  
 **Course Title:** Business Computer Applications  
 **Term and Year:** Summer 2019
-**Course Dates:** May13, 2019 - June 2, 2019
+**Course Dates:** May 13, 2019 - June 2, 2019
 **Course Section(s):** 6007/6008 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
@@ -107,13 +107,13 @@ Evaluation will be based on the following grade components:
 
 | Grade Type | Points |
 | :---------: | :------: |
-| Quizzes (5%) | 50 |
+| Quizzes (4%) | 40 |
 | SIMBook Readings (11%) | 110 |
 | SIMnet Projects (50%) | 500 |
 | Labs (6%) | 60 |
-| Capstone Projects (18%) | 180 |
-| Integrated Project (5%) | 50 |
-| Final Exam (5%) | 50 |
+| Capstone Projects (15%) | 150 |
+| Integrated Project (8%) | 80 |
+| Final Exam (6%) | 60 |
 | **TOTAL POINTS** | **1000** |
 
 
@@ -130,15 +130,9 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 ## Tentative Course Outline 
 | Week | Topics | Assignments |
 | :---: | -------- | ------ |
-| 1<br><br><br><br><br><br> | Class Introduction<br>SIMnet & Slack Registration<br>Input/Output<br>The System Unit<br>Microsoft Word<br>Word Processors | Hardware Lab<br>Word SIMBook (Ch1-3)<br>Word Projects (Ch 1-3)<br>Word Capstone Project<br>Word Processors Quiz <br><br>|  
-| 2<br><br><br><br><br> | LinkedIn<br>Microsoft PowerPoint<br>Presentation Software<br><br><br> | LinkedIn Lab<br>PowerPoint SIMBook (Ch1-3)<br>PowerPoint Projects (Ch 1-3)<br>PowerPoint Capstone Project<br>Presentation Software Quiz |  
-| 3<br><br><br><br><br> | Privacy, Ethics, and Security<br>Microsoft Excel<br>Spreadsheets<br><br><br> | Ethics/Privacy Lab<br>Excel SIMBook (Ch1-3)<br>Excel Projects (Ch 1-3)<br>Excel Capstone Project<br>Spreadsheet Software Quiz |  
-| 4<br><br><br><br><br><br><br> | Emerging Technology<br>Microsoft Access<br>Databases<br><br><br><br><br> | Emerging Technology Lab<br>Access SIMBook (Ch1-2)<br>Access Project (Ch 1)<br>Access Capstone Project (Ch 2)<br>Databases Quiz<br>Office 2016 Integrated Project<br>Final Exam |  
-
-
-
-
-
+| 1<br><br><br><br><br><br><br> | Class Introduction<br>SIMnet & Slack Registration<br>Input/Output<br>The System Unit<br>Microsoft Word<br>Word Processors<br>LinkedIn | Hardware Lab<br>Word SIMBook (Ch1-3)<br>Word Projects (Ch 1-3)<br>Word Capstone Project<br>Word Processors Quiz <br>LinkedIn Lab<br><br>|  
+| 2<br><br><br><br><br><br><br> | Microsoft Excel<br>Spreadsheets<br>Privacy, Ethics, and Security<br>Microsoft Access<br>Databases<br><br><br><br>| Ethics/Privacy Lab<br>Excel SIMBook (Ch1-3)<br>Excel Projects (Ch 1-3)<br>Excel Capstone Project<br>Spreadsheet Software Quiz<br>Access SIMBook (Ch1-2)<br>Access Project (Ch 1)<br>Databases Quiz<br> |   
+| 3<br><br><br><br><br><br><br> | Microsoft PowerPoint<br>Presentation Software<br>Emerging Technology<br><br><br><br><br>| PowerPoint SIMBook (Ch1-3)<br>PowerPoint Projects (Ch 1-3)<br>PowerPoint Capstone Project<br>Presentation Software Quiz<br>Office 2016 Integrated Project<br>Final Exam<br> <br> | 
 
 
 ### Department/Division Contact
