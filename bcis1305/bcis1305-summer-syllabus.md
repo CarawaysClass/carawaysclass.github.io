@@ -9,8 +9,8 @@
 ## Course Info
 **Course Number:** BCIS 1305  
 **Course Title:** Business Computer Applications  
-**Term and Year:** Summer I 2018
-**Course Dates:** June 4 - July 11, 2018
+**Term and Year:** Summer I 2019
+**Course Dates:** June 3 - July 9, 2019
 **Course Section(s):** 6001/2
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
@@ -29,14 +29,13 @@ In this course, students will study computer terminology, hardware, and software
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
 * Check the slack site for our weekly Learning Activities and Assignments.  
-* For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
-* For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
+* For Slack communications received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
+* For Slack communications received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
 * Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or D2L.
 * Call the McGraw-Hill support line (<a href="tel:800-331-5094">800-331-5094</a>) for issues with **SIMnet**. Be sure to get a case number when you contact them.
 **SIMnet** is the on-line service that you will use to complete a majority of the assignments of our class.  
 * Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
-* Please use my office hours (see location and hours above) should you need to meet with me about a question or any issue that we need to discuss in person.
 * _Even though most of our class assignments can be completed on a Mac, **there may be specific SIMnet assignments that require the Windows (PC) version of Office 2016**_. If you do not have Office 2016 (for Windows) at home, you may need to use the general-use PCs at any LSC campus.
 
 ## Student Learning Outcomes  
@@ -58,12 +57,11 @@ To be successful in this class, the student must:
 
 * Have access to a Windows PC with Microsoft Office 2016 installed
  _*OR*_ 
- access to a Mac with Microsoft 2016 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
-* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: 
-> MS Office 2016 In Practice: Complete (SIMNET 2017)
-> Author: Nordell
-> Access Code 
-> **Note** You may purchase your access code from the campus bookstore or from within the SIMnet app.  I recommend that if you haven't already purchased your access code to wait until after the first week of class to buy.  The publisher provides two weeks of "free" access to start our semester. 
+ access to a Mac with Microsoft 2016 installed.  (As an LSC student you <a href="https://portal.office.com" target="_blank">get Office for free</a>).   
+* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: ISBN: **978-1-260-72803-3**
+> Computing Essen 2017 (Access)(w/Office 2016)(CUSTOM)(LSC)
+> Author: Triad Interactive
+> **Note** You may purchase your access code from the campus bookstore or from within the SIMnet app.  I recommend that wait until after the first week of class to buy.  The publisher provides two weeks of "free" access to start our semester. 
 
 ## Instructor Guidelines and Policies 
 
@@ -86,7 +84,7 @@ Slack is your best choice in communicating with me, but there may be instances w
 
 
 ### Office Visits
-Please feel free to drop by my office for help during my office hours (listed at the top of this document) but it is best to let me know you are coming as I may have meetings or other appointments already scheduled.  I am also available by appointment if you cannot visit during office hours.  Contact me via Slack or email to coordinate a convenient time for both of us.
+I currently live several hours from Houston so I am not in my campus office very often.  I am always happy to set up a "virtual" visit using WebEx or a phone call - just contact me via Slack to initiate a session.  
 
 ### Attendance
 We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in on-line Slack discussion or chat session.  It is your responsibility to keep up with the material and check the class D2L page regularly for updates, assignment due dates, and potential schedule changes.
@@ -112,12 +110,12 @@ Evaluation will be based on the following grade components:
 | Grade Type | Points |
 | :---------: | :------: |
 | Quizzes (4%) | 40 |
-| SIMBook Readings (9%) | 90 |
-| SIMnet Projects (45%) | 450 |
-| Labs (8%) | 80 |
-| Capstone Projects (20%) | 200 |
-| Integrated Project (7%) | 70 |
-| Final Exam (7%) | 70 |
+| SIMBook Readings (11%) | 110 |
+| SIMnet Projects (50%) | 500 |
+| Labs (6%) | 60 |
+| Capstone Projects (15%) | 150 |
+| Integrated Project (8%) | 80 |
+| Final Exam (6%) | 60 |
 | **TOTAL POINTS** | **1000** |
 
 
@@ -134,11 +132,11 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 ## Tentative Course Outline 
 | Week | Topics | Assignments |
 | :---: | -------- | ------ |
-| 1<br><br><br><br><br><br><br><br> | Class Introduction<br>SIMnet Registration<br>Slack.com Registration<br>Microsoft Word<br>Screencasting<br><br><br><br>| Slack.com introduction post<br>MS Office Ch. 1 (SIMBook reading)<br>Word Ch. 1 (SIMBook reading and SIMnet project)<br>Word Ch. 2 (SimBook reading and SIMnet project)<br>Word Ch. 3 (SimBook reading and SIMnet project)<br>Word Capstone project<br>Word Processors quiz <br>Screencasting Lab|  
-| 2<br><br><br><br><br><br> | Microsoft PowerPoint<br>LinkedIn<br><br><br><br><br>| PowerPoint Ch. 1 (SIMBook reading and SIMnet project)<br>PowerPoint Ch. 2 (SimBook reading and SIMnet project)<br>PowerPoint Ch. 3 (SimBook reading and SIMnet project)<br>PowerPoint Capstone project<br>Presentation Software quiz <br>LinkedIn Lab|  
-| 3<br><br><br><br><br><br> | Microsoft Excel<br>Data Analytics<br><br><br><br><br>| Excel Ch. 1 (SIMBook reading and SIMnet project)<br>Excel Ch. 2 (SimBook reading and SIMnet project)<br>Excel Ch. 3 (SimBook reading and SIMnet project)<br>Excel Capstone project<br>Spreadsheets quiz <br>Data Analytics Lab|  
-| 4<br><br><br><br> | Databases<br>AirTable<br>Emerging Technology<br><br>| Databases (SIMBook reading)<br>AirTable Databases Capstone project<br>Databases quiz <br>Emerging Technology Lab|  
-| 5 | Integrated Project| Integrated Project|  
+| 1<br><br><br><br>| Class Introduction<br>SIMnet Registration<br>Slack.com Registration<br><br><br>| Slack.com introduction post<br>MS Office Ch. 1 (SIMBook reading)<br>Hardware - The System Unit (SIMBook Reading) <br>Hardware - Input and Output (SIMBook Reading)<br>#lab1-hardware|  
+| 2<br><br><br><br><br> | Microsoft Word<br>LinkedIn<br><br><br><br><br>| Word Ch. 1 (SIMBook reading and SIMnet project)<br>Word Ch. 2 (SimBook reading and SIMnet project)<br>Word Ch. 3 (SimBook reading and SIMnet project)<br>Word Capstone project<br>Word Processors quiz<br>LinkedIn Lab |  
+| 3<br><br><br><br><br> | Microsoft Excel<br><br><br><br><br>| Excel Ch. 1 (SIMBook reading and SIMnet project)<br>Excel Ch. 2 (SimBook reading and SIMnet project)<br>Excel Ch. 3 (SimBook reading and SIMnet project)<br>Excel Capstone project<br>Spreadsheets quiz |  
+| 4<br><br><br><br><br><br> | Microsoft PowerPoint<br>Emerging Technology<br><br><br><br><br>| PowerPoint Ch. 1 (SIMBook reading and SIMnet project)<br>PowerPoint Ch. 2 (SimBook reading and SIMnet project)<br>PowerPoint Ch. 3 (SimBook reading and SIMnet project)<br>PowerPoint Capstone project<br>Presentation Software quiz<br>#lab3-emerging-technology |  
+| 5<br><br><br><br> | Microsoft Access<br>Privacy, Security, Ethics<br><br><br><br>| Databases (SIMBook reading)<br>Access Ch. 1 (SIMBook reading and SIMnet project)<br>Databases quiz <br>#lab4-privacy-security-ethics<br> Integrated Project|  
 | 6 | FINALS | Final Exam |
 
 
@@ -152,7 +150,7 @@ If you have any issues in our classroom, the course content or with me, I would 
 If you have not attended class for Face-to-Face sections or if you have not logged into D2L for on-line sections by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
 
 ### Withdrawal Policy
-Withdrawal from the course after the Official Day of Record and prior to “W” Day (Thursday June 28th, 2018) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
+Withdrawal from the course after the Official Day of Record and prior to “W” Day (Thursday June 28th, 2019) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
 
 _If you stop attending class and do not officially withdraw, you **will receive an “F”** for the course._
 

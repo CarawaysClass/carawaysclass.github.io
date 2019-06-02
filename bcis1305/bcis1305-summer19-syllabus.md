@@ -1,4 +1,4 @@
-# SYLLABUS: BCIS 1305 - Business Computer Applications 
+# SYLLABUS: BCIS 1305 - Business Computer Applications (Mini-Semester)
 
 ## Instructor Contact Information
 **Name:** Bruce Caraway
@@ -9,15 +9,15 @@
 ## Course Info
 **Course Number:** BCIS 1305  
 **Course Title:** Business Computer Applications  
-**Term and Year:** Fall 2019
-**Course Dates:** August 26 - December 18, 2019
-**Course Section(s):** 6001/2 
+**Term and Year:** Summer 2019
+**Course Dates:** May 13, 2019 - June 2, 2019
+**Course Section(s):** 6007/6008 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
 
-Campus Map:  <a href="http://www.lonestar.edu/maps-universitypark.htm" target="_blank">Lone Star College - University Park</a>
-## Virtual Office Hours:   By appointment or just reach out via Slack
+## Virtual Office Hours:   
+Contact me via Slack...
 
 
 ## Course Description  
@@ -25,31 +25,28 @@ In this course, students will study computer terminology, hardware, and software
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
-* Check the slack site for our weekly Learning Activities and Assignments.  
-* For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
-* For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
-* Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or D2L.
+* Check SIMnet daily for our Learning Activities and Assignments.  
+* Keep connected via our Slack team site for updates and notifications.
+* For Slack communications received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
+* For Slack communications received between _Friday noon and Sunday, I will reply by 5pm, the following Monday.
+* Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email, MyLonestar, and all other LSC properties.
 * Call the McGraw-Hill support line (<a href="tel:800-331-5094">800-331-5094</a>) for issues with **SIMnet**. Be sure to get a case number when you contact them.
-**SIMnet** is the on-line service that you will use to complete a majority of the assignments of our class.  
+**SIMnet** is the on-line service that we will use to complete a majority of the assignments of our class.  You will need to purchase a SIMnet access code for our course.
 * Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
-* Please use my virtual office hours (see hours above) should you need to set up a WebEx meeting or call for any question or issue that you would like to discuss.
-* _Even though most of our class assignments can be completed on a Mac, **there may be specific SIMnet assignments that require the Windows (PC) version of Office 2016**_. If you do not have Office 2016 (for Windows) at home, you may need to use the general-use PCs at any LSC campus.
+* * _Even though most of our class assignments can be completed on a Mac, **there are specific SIMnet assignments that require the Windows (PC) version of Office 2016**_. If you do not have Office 2016 (for Windows) at home, you may need to use the general-use Windows PCs found at any LSC campus.
 
 ## Student Learning Outcomes  
 
 Generally, students completing this course will be to:
 
-1. Describe the fundamentals of information technology concepts – hardware, software, security, and privacy.
-2. Demonstrate proper file management techniques to manipulate electronic files and folders in local, network, and online environments.
-3. Create business documents with word processing software using spelling and grammar check, format and layout, tables, citations, graphics, and mail merge.
-4. Create business documents and analyze data with spreadsheet software using (1) tables, sorting, filtering, charts and graphics, pivot tables, macros; (2) statistical, financial, logical and look-up functions and formulas; and (3) add-ins.
-5. Create business multimedia presentations with presentation software using templates, lists, groups, themes, colors, clip art, pictures, tables, transitions, animation, video, charts, and views.
-6. Create databases and manage data with database software using tables, fields, relationships, indexes, keys, views, queries, forms, reports, and import/export functions.
-7. Integrate business software applications.
-8. Use web-based technologies to conduct ethical business research.
-9. Use “goal seeking” and “what-if analysis” to solve problems and make adjustments/recommendations in a business environment.
-
+1. Describe the fundamentals of Information Technology (IT) infrastructure components: hardware, software, and data communications systems.  
+2. Explain the guiding principles of professional behavior in computing.  
+3. Demonstrate proper file management techniques to manipulate electronic files and folders in a local and networked environment.  
+4. Use business productivity software to manipulate data and find solutions to business problems.  
+5. Explain the concepts and terminology used in the operation of application systems in a business environment.  
+6. Identify emerging technologies for use in business applications.  
+7. Complete projects that integrate business software applications.  
 
 ## Prerequisites  
 None.  
@@ -58,12 +55,11 @@ To be successful in this class, the student must:
 
 * Have access to a Windows PC with Microsoft Office 2016 installed
  _*OR*_ 
- access to a Mac with Microsoft 2016 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
+ access to a Mac with Microsoft 2016 installed.  (As an LSC student you <a href="https://portal.office.com" target="_blank">get Office for free</a>).   
 * Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: ISBN: **978-1-260-72803-3**
-> Office 2016 SimNet - simnet online for Microsoft Office 2016, 1st ed
+> Computing Essen 2017 (Access)(w/Office 2016)(CUSTOM)(LSC)
 > Author: Triad Interactive
-> Access Code 
-> **Note** You may purchase your access code from the campus bookstore or from within the SIMnet app.  I recommend that if you haven't already purchased your access code to wait until after the first week of class to buy.  The publisher provides two weeks of "free" access to start our semester. 
+> **Note** You may purchase your access code from the campus bookstore or from within the SIMnet app.  I recommend that wait until after the first week of class to buy.  The publisher provides two weeks of "free" access to start our semester. 
 
 ## Instructor Guidelines and Policies 
 
@@ -72,11 +68,11 @@ We will use <a href="https://slack.com" target="_blank">Slack.com</a> for most s
 
 With Slack, you can hold a direct conversation with your instructor, share an idea with one of your classmates, or enter into a discussion with a group of your classmates.
 
-I will email you an invitation to our Slack class site, during the first week of class.  This will include everything you will need to know in order to join and participate in our Slack class.
+I will email you an invitation to our Slack class site, during the first couple of days of class.  This will include everything you will need to know in order to join and participate in our Slack class.
 
 
 ### Emailing Your Instructor
-Slack is your best choice in communicating with me, but there may be instances where you wish to email me.  If you choose to use email, be sure to include your name, course name, and course number in the email.   Keep the body of your message brief, and to-the-point.  Here is an example of a good email:
+Slack is your best choice in communicating with me, but there may be instances where you wish to email me.  If you choose to use email, be sure to include your name, course name, and course number in the email.  If you do not fully identify yourself and course info, I will likely not reply. Keep the body of your message brief, and to-the-point.  Here is an example of a good email:
 
 > Professor Caraway:
 
@@ -86,8 +82,7 @@ Slack is your best choice in communicating with me, but there may be instances w
 
 
 ### Office Visits
-I currently live several hours from Houston so I am not in my campus office  that often.  I am always happy to set up a "virtual" visit using WebEx or a phone call.  
-During the semester, I do schedule occasional visits to campus - usually one or two days a month.  If you do want to meet in person, please let me know via Slack and I will review my upcoming visit calendar to determine if we can meet at a time that is convenient. 
+I currently live several hours from Houston so I am not in my campus office very often.  I am always happy to set up a "virtual" visit using WebEx or a phone call - just contact me via Slack to initiate a session.  
 
 ### Attendance
 We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in on-line Slack discussions or chat sessions.  It is your responsibility to keep up with the material and to check in for updates, assignment due dates, and potential schedule changes.
@@ -112,13 +107,13 @@ Evaluation will be based on the following grade components:
 
 | Grade Type | Points |
 | :---------: | :------: |
-| Quizzes (10%) | 100 |
-| SIMBook Readings (10%) | 100 |
-| SIMnet Projects (30%) | 300 |
-| Labs (16%) | 160 |
-| Capstone Projects (20%) | 200 |
-| Integrated Project (7%) | 70 |
-| Final Exam (7%) | 70 |
+| Quizzes (4%) | 40 |
+| SIMBook Readings (11%) | 110 |
+| SIMnet Projects (50%) | 500 |
+| Labs (6%) | 60 |
+| Capstone Projects (15%) | 150 |
+| Integrated Project (8%) | 80 |
+| Final Exam (6%) | 60 |
 | **TOTAL POINTS** | **1000** |
 
 
@@ -135,22 +130,9 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 ## Tentative Course Outline 
 | Week | Topics | Assignments |
 | :---: | -------- | ------ |
-| 1<br><br><br><br> | Class Introduction<br>SIMnet Registration<br>Slack.com Registration<br>Concepts:  Hardware<br> | Slack.com introduction post<br>Hardware Lab<br><br><br> |  
-| 2<br><br><br><br> | Concepts: Software<br>Concepts: The Internet<br>Concepts: File Management<br>Skills: Screencasting | Software quiz<br> Screencasting lab<br><br><br>|  
-| 3<br><br><br> |  Skills: Word Ch. 1<br>Skills: Word Ch. 2<br><br> | MS Office Ch. 1 (SIMBook reading)<br>Word Ch. 1 (SIMBook reading and SIMnet project)<br>Word Ch. 2 (SimBook reading and SIMnet project)<br> |  
-| 4<br><br><br><br> | Skills: Word Ch. 3<br>Skills: Word Ch. 4<br><br><br> | Word Ch. 3 (SimBook reading and SIMnet project)<br>Word Ch. 4 (SimBook reading and SIMnet project)<br>Word Processors quiz <br>Word Capstone project|
-| 5<br><br><br> | Concepts: LinkedIn.com<br>Skills: PowerPoint Ch. 1<br><br>| LinkedIn Profile lab<br>PowerPoint Ch. 1 (SimBook reading and SIMnet project)<br> |
-| 6<br><br><br><br><br><br> | Skills: PowerPoint Ch. 2 <br>Skills: PowerPoint Ch. 3<br><br><br><br><br> | PowerPoint Ch. 2 (SimBook reading and SIMnet project)<br>PowerPoint Ch. 3 (SimBook reading and SIMnet project)<br>Presentation Software quiz<br>PowerPoint Capstone project |
-| 7<br><br> | Concepts: Privacy, Ethics, & Security<br> | Security lab<br>Privacy, Ethics, and Security Quiz |
-| 8<br><br> | Skills: Excel Ch. 1<br>Skills: Excel Ch. 2<br> | Excel Ch. 1 (SimBook reading and SIMnet project)<br>Excel Ch. 2 (SimBook reading and SIMnet project) |
-| 9<br><br><br> | Skills: Excel Ch. 3<br>Skills: Excel Ch. 4<br><br> | Excel Ch. 3 (SimBook reading and SIMnet project)<br>Excel Ch. 4 (SimBook reading and SIMnet project)<br>Spreadsheets quiz |
-| 10<br><br> | Skills: Maintaining your LinkedIn profile | Excel Capstone project<br>LinkedIn Follow-up lab |
-| 11<br><br><br> | Emerging Technology<br><br><br> | Input/Output lab<br>Emerging Tech lab<br>Emerging Tech quiz |
-| 12 | Skills: Programming | Programming lab |
-| 13 | Skills: Databases | Databases Quiz<br>Databases capstone |
-| 14 |  | Integrated Project |
-| 15 |  | Integrated Project |
-| 16 | FINALS | Final Exam |
+| 1<br><br><br><br><br><br><br> | Class Introduction<br>SIMnet & Slack Registration<br>Input/Output<br>The System Unit<br>Microsoft Word<br>Word Processors<br>LinkedIn | Hardware Lab<br>Word SIMBook (Ch1-3)<br>Word Projects (Ch 1-3)<br>Word Capstone Project<br>Word Processors Quiz <br>LinkedIn Lab<br><br>|  
+| 2<br><br><br><br><br><br><br> | Microsoft Excel<br>Spreadsheets<br>Privacy, Ethics, and Security<br>Microsoft Access<br>Databases<br><br><br><br>| Ethics/Privacy Lab<br>Excel SIMBook (Ch1-3)<br>Excel Projects (Ch 1-3)<br>Excel Capstone Project<br>Spreadsheet Software Quiz<br>Access SIMBook (Ch1-2)<br>Access Project (Ch 1)<br>Databases Quiz<br> |   
+| 3<br><br><br><br><br><br><br> | Microsoft PowerPoint<br>Presentation Software<br>Emerging Technology<br><br><br><br><br>| PowerPoint SIMBook (Ch1-3)<br>PowerPoint Projects (Ch 1-3)<br>PowerPoint Capstone Project<br>Presentation Software Quiz<br>Office 2016 Integrated Project<br>Final Exam<br> <br> | 
 
 
 ### Department/Division Contact
@@ -163,20 +145,20 @@ If you have any issues in our classroom, the course content or with me, I would 
 If you have not attended class for Face-to-Face sections or if you have not logged into D2L for on-line sections by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
 
 ### Withdrawal Policy
-Withdrawal from the course after the Official Day of Record and prior to “W” Day (Tuesday April 2nd, 2019) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
+Withdrawal from the course after the Official Day of Record and prior to "W" Day will result in a final grade of "W" on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a "W."  If you stop participating in the on-line class, you must withdraw at the registration office prior to "W" day.
 
-_If you stop attending class and do not officially withdraw, you **will receive an “F”** for the course._
+_If you stop attending class and do not officially withdraw, you **will receive an "F"** for the course._
 
 ### Incompletes
 An ‘I’ or Incomplete will be considered only in extreme cases of illness or emergency.  An Incomplete will only be considered for those students who have completed at least 75% of the course material and have a passing average (70 or better) for those assignments that they have completed.  Granting an Incomplete is fully at the discretion of your instructor.  
 
-A student who receives an "I" does not re-register for the course and must complete the course no later than the set due date not to exceed the end of the following fall or spring semester. The instructor must submit a signed “I” contract to the appropriate division; students will receive a copy of the contract following approval by the Dean or designee.
+A student who receives an "I" does not re-register for the course and must complete the course no later than the set due date not to exceed the end of the following fall or spring semester. The instructor must submit a signed "I" contract to the appropriate division; students will receive a copy of the contract following approval by the Dean or designee.
 
 ### Early Alert
 Early Alert is a student success effort designed to help students reach their full educational potential and successfully complete their classes.  By requesting Early Alert for a student, a faculty member sends a message to the advising/counseling team, who will then contact the student and schedule a meeting to discuss support options. Students may be referred to Early Alert for many reasons, including poor academic performance, lack of basic study skills, attendance, persistent tardiness, and personal or financial issues that interfere with class performance.
 
 ### Six Drop Rule
-Students who enrolled in Texas public institutions of higher education as first-time college students during the Fall 2007 term or later are subject to section 51.907 of the Texas Education Code, which states that an institution of higher education may not permit a student to drop (withdraw with a grade of “W”) from more than six courses, including courses that a transfer student has previously dropped at other Texas public institutions of higher education that have already been counted against their six drop limit.   Each student should fully understand this drop limit before you drop any course.  Please see a Counselor or Advisor in our Student Services area for additional information and assistance. <span style="color: red">_This policy does not affect developmental or ESOL students._</span>
+Students who enrolled in Texas public institutions of higher education as first-time college students during the Fall 2007 term or later are subject to section 51.907 of the Texas Education Code, which states that an institution of higher education may not permit a student to drop (withdraw with a grade of "W") from more than six courses, including courses that a transfer student has previously dropped at other Texas public institutions of higher education that have already been counted against their six drop limit.   Each student should fully understand this drop limit before you drop any course.  Please see a Counselor or Advisor in our Student Services area for additional information and assistance. <span style="color: red">_This policy does not affect developmental or ESOL students._</span>
 
 **Lone Star College-University Park Learning Center is committed to your success.**
 
@@ -205,8 +187,8 @@ The Lone Star College System upholds the core values of learning: honesty, respe
 The consequences for academic dishonesty are determined by the professor, or the professor and academic dean, or the professor and chief student services officer and can include but are not limited to:  
 
 1. Having additional class requirements imposed,  
-2. Receiving a grade of zero or “F” for an exam or assignment,  
-3. Receiving a grade of “F” for the course,
+2. Receiving a grade of zero or "F" for an exam or assignment,  
+3. Receiving a grade of "F" for the course,
 4. Being withdrawn from the course or program,
 5. Being expelled from the college system.
 
@@ -225,13 +207,13 @@ Lone Star College is very committed to equal access in educational opportunities
 ### Americans with Disabilities Act Statement
 Lone Star College-University Park is dedicated to providing the least restrictive environment for all students.  We promote equity in academic access through the implementation of reasonable accommodations as required by the Vocational Rehabilitation Act of 1973, Title V, Section 504 and the Americans with Disabilities Act of 1990 (ADA) which will enable students with disabilities to participate in and benefit from all post-secondary educational activities.
 
-Disability Services is located on the LSC University Park campus in Building 13, Suite 200.  You may contact Disability Services at the following number:  <a href="tel:281-401-5366">281-401-5366</a>.  Additional information may be accessed on-line at the following URL:  <a href="http://www.lonestar.edu/disability-services.htm" target="_blank">http://www.lonestar.edu/disability-services.htm</a>.
+Disability Services is located on the LSC University Park campus in Building 13, Suite 200.  You may contact Disability Services at the following number:  <a href="tel:281-401-5370">281-401-5370</a>.  Additional information may be accessed on-line at the following URL:  <a href="http://www.lonestar.edu/disability-services.htm" target="_blank">http://www.lonestar.edu/disability-services.htm</a>.
 
 ### Campus Safety and Security
 Lone Star College System is committed to maintaining the safety of the students, faculty, staff, and guests while visiting one of our campuses.  See <a href="http://www.lonestar.edu/campus-safety.htm" target="_blank">http://www.lonestar.edu/campus-safety.htm</a> for details.  Register at <a href="http://www.lonestar.edu/LoneStarCollegeAlert.htm" target="_blank">http://www.lonestar.edu/LoneStarCollegeAlert.htm</a> to receive emergency notifications.  In the event of an emergency, contact the police at 5911.
 
 ### Campus Carry
-The Texas Legislature enacted campus carry by passing Senate Bill 11, effective at LSC on August 1, 2017.  Senate Bill 11, known as the “Campus Carry” law, amends Texas law to allow license holders to carry concealed handguns on college campuses.  To carry a concealed handgun on LSC campuses, an individual must have a valid License to Carry issued by the Texas Department of Public Safety.
+The Texas Legislature enacted campus carry by passing Senate Bill 11, effective at LSC on August 1, 2017.  Senate Bill 11, known as the "Campus Carry" law, amends Texas law to allow license holders to carry concealed handguns on college campuses.  To carry a concealed handgun on LSC campuses, an individual must have a valid License to Carry issued by the Texas Department of Public Safety.
  
 LSC has established rules and regulations regarding enforcement of Campus Carry.  Lone Star College prohibits concealed carry in some areas of LSC campuses.  For more information about Campus Carry, visit the <a href="http://www.lonestar.edu/campuscarry" target="_blank">LSC Campus Carry website</a>.
 

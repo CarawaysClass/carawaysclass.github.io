@@ -9,15 +9,20 @@
 ## Course Info
 **Course Number:** BCIS 1305  
 **Course Title:** Business Computer Applications  
-**Term and Year:** Fall 2019
-**Course Dates:** August 26 - December 18, 2019
+**Term and Year:** Spring 2019
+**Course Dates:** January 14 - May 10, 2019
 **Course Section(s):** 6001/2 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
 
 Campus Map:  <a href="http://www.lonestar.edu/maps-universitypark.htm" target="_blank">Lone Star College - University Park</a>
-## Virtual Office Hours:   By appointment or just reach out via Slack
+## Virtual Office Hours:   
+Tuesday 10am - Noon
+Wednesday 1-3pm
+Thursday 10am - Noon
+
+...or by appointment
 
 
 ## Course Description  
@@ -40,16 +45,13 @@ In this course, students will study computer terminology, hardware, and software
 
 Generally, students completing this course will be to:
 
-1. Describe the fundamentals of information technology concepts – hardware, software, security, and privacy.
-2. Demonstrate proper file management techniques to manipulate electronic files and folders in local, network, and online environments.
-3. Create business documents with word processing software using spelling and grammar check, format and layout, tables, citations, graphics, and mail merge.
-4. Create business documents and analyze data with spreadsheet software using (1) tables, sorting, filtering, charts and graphics, pivot tables, macros; (2) statistical, financial, logical and look-up functions and formulas; and (3) add-ins.
-5. Create business multimedia presentations with presentation software using templates, lists, groups, themes, colors, clip art, pictures, tables, transitions, animation, video, charts, and views.
-6. Create databases and manage data with database software using tables, fields, relationships, indexes, keys, views, queries, forms, reports, and import/export functions.
-7. Integrate business software applications.
-8. Use web-based technologies to conduct ethical business research.
-9. Use “goal seeking” and “what-if analysis” to solve problems and make adjustments/recommendations in a business environment.
-
+1. Describe the fundamentals of Information Technology (IT) infrastructure components: hardware, software, and data communications systems.  
+2. Explain the guiding principles of professional behavior in computing.  
+3. Demonstrate proper file management techniques to manipulate electronic files and folders in a local and networked environment.  
+4. Use business productivity software to manipulate data and find solutions to business problems.  
+5. Explain the concepts and terminology used in the operation of application systems in a business environment.  
+6. Identify emerging technologies for use in business applications.  
+7. Complete projects that integrate business software applications.  
 
 ## Prerequisites  
 None.  
