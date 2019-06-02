@@ -17,10 +17,8 @@
 **Total Contact Hours** 80
 
 Campus Map:  <a href="http://www.lonestar.edu/maps-universitypark.htm" target="_blank">Lone Star College - University Park</a>
-## Office Hours:   
-Tuesday 10a-3p
-
-...or by appointment
+## Virtual Office Hours:   
+Contact me via Slack...
 
 
 ## Course Description  
