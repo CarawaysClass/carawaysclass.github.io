@@ -1,8 +1,8 @@
-# SYLLABUS: BCIS 1305 - Business Computer Applications 
+# SYLLABUS: ITSE 1302 - Computer Programming
 
 <<[boilerplate/bec-contact-info.md]
 
-<<[bcis1305/bcis1305-syllabus-details.md]
+<<[itse1302/itse1302-syllabus-details.md]
 
 <<[boilerplate/instructor-guidelines-bp.md]
 

@@ -1,8 +1,8 @@
-# SYLLABUS: BCIS 1305 - Business Computer Applications 
+# SYLLABUS: ITSW 1304 - Introduction to Spreadsheets
 
 <<[boilerplate/bec-contact-info.md]
 
-<<[bcis1305/bcis1305-syllabus-details.md]
+<<[itsw1304/itsw1304-syllabus-details.md]
 
 <<[boilerplate/instructor-guidelines-bp.md]
 
