@@ -21,11 +21,11 @@ Contact me via Slack...
 
 
 ## Course Description  
-In this course, students will study computer terminology, hardware, and software related to the business environment. The focus of this course is on business productivity software applications and professional behavior in computing, including word processing (as needed), spreadsheets, databases, presentation graphics, and business-oriented utilization of the Internet. 
+This course introduces and develops foundational skills in applying essential and emerging business productivity information technology tools. The focus of this course is on business productivity software applications, including word processing, spreadsheets, databases, presentation graphics, data analytics, and business-oriented utilization of the internet. 
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
-* Check SIMnet daily for our Learning Activities and Assignments.  
+* Check Slack daily for our Learning Activities and Assignments.  
 * Keep connected via our Slack team site for updates and notifications.
 * For Slack communications received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
 * For Slack communications received between _Friday noon and Sunday, I will reply by 5pm, the following Monday.
@@ -34,31 +34,34 @@ In this course, students will study computer terminology, hardware, and software
 **SIMnet** is the on-line service that we will use to complete a majority of the assignments of our class.  You will need to purchase a SIMnet access code for our course.
 * Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
-* * _Even though most of our class assignments can be completed on a Mac, **there are specific SIMnet assignments that require the Windows (PC) version of Office 2016**_. If you do not have Office 2016 (for Windows) at home, you may need to use the general-use Windows PCs found at any LSC campus.
+* * _Even though most of our class assignments can be completed on a Mac, **there are specific SIMnet assignments that require the Windows (PC) version of Office 365/2019**_. If you do not have Office 365/2019 (for Windows) at home, you may need to use the general-use Windows PCs found at any LSC campus.
 
 ## Student Learning Outcomes  
 
-Generally, students completing this course will be to:
+Generally, students completing this course will be able to:
 
-1. Describe the fundamentals of Information Technology (IT) infrastructure components: hardware, software, and data communications systems.  
-2. Explain the guiding principles of professional behavior in computing.  
-3. Demonstrate proper file management techniques to manipulate electronic files and folders in a local and networked environment.  
-4. Use business productivity software to manipulate data and find solutions to business problems.  
-5. Explain the concepts and terminology used in the operation of application systems in a business environment.  
-6. Identify emerging technologies for use in business applications.  
-7. Complete projects that integrate business software applications.  
+1. Describe the fundamentals of information technology concepts – hardware, software, security, and privacy.
+2. Demonstrate proper file management techniques to manipulate electronic files and folders in local, network, and online environments.
+3. Create business documents with word processing software using spelling and grammar check, format and layout, tables, citations, graphics, and mail merge.
+4. Create business documents and analyze data with spreadsheet software using (1) tables, sorting, filtering, charts and graphics, pivot tables, macros; (2) statistical, financial, logical and look-up functions and formulas; and (3) add-ins.
+5. Create business multimedia presentations with presentation software using templates, lists, groups, themes, colors, clip art, pictures, tables, transitions, animation, video, charts, and views.
+6. Create databases and manage data with database software using tables, fields, relationships, indexes, keys, views, queries, forms, reports, and import/export functions.
+7. Integrate business software applications.
+8. Use web-based technologies to conduct ethical business research.
+9. Use “goal seeking” and “what-if analysis” to solve problems and make adjustments/recommendations in a business environment.
 
 ## Prerequisites  
 None.  
 ## Required Materials  
 To be successful in this class, the student must:  
 
-* Have access to a Windows PC with Microsoft Office 2016 installed
+* Have access to a Windows PC with Microsoft Office 365/2019 installed
  _*OR*_ 
- access to a Mac with Microsoft 2016 installed.  (As an LSC student you <a href="https://portal.office.com" target="_blank">get Office for free</a>).   
-* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: ISBN: **978-1-260-72803-3**
-> Computing Essen 2017 (Access)(w/Office 2016)(CUSTOM)(LSC)
+ access to a Mac with Microsoft 365/2019 installed.  (As an LSC student you <a href="https://portal.office.com" target="_blank">get Office for free</a>).   
+* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: ISBN: **978-1-264-02216-8**
+> Office365/2019 SimNet - simnet online for Microsoft Office365/2019, 1st ed
 > Author: Triad Interactive
+> Access Code 
 > **Note** You may purchase your access code from the campus bookstore or from within the SIMnet app.  I recommend that wait until after the first week of class to buy.  The publisher provides two weeks of "free" access to start our semester. 
 
 ## Instructor Guidelines and Policies 
@@ -99,7 +102,7 @@ The violating student will not be allowed to return to class or regain access un
 Members of the Lone Star College, which includes faculty, staff, and students, are expected to act honestly and responsibly in all aspects of campus life. Lone Star College holds all members accountable for their actions and words. Therefore, all members should commit themselves to behave in a manner that recognizes personal respect, and demonstrates concern for personal dignity, rights, and freedom of every member of the College community, including respect for the College property and the physical and intellectual property of others. 
 
 ### Assignments
-Assignments are due according to the schedule posted in slack.com (and D2L).  Students are responsible for meeting assignment due dates.    
+Assignments are due according to the schedule posted in SIMnet and/or slack.com.  Students are responsible for meeting assignment due dates.    
 
 ### Grade Determination  
 
@@ -132,7 +135,7 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 | :---: | -------- | ------ |
 | 1<br><br><br><br><br><br> | Class Introduction<br>SIMnet & Slack Registration<br>Input/Output<br>The System Unit<br>Microsoft Word<br>Word Processors<br>LinkedIn | Hardware Lab<br>Word SIMBook (Ch1-3)<br>Word Projects (Ch 1-3)<br>Word Capstone Project<br>Word Processors Quiz <br>LinkedIn Lab<br><br>|  
 | 2<br><br><br><br><br> | <br>Microsoft Excel<br>Spreadsheets<br><br><br> Privacy, Ethics, and Security<br><br>Microsoft Access<br>Databases<br>| Ethics/Privacy Lab<br>Excel SIMBook (Ch1-3)<br>Excel Projects (Ch 1-3)<br>Excel Capstone Project<br>Spreadsheet Software Quiz<br>Access SIMBook (Ch1-2)<br>Access Project (Ch 1)<br>Databases Quiz<br> |   
-| 3<br><br><br><br><br> | Microsoft PowerPoint<br>Presentation Software<br>Emerging Technology<br>| PowerPoint SIMBook (Ch1-3)<br>PowerPoint Projects (Ch 1-3)<br>PowerPoint Capstone Project<br>Presentation Software Quiz<br>Office 2016 Integrated Project<br>Final Exam  | 
+| 3<br><br><br><br><br> | Microsoft PowerPoint<br>Presentation Software<br>Emerging Technology<br>| PowerPoint SIMBook (Ch1-3)<br>PowerPoint Projects (Ch 1-3)<br>PowerPoint Capstone Project<br>Presentation Software Quiz<br>Office 365/2019 Integrated Project<br>Final Exam  | 
 
 
 ### Department/Division Contact

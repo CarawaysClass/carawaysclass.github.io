@@ -17,28 +17,28 @@
 **Total Contact Hours** 80
 
 Campus Map:  <a href="http://www.lonestar.edu/maps-universitypark.htm" target="_blank">Lone Star College - University Park</a>
-## Virtual Office Hours:   By appointment or just reach out via Slack
-
+## Virtual Office Hours:   
+Contact me via Slack...
 
 ## Course Description  
-In this course, students will study computer terminology, hardware, and software related to the business environment. The focus of this course is on business productivity software applications and professional behavior in computing, including word processing (as needed), spreadsheets, databases, presentation graphics, and business-oriented utilization of the Internet. 
+This course introduces and develops foundational skills in applying essential and emerging business productivity information technology tools. The focus of this course is on business productivity software applications, including word processing, spreadsheets, databases, presentation graphics, data analytics, and business-oriented utilization of the internet.
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
-* Check the slack site for our weekly Learning Activities and Assignments.  
-* For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
-* For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
-* Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or D2L.
+* Check Slack for our weekly Learning Activities and Assignments.  
+* For Slack communications received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
+* For Slack communications received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
+* Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email, MyLonestar, and all other LSC properties.
 * Call the McGraw-Hill support line (<a href="tel:800-331-5094">800-331-5094</a>) for issues with **SIMnet**. Be sure to get a case number when you contact them.
-**SIMnet** is the on-line service that you will use to complete a majority of the assignments of our class.  
+**SIMnet** is the on-line service that you will use to complete a majority of the assignments of our class.  You will need to purchase a SIMnet access code for our course.
 * Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
 * Please use my virtual office hours (see hours above) should you need to set up a WebEx meeting or call for any question or issue that you would like to discuss.
-* _Even though most of our class assignments can be completed on a Mac, **there may be specific SIMnet assignments that require the Windows (PC) version of Office 2016**_. If you do not have Office 2016 (for Windows) at home, you may need to use the general-use PCs at any LSC campus.
+* _Even though most of our class assignments can be completed on a Mac, **there may be specific SIMnet assignments that require the Windows (PC) version of Office365/2019**_. If you do not have Office365/2019 (for Windows) at home, you may need to use the general-use PCs at any LSC campus.
 
 ## Student Learning Outcomes  
 
-Generally, students completing this course will be to:
+Generally, students completing this course will be able to:
 
 1. Describe the fundamentals of information technology concepts – hardware, software, security, and privacy.
 2. Demonstrate proper file management techniques to manipulate electronic files and folders in local, network, and online environments.
@@ -56,11 +56,11 @@ None.
 ## Required Materials  
 To be successful in this class, the student must:  
 
-* Have access to a Windows PC with Microsoft Office 2016 installed
+* Have access to a Windows PC with Microsoft Office365/2019 installed
  _*OR*_ 
- access to a Mac with Microsoft 2016 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
-* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: ISBN: **978-1-260-72803-3**
-> Office 2016 SimNet - simnet online for Microsoft Office 2016, 1st ed
+ access to a Mac with Microsoft 365/2019 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
+* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: ISBN: **978-1-264-02216-8**
+> Office365/2019 SimNet - simnet online for Microsoft Office365/2019, 1st ed
 > Author: Triad Interactive
 > Access Code 
 > **Note** You may purchase your access code from the campus bookstore or from within the SIMnet app.  I recommend that if you haven't already purchased your access code to wait until after the first week of class to buy.  The publisher provides two weeks of "free" access to start our semester. 
@@ -76,7 +76,7 @@ I will email you an invitation to our Slack class site, during the first week of
 
 
 ### Emailing Your Instructor
-Slack is your best choice in communicating with me, but there may be instances where you wish to email me.  If you choose to use email, be sure to include your name, course name, and course number in the email.   Keep the body of your message brief, and to-the-point.  Here is an example of a good email:
+Slack is your best choice in communicating with me, but there may be instances where you wish to email me.  If you choose to use email, be sure to include your name, course name, and course number in the email.  If you do not fully identify yourself and course info, I will likely not reply.  Keep the body of your message brief, and to-the-point.  Here is an example of a good email:
 
 > Professor Caraway:
 
@@ -86,8 +86,7 @@ Slack is your best choice in communicating with me, but there may be instances w
 
 
 ### Office Visits
-I currently live several hours from Houston so I am not in my campus office  that often.  I am always happy to set up a "virtual" visit using WebEx or a phone call.  
-During the semester, I do schedule occasional visits to campus - usually one or two days a month.  If you do want to meet in person, please let me know via Slack and I will review my upcoming visit calendar to determine if we can meet at a time that is convenient. 
+I currently live several hours from Houston so I am not in my campus office very often.  I am always happy to set up a "virtual" visit using WebEx or a phone call - just contact me via Slack to initiate a session.   
 
 ### Attendance
 We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in on-line Slack discussions or chat sessions.  It is your responsibility to keep up with the material and to check in for updates, assignment due dates, and potential schedule changes.
@@ -104,7 +103,7 @@ The violating student will not be allowed to return to class or regain access un
 Members of the Lone Star College, which includes faculty, staff, and students, are expected to act honestly and responsibly in all aspects of campus life. Lone Star College holds all members accountable for their actions and words. Therefore, all members should commit themselves to behave in a manner that recognizes personal respect, and demonstrates concern for personal dignity, rights, and freedom of every member of the College community, including respect for the College property and the physical and intellectual property of others. 
 
 ### Assignments
-Assignments are due according to the schedule posted in slack.com (and D2L).  Students are responsible for meeting assignment due dates.    
+Assignments are due according to the schedule posted in SIMnet and/or slack.com.  Students are responsible for meeting assignment due dates.    
 
 ### Grade Determination  
 
@@ -148,7 +147,7 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 | 11<br><br><br> | Emerging Technology<br><br><br> | Input/Output lab<br>Emerging Tech lab<br>Emerging Tech quiz |
 | 12 | Skills: Programming | Programming lab |
 | 13 | Skills: Databases | Databases Quiz<br>Databases capstone |
-| 14 |  | Integrated Project |
+| 14 |  |  |
 | 15 |  | Integrated Project |
 | 16 | FINALS | Final Exam |
 
@@ -159,11 +158,14 @@ If you have any issues in our classroom, the course content or with me, I would 
 * Department Chair: Gary Tucker | <a href="tel:281-290-2957">281-290-2957</a> | <a href="mailto:gary.d.tucker@lonestar.edu">gary.d.tucker@lonestar.edu</a>
 * Dean: Steven Kahla | <a href="tel:281-655-3788">281-655-3788</a> | <a href="mailto:steven.c.kahla@lonestar.edu">steven.c.kahla@lonestar.edu</a>
 
+<<[..\boilerplate\lsc-syllabus-bp.md]
+
+
 ### Non Attendance at Start of Semester
 If you have not attended class for Face-to-Face sections or if you have not logged into D2L for on-line sections by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
 
 ### Withdrawal Policy
-Withdrawal from the course after the Official Day of Record and prior to “W” Day (Tuesday April 2nd, 2019) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
+Withdrawal from the course after the official day of record and prior to “W” Day, (Monday November 11th, 2019) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after official day.  No credit will be awarded for a course earning a “W.”  If you stop attending class, you must withdraw at the registration office prior to “W” day.  If you stop attending class and do not officially withdraw, you will receive an “F” for the course.
 
 _If you stop attending class and do not officially withdraw, you **will receive an “F”** for the course._
 
@@ -183,7 +185,7 @@ Students who enrolled in Texas public institutions of higher education as first-
 ### Your success is our primary concern!  
 If you are experiencing challenges achieving your academic goals, please contact your instructor or an advisor.  We can provide assistance with academic needs, ADA accommodations, classroom difficulties, financial concerns, and other issues.  
 
-**Tutoring: For all disciplines, please visit the <a href="http://www.lonestar.edu/up-tutoring.htm" target="_blank"> UP Tutoring Center</a> for information on hours and location.** The tutoring lab, reading/writing lab, and math lab can be found within the <a href="http://www.lonestar.edu/SLRC.htm" target="_blank">Student Learning Resource Center</a> in Building 12 on the 8th floor.
+**Academic Coaching (formerly Tutoring0: Academic coaching is available through the Student Learning Resource Center (SLRC). Please visit <a href="http://www.lonestar.edu/up-tutoring.htm" target="_blank"> UP Tutoring Center</a> for information on hours and location.** 
 
 ### Counseling Services
 Counseling services are available to students who are experiencing difficulty with academic issues, selection of college major, career planning, disability accommodations, or personal issues.  Students may contact Counseling, Career, and Disability Services at <a href="tel:281-401-5370">281-401-5370</a>, or in Building 13, Room 200.
@@ -214,10 +216,6 @@ The consequences for academic dishonesty are determined by the professor, or the
 Students are expected to conduct themselves appropriately while on College property or in an on-line environment.  Students may receive disciplinary action up to and including suspension, if they violate System or College rules, disrupt classes, or interfere with the opportunity of others to obtain an education.  Students who pose a threat to the safety of others will be subject to immediate withdrawal from the classroom, campus environment, and/or on-line environment, as well as face subsequent criminal charges, as appropriate.  
 
 **Please refer to the Student Code of Conduct located on-line at <a href="http://www.lonestar.edu/student-responsibilities.htm"  target="_blank">http://www.lonestar.edu/student-responsibilities.htm</a> for additional information.**
-
-_Sleeping (or laying your head on your desk) is not allowed in the classroom. On the first occurrence, you will be asked to refrain from sleeping.  On a second occurrence, you will be asked to leave the room._
-
-Lone Star College - University Park is a smoking-free campus.  _The use of e-cigarettes, electronic cigarettes, vapor cigarettes, pipes, vapes, etc. is strictly prohibited throughout campus._
 
 ### Lone Star College Assistive Facilities
 Lone Star College is very committed to equal access in educational opportunities and provides assistance through disability services. Each main campus has an assistive technology lab to assist students with disabilities. These centers offer a wide range of educational technology tools, such as screen readers, for example, to assist students with their educational needs.  Information specific to your campus' Assistive Services is located on-line at <a href="http://www.lonestar.edu/19287.htm" target="_blank">http://www.lonestar.edu/19287.htm</a>.  

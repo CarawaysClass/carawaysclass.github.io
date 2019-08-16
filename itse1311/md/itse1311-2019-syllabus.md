@@ -1,4 +1,4 @@
-# Syllabus: ITSW 1304 Intro to Spreadsheets
+# SYLLABUS: ITSE 1311 - Beginning Web Programming 
 
 ## Instructor Contact Information
 **Name:** Bruce Caraway
@@ -7,60 +7,54 @@
 **Email:** <a href = "mailto:bruce.caraway@lonestar.edu">bruce.caraway@lonestar.edu</a>
 **Website:** <a href = "https://carawaysclass.com">carawaysclass.com</a>
 ## Course Info
-**Course Number:** ITSW 1304  
-**Course Title:** Intro to Spreadsheets  
-**Term and Year:** Spring 2019 8W1
-**Course Dates:** January 14 - March 5, 2019
+**Course Number:** ITSE 1311  
+**Course Title:** Beginning Web Programming  
+**Term and Year:** Fall 2019
+**Course Dates:** August 26 - October 18, 2019
 **Course Section(s):** 6001/2 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
 
 Campus Map:  <a href="http://www.lonestar.edu/maps-universitypark.htm" target="_blank">Lone Star College - University Park</a>
-## Office Hours:   
-Tuesday 10 - 11:30am
-Wednesday 1-2:30pm
-Thursday 10 - 11:30am
-
-...or by appointment
+## Virtual Office Hours:   
+Contact me via Slack...
 
 ## Course Description  
-In this course, students will learn about the concepts, procedures, and application of electronic spreadsheets and, more specifically, this course introduces the topic of spreadsheet software using Microsoft Excel.  We will look at how spreadsheets can be used to perform calculations, organize data, communicate quantitative information, make financial decisions, share data, and more.  Knowing how to use  spreadsheet software like Excel is a key skill required in just about any business setting. 
+This course is designed to equip you, the student, with the fundamental programming skills necessary to build HTML-based web pages.  Generally (and per the course catalog), this course will develop skills used in web programming including mark-up and scripting languages. 
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
 * Check the slack site for our weekly Learning Activities and Assignments.  
-* For communications received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
-* For communications received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
+* For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
+* For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
 * Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or D2L.
-* Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
+* Work is to be submitted by the Due Date.  **Late work will not be accepted**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
 * Please use my virtual office hours (see hours above) should you need to set up a WebEx meeting or call for any question or issue that you would like to discuss.
 
 ## Student Learning Outcomes  
 
-Generally, students completing this course will be able to:
+Generally, students completing this course will be able to:  
 
-1. Create formulas and functions.
-2. Define spreadsheet terminology and concepts.
-3. Generate charts, graphs, and reports.
-4. Use Formatting Features.  
+* Demonstrate the use of markup and scripting languages.
+* Create interactive web pages. 
+* Use HTML and CSS for the formatting and layout of a web page.  
 
 ## Prerequisites  
-
-* ITSC 1301 or COSC 1301.  
-
+None.  
 ## Required Materials  
-To be successful in this class, the student must:  
+To be successful in this class, the student must access to the Internet and purchase a license for codio.com.
 
-* Have Internet access.
-* Access to a Windows PC with Microsoft Excel 2016 installed 
-OR access to a Mac with Microsoft Excel 2016 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
-* Register for access to the McGraw-Hill SIMnet environment.
-> MS Office Excel 2016: Complete (SIMNET 2017)
-> Author: Nordell
-> Access Code
-> **Note** You may purchase your access code from the campus bookstore or from within the SIMnet app.  I recommend that if you haven't already purchased your access code to wait until after the first week of class to buy.  The publisher provides two weeks of "free" access to start our semester. 
+##Technical Requirements  
+This computer must have ready access to the Internet and Lone Star College’s Brightspace Learning Management System (LMS).  
+
+Additional, this course cannot be completed on a public computer, i.e., one which the 
+student does not have administrator rights to install software.  
+
+Because this is an online, technical class, the student must 
+maintain their computer in working order, keeping it up-to-date and free of malware.
+
 
 ## Instructor Guidelines and Policies 
 
@@ -77,19 +71,20 @@ Slack is your best choice in communicating with me, but there may be instances w
 
 > Professor Caraway:
 
->I am Angela Ford from your ITSW 1304 (Intro to Spreadsheets) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
+>I am Angela Ford from your ITSE 1311 (Beginning Web Programming) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
 
 >Angela Ford
 
 
 ### Office Visits
-I currently live several hours from Houston so I am not in my campus office very often.  I am always happy to set up a "virtual" visit using WebEx or a phone call - just contact me via Slack to initiate a session.  
+I currently live several hours from Houston so I am not in my campus office very often.  I am always happy to set up a "virtual" visit using WebEx or a phone call - just contact me via Slack to initiate a session. 
 
 ### Attendance
-We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in on-line Slack discussion or chat session.  It is your responsibility to keep up with the material and check the class D2L page regularly for updates, assignment due dates, and potential schedule changes.
+We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in on-line Slack discussions or chat sessions.  It is your responsibility to keep up with the material and to check in for updates, assignment due dates, and potential schedule changes.
 
-Should you anticipate that you will not be able to log on and participate in class for an extended period (72 hours), please notify me in advance.  Not logging in to the on-line class at a regular interval will significantly impact your chance for success.   **I will withdraw a student if they are not active in the course and do not respond to my Slack or email correspondence during a 7 day period.**  
-
+Should you anticipate that you will not be able to log on and participate in class for an extended period (72 hours), please notify me in advance.  Not logging in to the on-line class at a regular interval will significantly impact your chance for success.   **I will withdraw a student if they are not active in the course and do not respond to my Slack or email correspondence during a 7 day period.**
+ 
+ 
 ### Class Participation
 The college classroom is a place for adult men and women to meet with a common purpose of improving their intellectual and academic skills.  This applies to both face-to-face and on-line classes.  When engaging your instructor and fellow students, you will be expected to treat everyone with respect and in a professional manner.  The use of profanity, derogatory terms, and threats in any class-related forum will not be tolerated.  If a student violates this rule, they will be asked to leave the classroom (in a face-to-face section) or their access to the class will be blocked (in an on-line section).  
 
@@ -99,46 +94,42 @@ The violating student will not be allowed to return to class or regain access un
 Members of the Lone Star College, which includes faculty, staff, and students, are expected to act honestly and responsibly in all aspects of campus life. Lone Star College holds all members accountable for their actions and words. Therefore, all members should commit themselves to behave in a manner that recognizes personal respect, and demonstrates concern for personal dignity, rights, and freedom of every member of the College community, including respect for the College property and the physical and intellectual property of others. 
 
 ### Assignments
-Assignments are due according to the schedule posted in codio.com and/or slack.com.  Students are responsible for meeting assignment due dates.    
+Assignments are due according to the schedule posted in slack.com (and D2L).  Students are responsible for meeting assignment due dates.    
 
 ### Grade Determination  
 
 Evaluation will be based on the following grade components:
 
-| Grade Type | Points |
-| :---------: | :------: |
-| SIMBook Readings (10%) | 100 |
-| SIMpaths (4.5%) | 45 |
-| SIMNet Projects (54%) | 540 |
-| Mid-semester Capstone Project (7.5%) | 75 |
-| Slack Discussions (9%) | 90 |
-| Final Project (15%) | 150 |
-| **TOTAL POINTS** | **1000** |
+| Grade Type | Percentage |
+| ---------- | :------: |
+| Quizzes | 10 |
+| Discussions | 10 |
+| Programming Exercises & Projects | 40 |
+| Final Semester Project| 40 |
+|  | **100%** |
 
 
-Our grade book is based on a 1000 point scale.  Your final letter grade will be based on the number of points you earn for the semester.  The number of points required for each letter grade are as follows:
+Letter Grade Assignment:
 
-| Points Earned | Letter Grade |
+| Final Average | Letter Grade |
 | :----------: | :------: |
-| 900-1000 | A |
-| 800-899 | B |
-| 700-799 | C |
-| 600-699 | D |
-| 0-599 | F |
+| 90-100% | A |
+| 80-89% | B |
+| 70-79% | C |
+| 60-69% | D |
+| 0-59% | F |
 
 ## Tentative Course Outline 
-
 | Week | Topics | 
-| :---: | -------- | 
-| 1 | SIMnet, Windows 10, MS Office, and Creating and Editing Workbooks (Ch1) |
-| 2 | Working with Formulas and Functions (Ch2) |
-| 3 | Creating and Editing Charts (Ch3) & Formatting, Organizing, and Getting Data (Ch4)|
-| 4 | Consolidating, Linking, and Inserting Objects (Ch5) |
-| 5 | Exploring the Function Library (Ch6) & Mid-semester Capstone |
-| 6 | Working with Templates and Sharing Work (Ch7) |
-| 7 | Exploring Data Analysis and Business Intelligence (Ch8) Recording and Editing Macros (Ch9) |
-| 8 | FINALS - Final Project | 
-
+| :---: | ---------- | 
+| 1 | Class Introduction, Codio Setup, and the Basics |   
+| 2 | Links, Images, and Stylesheets |
+| 3 | The Box Model and CSS Selectors|
+| 4 | Floats and Advanced Positioning |
+| 5 | Advanced Positioning and Responsive Design |
+| 6 | Responsive Images and Typography |
+| 7 | Forms and Final Project|
+| 8 | Final Exam |
 
 ### Department/Division Contact
 If you have any issues in our classroom, the course content or with me, I would ask that you first address the issue directly with me.  If you feel that the issue remains unresolved even after speaking with me, you may contact the following individuals to whom I report.
@@ -147,10 +138,10 @@ If you have any issues in our classroom, the course content or with me, I would 
 * Dean: Steven Kahla | <a href="tel:281-655-3788">281-655-3788</a> | <a href="mailto:steven.c.kahla@lonestar.edu">steven.c.kahla@lonestar.edu</a>
 
 ### Non Attendance at Start of Semester
-If you have not attended class for a face-to-face section or if you have not logged into D2L for an on-line section by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
+If you have not attended class for Face-to-Face sections or if you have not logged into D2L for on-line sections by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
 
 ### Withdrawal Policy
-Withdrawal from the course after the Official Day of Record and prior to “W” Day (Friday February 22nd, 2019) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
+Withdrawal from the course after the Official Day of Record and prior to “W” Day (Friday October 4th, 2019) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
 
 _If you stop attending class and do not officially withdraw, you **will receive an “F”** for the course._
 
@@ -170,7 +161,7 @@ Students who enrolled in Texas public institutions of higher education as first-
 ### Your success is our primary concern!  
 If you are experiencing challenges achieving your academic goals, please contact your instructor or an advisor.  We can provide assistance with academic needs, ADA accommodations, classroom difficulties, financial concerns, and other issues.  
 
-**Tutoring: For all disciplines, please visit the <a href="http://www.lonestar.edu/up-tutoring.htm" target="_blank"> UP Tutoring Center</a> for information on hours and location.** The tutoring lab, reading/writing lab, and math lab can be found within the <a href="http://www.lonestar.edu/SLRC.htm" target="_blank">Student Learning Resource Center</a> in Building 12 on the 8th floor.
+**Academic Coaching (formerly Tutoring0: Academic coaching is available through the Student Learning Resource Center (SLRC). Please visit <a href="http://www.lonestar.edu/up-tutoring.htm" target="_blank"> UP Tutoring Center</a> for information on hours and location.** 
 
 ### Counseling Services
 Counseling services are available to students who are experiencing difficulty with academic issues, selection of college major, career planning, disability accommodations, or personal issues.  Students may contact Counseling, Career, and Disability Services at <a href="tel:281-401-5370">281-401-5370</a>, or in Building 13, Room 200.
@@ -201,10 +192,6 @@ The consequences for academic dishonesty are determined by the professor, or the
 Students are expected to conduct themselves appropriately while on College property or in an on-line environment.  Students may receive disciplinary action up to and including suspension, if they violate System or College rules, disrupt classes, or interfere with the opportunity of others to obtain an education.  Students who pose a threat to the safety of others will be subject to immediate withdrawal from the classroom, campus environment, and/or on-line environment, as well as face subsequent criminal charges, as appropriate.  
 
 **Please refer to the Student Code of Conduct located on-line at <a href="http://www.lonestar.edu/student-responsibilities.htm"  target="_blank">http://www.lonestar.edu/student-responsibilities.htm</a> for additional information.**
-
-_Sleeping (or laying your head on your desk) is not allowed in the classroom. On the first occurrence, you will be asked to refrain from sleeping.  On a second occurrence, you will be asked to leave the room._
-
-Lone Star College - University Park is a smoking-free campus.  _The use of e-cigarettes, electronic cigarettes, vapor cigarettes, pipes, vapes, etc. is strictly prohibited throughout campus._
 
 ### Lone Star College Assistive Facilities
 Lone Star College is very committed to equal access in educational opportunities and provides assistance through disability services. Each main campus has an assistive technology lab to assist students with disabilities. These centers offer a wide range of educational technology tools, such as screen readers, for example, to assist students with their educational needs.  Information specific to your campus' Assistive Services is located on-line at <a href="http://www.lonestar.edu/19287.htm" target="_blank">http://www.lonestar.edu/19287.htm</a>.  
