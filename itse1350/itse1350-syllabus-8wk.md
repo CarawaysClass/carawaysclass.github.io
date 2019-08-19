@@ -123,20 +123,21 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 
 | Week | Topics | 
 | :---: | -------- | 
-| 1 | Chapter 1 - Introduction to Systems Analysis and Design |
-| 2 | Chapter 2 - Analyzing the Business Case |
-| 3 | Chapter 3 - Managing Systems Projects |
-| 4 | Chapter 4 - Requirements Modeling / Project 1 |
-| 5 | Chapter 5 - Data and Process Modeling |
-| 6 | Chapter 6 - Object Modeling |
-| 7 | Chapter 7 - Development Strategies |
-| 8 | Chapter 8 - User Interface Design / Project 2 |
-| 9 | Chapter 9 - Data Design |
-| 10 | Chapter 10 - System Architecture |
-| 11 | Chapter 11 - Managing Systems Implementation |
-| 12 | Chapter 12 - Managing Systems Support and Security |
-| 13 | Project 3 |
-| 14 | FINALS | 
+| 1 | Unit 1 - Introduction to Systems Analysis and Design |
+|   | Unit 2 - Analyzing the Business Case |
+| 2 | Unit 3 - Managing Systems Projects |
+|   | Unit 4 - Requirements Modeling |
+| 3 | Unit 5 - Data and Process Modeling |
+|   | Unit 6 - Object Modeling |
+| 4 | Unit 7 - Development Strategies |
+|   | Project 1 |
+| 5 | Unit 8 - User Interface Design |
+|   | Unit 9 - Data Design |
+| 6 | Unit 10 - System Architecture |
+|   | Unit 11 - Managing Systems Implementation |
+| 7 | Unit 12 - Managing Systems Support and Security |
+|   | Project 2 |
+| 8 | FINALS | 
 
 
 ### Department/Division Contact
@@ -149,7 +150,7 @@ If you have any issues in our classroom, the course content or with me, I would 
 If you have not attended class for Face-to-Face sections or if you have not logged into D2L for Online sections by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
 
 ### Withdrawal Policy
-Withdrawal from the course after the Official Day of Record and prior to "W" Day (Monday November 13th, 2017) will result in a final grade of "W" on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a "W."  If you stop participating in the online class, you must withdraw at the registration office prior to "W" day.
+Withdrawal from the course after the Official Day of Record and prior to "W" Day (Friday April 26th, 2019) will result in a final grade of "W" on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a "W."  If you stop participating in the online class, you must withdraw at the registration office prior to "W" day.
 
 _If you stop attending class and do not officially withdraw, you **will receive an "F"** for the course._
 

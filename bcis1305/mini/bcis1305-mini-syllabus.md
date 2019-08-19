@@ -9,19 +9,15 @@
 ## Course Info
 **Course Number:** BCIS 1305  
 **Course Title:** Business Computer Applications  
-**Term and Year:** Spring 2019
-**Course Dates:** December 17, 2018 - January 13, 2019
-**Course Section(s):** 6009/6010 
+**Term and Year:** Summer 2019
+**Course Dates:** May13, 2019 - June 2, 2019
+**Course Section(s):** 6007/6008 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
 
 ## Virtual Office Hours:   
-Monday 10am - Noon
-Wednesday 1-3pm
-Thursday 10am - Noon
-
-...or just contact me via our Slack team site
+Contact me via Slack...
 
 
 ## Course Description  
@@ -29,11 +25,11 @@ In this course, students will study computer terminology, hardware, and software
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
-* Check SIMnet for our weekly Learning Activities and Assignments.  
+* Check SIMnet daily for our Learning Activities and Assignments.  
 * Keep connected via our Slack team site for updates and notifications.
 * For Slack communications received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
 * For Slack communications received between _Friday noon and Sunday, I will reply by 5pm, the following Monday.
-* Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email, MyLonestar, and Brightspace (D2L).
+* Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email, MyLonestar, and all other LSC properties.
 * Call the McGraw-Hill support line (<a href="tel:800-331-5094">800-331-5094</a>) for issues with **SIMnet**. Be sure to get a case number when you contact them.
 **SIMnet** is the on-line service that we will use to complete a majority of the assignments of our class.  You will need to purchase a SIMnet access code for our course.
 * Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
