@@ -1,5 +1,7 @@
 ### Non Attendance at Start of Semester
-If you have not attended class for Face-to-Face sections or if you have not logged into D2L for on-line sections by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
+If you have not attended class for Face-to-Face sections or if you have not:  
+1. REGISTERED in Slack
+2. POSTED in the #introductions channel within Slackfor on-line sections by to the Official Day of Record, you will be administratively withdrawn from the class, no exceptions. 
 
 ### Withdrawal Policy
 Withdrawal from the course after the Official Day of Record and prior to “W” Day (Friday October 4th, 2019) will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.
