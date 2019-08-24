@@ -13,13 +13,13 @@ This course is designed to equip you, the student, with the fundamental programm
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
-* Check the slack site for our weekly Learning Activities and Assignments.  
-* For emails received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
-* For emails received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
+* Check the Brightspace site for our weekly Learning Activities and Assignments.  
+* For Slack communications received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
+* For Slack communicaitons received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
 * Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or D2L.
 * Work is to be submitted by the Due Date.  **Late work will not be accepted**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
-* Please use my virtual office hours (see hours above) should you need to set up a WebEx meeting or call for any question or issue that you would like to discuss.
+* Please use my virtual office hours (see hours above) should you need to set up a WebEx meeting or call for any questions/topics you would like to discuss.
 
 ## Student Learning Outcomes  
 
@@ -36,16 +36,13 @@ None.
 To be successful in this class, the student must access to the Internet and purchase a license for codio.com.
 
 ##Technical Requirements  
-This computer must have ready access to the Internet and Lone Star College’s Brightspace Learning Management System (LMS).  
-
-Additional, this course cannot be completed on a public computer, i.e., one which the 
-student does not have administrator rights to install software.  
+A student must have access to an up-to-date and well maintained computer running a recent version of Windows (PC) or MacOS (Mac) to be successful in this class. This computer must have ready access to the Internet and Lone Star College’s Brightspace Learning Management System (LMS).  
 
 Because this is an online, technical class, the student must 
 maintain their computer in working order, keeping it up-to-date and free of malware.
 
 ### Assignments
-Assignments are due according to the schedule posted in slack.com (and D2L).  Students are responsible for meeting assignment due dates.    
+Assignments are due according to the schedule posted in Brightspace.  Students are responsible for meeting assignment due dates.    
 
 ### Grade Determination  
 
