@@ -33,13 +33,12 @@ Generally, students completing this course will be able to:
 None.  
 
 ## Required Materials  
-To be successful in this class, the student must access to the Internet and purchase a license for codio.com.
+To be successful in this class, the student must access to the Internet and purchase a license for codio.com ($48).  As for a textbook, we will use several online textbooks and resources - these will all be free.
 
 ##Technical Requirements  
 A student must have access to an up-to-date and well maintained computer running a recent version of Windows (PC) or MacOS (Mac) to be successful in this class. This computer must have ready access to the Internet and Lone Star College’s Brightspace Learning Management System (LMS).  
 
-Because this is an online, technical class, the student must 
-maintain their computer in working order, keeping it up-to-date and free of malware.
+Because this is an online, technical class, the student must maintain their computer in working order, keeping it up-to-date and free of malware.
 
 ### Assignments
 Assignments are due according to the schedule posted in Brightspace.  Students are responsible for meeting assignment due dates.    
