@@ -1,8 +1,8 @@
 ## Course Info
 **Course Number:** ITSE 2302  
 **Course Title:** Intermediate Web Programming  
-**Term and Year:** Fall 2018
-**Course Dates:** October 22 - December 16, 2018
+**Term and Year:** Fall 2019
+**Course Dates:** October 21 - December 15, 2018
 **Course Section(s):** 6001/2 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
@@ -31,23 +31,13 @@ Generally, students completing this course will be able to:
 None.  
 ## Required Materials  
 
-To be successful in this class, the student must have access to the textbook:
-> **JavaScript & jQuery Interactive Front-End Web Development (Print, eBook, Rental)**
-> Author:  Jon Duckett
-> Publisher: Wiley
-> Publish Date: June 30, 2014
-> ISBN: 978-1118531648
-
-Note: You may purchase your textbook from any vendor as long as you get the exact edition of the book.  If you do not plan to keep the textbook, renting it is usually the least expensive way to obtain it. You could rent it for less than $50 at the LSC bookstore or online. 
-
-The book may be purchased (and even rented) from <a href="https://amzn.to/2o59nB4" target="_blank">amazon.com</a> or other retail booksellers.
+## Required Materials  
+To be successful in this class, the student must access to the Internet and purchase a license for codio.com ($48).  As for a textbook, we will use several online textbooks and resources - these will all be free.
 
 ##Technical Requirements  
-Students must have access to a personal computer running a recent version of a 
-syntax-highlighting text editor (e.g., Notepad++ for Windows, TextMate for OSX).  This computer must have ready access to the Internet and Lone Star College’s Brightspace Learning Management System (LMS).  
+A student must have access to an up-to-date and well maintained computer running a recent version of Windows (PC) or MacOS (Mac) to be successful in this class. This computer must have ready access to the Internet and Lone Star College’s Brightspace Learning Management System (LMS).  
 
-- This course cannot be completed on a public computer, i.e., one which the student does not have administrator rights to install software.  
-- Because this is an online, technical class, the student must maintain their computer in working order, keeping it up-to-date and free of malware.
+Because this is an online, technical class, the student must maintain their computer in working order, keeping it up-to-date and free of malware.
 
 ### Assignments
 Assignments are due according to the schedule posted in slack.com (and D2L).  Students are responsible for meeting assignment due dates.    
@@ -76,16 +66,7 @@ Letter Grade Assignment:
 | 0-59% | F |
 
 ## Tentative Course Outline 
-| Week | Topics | 
-| :---: | ---------- | 
-| 1 | Class Introduction and Setup |  
-| 2 | Chapter 3 & 4 |
-| 3 | Chapter 5 & 6 |
-| 4 | Chapter 7 & 8 |
-| 5 | Chapter 9 & 10 |
-| 6 | Chapter 11 & 12 |
-| 7 | Chapter 13 |
-| 8 | Final Exam |
+TBD
 
 ### Department/Division Contact
 If you have any issues in our classroom, the course content or with me, I would ask that you first address the issue directly with me.  If you feel that the issue remains unresolved even after speaking with me, you may contact the following individuals to whom I report.
