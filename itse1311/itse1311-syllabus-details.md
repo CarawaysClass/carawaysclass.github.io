@@ -76,7 +76,7 @@ Letter Grade Assignment:
 | 5 | Advanced Positioning and Responsive Design |
 | 6 | Responsive Images and Typography |
 | 7 | Forms and Final Project|
-| 8 | Final Exam |
+| 8 | Final Project |
 
 ### Department/Division Contact
 If you have any issues in our classroom, the course content or with me, I would ask that you first address the issue directly with me.  If you feel that the issue remains unresolved even after speaking with me, you may contact the following individuals to whom I report.
