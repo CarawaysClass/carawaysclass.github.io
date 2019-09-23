@@ -97,7 +97,7 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 | 9<br><br> | Concepts: Security & Privacy <br><br>| Excel Capstone Project <br>Security & Privacy Quiz<br> |
 | 10<br><br> |  Skills: Access Ch. 1<br>Skills: Access Ch. 2<br> | Access Ch. 1 (SIMBook reading and SIMnet project)<br>Excel Ch. 2 (SimBook reading and SIMnet project)<br> |  
 | 11<br><br> |  Skills: Access Ch. 3<br>Skills: Access Ch. 4<br> | Access Ch. 3 (SIMBook reading and SIMnet project)<br>Access Ch. 4 (SimBook reading and SIMnet project)<br> |  
-| 12<br><br> | Concepts: Web Technology Lab - Ethics <br><br>| Excel Capstone Project <br>Web Technology Ethics Lab<br> |
+| 12<br><br> | Concepts: Web Technology Lab - Ethics <br><br>| Access Capstone Project <br>Web Technology Ethics Lab<br> |
 | 13<br><br> |  Skills: PowerPoint Ch. 1<br>Skills: PowerPoint Ch. 2<br> | PowerPoint Ch. 1 (SIMBook reading and SIMnet project)<br>PowerPoint Ch. 2 (SimBook reading and SIMnet project)<br> |  
 | 14<br><br> |  Skills: PowerPoint Ch. 3<br><br>| PowerPoint Ch. 3 (SimBook reading and SIMnet project)<br>PowerPoint Capstone Project|
 | 15 | Office Apps Integraton | Integrated Project |
