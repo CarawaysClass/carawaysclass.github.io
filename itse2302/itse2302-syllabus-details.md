@@ -29,10 +29,16 @@ Generally, students completing this course will be able to:
 
 ## Prerequisites  
 None.  
-## Required Materials  
 
 ## Required Materials  
-To be successful in this class, the student must access to the Internet and purchase a license for codio.com ($48).  As for a textbook, we will use several online textbooks and resources - these will all be free.
+To be successful in this class, the student must access to the Internet and purchase a license for codio.com ($48).  As for a textbook, we will use the following book as well as several free online resources.
+
+JavaScript and JQuery: Interactive Front-End Web Development
+> **JavaScript & jQuery Interactive Front-End Web Development (Print, eBook, Rental)**
+> Author:  Jon Duckett
+> Publisher: Wiley
+> Publish Date: June 30, 2014
+> ISBN: 978-1118531648
 
 ##Technical Requirements  
 A student must have access to an up-to-date and well maintained computer running a recent version of Windows (PC) or MacOS (Mac) to be successful in this class. This computer must have ready access to the Internet and Lone Star College’s Brightspace Learning Management System (LMS).  
