@@ -16,7 +16,7 @@ Generally (and per the course catalog), this course will teach server-side and c
 * Check Brightspace (D2L) for our weekly Learning Activities and Assignments.  
 * For communications received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
 * For communications received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
-* Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or D2L.
+* Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or Brightspace.
 * Work is to be submitted by the Due Date.  **Late work will not be accepted**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
 * Please use my virtual office hours (see hours above) should you need to set up a WebEx meeting or call for any question or issue that you would like to discuss.
@@ -33,12 +33,13 @@ None.
 ## Required Materials  
 To be successful in this class, the student must access to the Internet and purchase a license for codio.com ($48).  As for a textbook, we will use the following book as well as several free online resources.
 
-JavaScript and JQuery: Interactive Front-End Web Development
-> **JavaScript & jQuery Interactive Front-End Web Development (Print, eBook, Rental)**
+**JavaScript & jQuery Interactive Front-End Web Development (Print, eBook, Rental)**
 > Author:  Jon Duckett
 > Publisher: Wiley
 > Publish Date: June 30, 2014
 > ISBN: 978-1118531648
+
+> *Note:  You can often find a used copy of this for about $10-12.*
 
 ##Technical Requirements  
 A student must have access to an up-to-date and well maintained computer running a recent version of Windows (PC) or MacOS (Mac) to be successful in this class. This computer must have ready access to the Internet and Lone Star College’s Brightspace Learning Management System (LMS).  
@@ -46,7 +47,7 @@ A student must have access to an up-to-date and well maintained computer running
 Because this is an online, technical class, the student must maintain their computer in working order, keeping it up-to-date and free of malware.
 
 ### Assignments
-Assignments are due according to the schedule posted in slack.com (and D2L).  Students are responsible for meeting assignment due dates.    
+Assignments are due according to the schedule posted in Brightspace.  Students are responsible for meeting assignment due dates.    
 
 ### Grade Determination  
 
