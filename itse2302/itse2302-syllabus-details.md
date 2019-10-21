@@ -73,7 +73,16 @@ Letter Grade Assignment:
 | 0-59% | F |
 
 ## Tentative Course Outline 
-TBD
+| Week | Topics | 
+| :---: | ---------- | 
+| 1 | Class Introduction and Setup |  
+| 2 | Chapter 3 & 4 |
+| 3 | Chapter 5 & 6 |
+| 4 | Chapter 7 & 8 |
+| 5 | Chapter 9 & 10 |
+| 6 | Chapter 11 & 12 |
+| 7 | Chapter 13 |
+| 8 | Final Exam |
 
 ### Department/Division Contact
 If you have any issues in our classroom, the course content or with me, I would ask that you first address the issue directly with me.  If you feel that the issue remains unresolved even after speaking with me, you may contact the following individuals to whom I report.
