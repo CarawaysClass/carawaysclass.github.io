@@ -48,7 +48,7 @@ To be successful in this class, the student must:
 * Have access to a Windows PC with Microsoft Office 365/2019 installed
  _*OR*_ 
  access to a Mac with Microsoft Office 365/2019 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
-* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: ISBN: **TBD**
+* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: ISBN: **978-1-264-02216-8**
 > Office 365/2019 SimNet - simnet online for Microsoft Office 365/2019, 1st ed
 > Author: Triad Interactive
 > Access Code 
