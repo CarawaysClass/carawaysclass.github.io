@@ -22,7 +22,7 @@ This course introduces and develops foundational skills in applying essential an
 * Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
 * Please use my virtual office hours (see hours above) should you need to set up a WebEx meeting or call for any question or issue that you would like to discuss.
-* _Even though most of our class assignments can be completed on a Mac, **there may be specific SIMnet assignments that require the Windows (PC) version of Office365/2019**_. If you do not have Office365/2019 (for Windows) at home, you may need to use the general-use PCs at any LSC campus.
+* _Even though most of our class assignments can be completed on a Mac, **there may be specific SIMnet assignments that require the Windows (PC) version of Office 365/2019**_.  If you do not have Office 365/2019 (for Windows) at home, you may need to use the general-use PCs at any LSC campus.
 
 ## Student Learning Outcomes  
 
@@ -45,11 +45,11 @@ None.
 ## Required Materials  
 To be successful in this class, the student must:  
 
-* Have access to a Windows PC with Microsoft Office365/2019 installed
+* Have access to a Windows PC with Microsoft Office 365/2019 installed
  _*OR*_ 
  access to a Mac with Microsoft 365/2019 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
 * Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: ISBN: **978-1-264-02216-8**
-> Office365/2019 SimNet - simnet online for Microsoft Office365/2019, 1st ed
+> Office 365/2019 SimNet - simnet online for Microsoft Office 365/2019, 1st ed
 > Author: Triad Interactive
 > Access Code 
 > **Note** You may purchase your access code from the campus bookstore or from within the SIMnet app.  I recommend that if you haven't already purchased your access code to wait until after the first week of class to buy.  The publisher provides two weeks of "free" access to start our semester. 
@@ -63,13 +63,13 @@ Evaluation will be based on the following grade components:
 
 | Grade Type | Points |
 | :---------: | :------: |
-| Quizzes (5%) | 50 |
+| Quizzes (3%) | 30 |
 | SIMBook Readings (19%) | 190 |
 | SIMnet Projects (45%) | 450 |
 | Web Technology Lab (5%) | 50 |
 | Capstone Projects (16%) | 160 |
-| Integrated Project (5%) | 50 |
-| Final Exam (5%) | 50 |
+| Integrated Project (6%) | 60 |
+| Final Exam (6%) | 60 |
 | **TOTAL POINTS** | **1000** |
 
 
@@ -95,9 +95,9 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 | 7<br><br> |  Skills: Excel Ch. 3<br>Skills: Excel Ch. 4<br> | Excel Ch. 3 (SIMBook reading and SIMnet project)<br>Excel Ch. 4 (SimBook reading and SIMnet project)<br> |  
 | 8<br><br> |  Skills: Excel Ch. 8<br>Skills: Excel Ch. 9<br> | Excel Ch. 8 (SIMBook reading and SIMnet project)<br>Excel Ch. 9 (SimBook reading and SIMnet project)<br> |  
 | 9<br><br> | Concepts: Security & Privacy <br><br>| Excel Capstone Project <br>Security & Privacy Quiz<br> |
-| 10<br><br> |  Skills: Access Ch. 1<br>Skills: Access Ch. 2<br> | Access Ch. 1 (SIMBook reading and SIMnet project)<br>Excel Ch. 2 (SimBook reading and SIMnet project)<br> |  
+| 10<br><br> |  Skills: Access Ch. 1<br>Skills: Access Ch. 2<br> | Access Ch. 1 (SIMBook reading and SIMnet project)<br>Access Ch. 2 (SimBook reading and SIMnet project)<br> |  
 | 11<br><br> |  Skills: Access Ch. 3<br>Skills: Access Ch. 4<br> | Access Ch. 3 (SIMBook reading and SIMnet project)<br>Access Ch. 4 (SimBook reading and SIMnet project)<br> |  
-| 12<br><br> | Concepts: Web Technology Lab - Ethics <br><br>| Access Capstone Project <br>Web Technology Ethics Lab<br> |
+| 12<br><br> | Concepts: Web Technology Lab <br><br>| Access Capstone Project <br>Web Technology Lab<br> |
 | 13<br><br> |  Skills: PowerPoint Ch. 1<br>Skills: PowerPoint Ch. 2<br> | PowerPoint Ch. 1 (SIMBook reading and SIMnet project)<br>PowerPoint Ch. 2 (SimBook reading and SIMnet project)<br> |  
 | 14<br><br> |  Skills: PowerPoint Ch. 3<br><br>| PowerPoint Ch. 3 (SimBook reading and SIMnet project)<br>PowerPoint Capstone Project|
 | 15 | Office Apps Integraton | Integrated Project |
