@@ -2,7 +2,7 @@
 **Course Number:** BCIS 1305  
 **Course Title:** Business Computer Applications  
 **Term and Year:** Spring 2020 (Winter Mini)
-**Course Dates:** December 16 - January 12, 2020
+**Course Dates:** December 16, 2019 - January 12, 2020
 **Course Section(s):** 6003/4 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
