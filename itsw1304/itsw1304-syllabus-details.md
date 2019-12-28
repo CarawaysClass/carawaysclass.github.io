@@ -1,15 +1,15 @@
 ## Course Info
 **Course Number:** ITSW 1304  
 **Course Title:** Intro to Spreadsheets  
-**Term and Year:** Spring 2019 8W1
-**Course Dates:** January 14 - March 5, 2019
-**Course Section(s):** 6001/2 
+**Term and Year:** Spring 2020 8W1
+**Course Dates:** January 13 - March 8, 2020
+**Course Section(s):** 6003/4 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
 
 ## Course Description  
-In this course, students will learn about the concepts, procedures, and application of electronic spreadsheets and, more specifically, this course introduces the topic of spreadsheet software using Microsoft Excel.  We will look at how spreadsheets can be used to perform calculations, organize data, communicate quantitative information, make financial decisions, share data, and more.  Knowing how to use  spreadsheet software like Excel is a key skill required in just about any business setting. 
+In this course, students will learn about the concepts, procedures, and application of electronic spreadsheets and, more specifically, this course introduces the topic of spreadsheet software using Microsoft Excel.  We will look at how spreadsheets can be used to perform calculations, organize data, communicate quantitative information, make financial decisions, share data, and more.  Knowing how to use spreadsheet software like Excel is a key skill required in just about any business setting. 
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
@@ -30,9 +30,9 @@ Generally, students completing this course will be able to:
 3. Generate charts, graphs, and reports.
 4. Use Formatting Features.  
 
-## Prerequisites  
+## Corequisites  
 
-* ITSC 1301 or COSC 1301.  
+* ITSC 1301 or COSC 1301 or BCIS 1305.  
 
 ## Required Materials  
 To be successful in this class, the student must:  
@@ -40,14 +40,14 @@ To be successful in this class, the student must:
 * Have Internet access.
 * Access to a Windows PC with Microsoft Excel 2016 installed 
 OR access to a Mac with Microsoft Excel 2016 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
-* Register for access to the McGraw-Hill SIMnet environment.
-> MS Office Excel 2016: Complete (SIMNET 2017)
-> Author: Nordell
-> Access Code
+* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: ISBN: **978-1-260-81868-0**
+> SIMnet for Excel 365/2019 Complete, Nordell SIMbook, 1st ed
+> Author: Triad Interactive
+> Access Code 
 > **Note** You may purchase your access code from the campus bookstore or from within the SIMnet app.  I recommend that if you haven't already purchased your access code to wait until after the first week of class to buy.  The publisher provides two weeks of "free" access to start our semester. 
 
 ### Assignments
-Assignments are due according to the schedule posted in codio.com and/or slack.com.  Students are responsible for meeting assignment due dates.    
+Assignments are due according to the schedule posted in SIMnet and/or slack.com.  Students are responsible for meeting assignment due dates.     
 
 ### Grade Determination  
 
@@ -55,12 +55,11 @@ Evaluation will be based on the following grade components:
 
 | Grade Type | Points |
 | :---------: | :------: |
-| SIMBook Readings (10%) | 100 |
-| SIMpaths (4.5%) | 45 |
-| SIMNet Projects (54%) | 540 |
-| Mid-semester Capstone Project (7.5%) | 75 |
-| Slack Discussions (9%) | 90 |
-| Final Project (15%) | 150 |
+| SIMBook Readings (11%) | 110 |
+| SIMNet Projects (68%) | 680 |
+| Capstone Project (5%) | 50 |
+| Final Project (10%) | 100 |
+| Discussions (6%) | 60 |
 | **TOTAL POINTS** | **1000** |
 
 
@@ -78,14 +77,14 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 
 | Week | Topics | 
 | :---: | -------- | 
-| 1 | SIMnet, Windows 10, MS Office, and Creating and Editing Workbooks (Ch1) |
+| 1 | Creating and Editing Workbooks (Ch1) |
 | 2 | Working with Formulas and Functions (Ch2) |
-| 3 | Creating and Editing Charts (Ch3) & Formatting, Organizing, and Getting Data (Ch4)|
-| 4 | Consolidating, Linking, and Inserting Objects (Ch5) |
-| 5 | Exploring the Function Library (Ch6) & Mid-semester Capstone |
-| 6 | Working with Templates and Sharing Work (Ch7) |
-| 7 | Exploring Data Analysis and Business Intelligence (Ch8) Recording and Editing Macros (Ch9) |
-| 8 | FINALS - Final Project | 
+| 3 | Creating and Editing Charts (Ch3) |
+| 4 | Formatting, Organizing, and Getting Data (Ch4)
+| 5 | Consolidating and Linking Data and Inserting Objects (Ch5) & Mid-semester Capstone|
+| 6 | Exploring the Function Library (Ch6) & Working with Templates and Co-Authoring (Ch7) |
+| 7 | Working with Macros (Ch8) & Exploring Data Analysis and Maps (Ch9) |
+| 8 | Exploring Business Intelligence (Ch10) & Final Project | 
 
 
 ### Department/Division Contact
