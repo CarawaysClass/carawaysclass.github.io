@@ -1,9 +1,9 @@
 ### Non Attendance at Start of Semester
 
-If you have not completed the Syllabus quiz or posted to the #introductions Slack channel by to the Official Day of Record (ODR), you will be administratively withdrawn from the class, no exceptions.  For Fall 2019, ODR is:
-- Sept 9th for regular 16 Week classes
-- Sept 3rd for 8 Week Session 1 classes
-- Oct 28th for 8 Week Session 2 classes
+If you have not logged into our class or posted to the #introductions Slack channel by to the Official Day of Record (ODR), you will be administratively withdrawn from the class, no exceptions.  For Spring 2020, ODR is:
+- Jan 27th for regular 16 Week classes
+- Jan 21st for 8 Week Session 1 classes
+- Mar 23rd for 8 Week Session 2 classes
 
 
 ### Withdrawal Policy

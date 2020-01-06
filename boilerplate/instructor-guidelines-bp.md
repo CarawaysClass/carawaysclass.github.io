@@ -19,10 +19,12 @@ Slack is always your best choice in communicating with me, but there may be inst
 
 
 ### Office Visits
-I currently live several hours from Houston so I am not in my campus office very often.  I am always happy to set up a "virtual" visit using WebEx or a phone call - just contact me via Slack to initiate a session.   
+I currently live several hours from Houston so I only visit campus several times during the semester.  Once our semester begins, I will let you know the days that I plan to be on campus if you wish to meet face-to-face with me.  
+
+Please know that I am always happy to set up a "virtual" meeting using WebEx or a phone call - just contact me via Slack to schedule a session.   
 
 ### Attendance
-We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in on-line Slack discussions or chat sessions.  It is your responsibility to keep up with the material and to check in for updates, assignment due dates, and potential schedule changes.
+We do not formally meet during the week so no attendance is taken.  I do reserve the right to assign tasks that may require your participation in on-line Slack discussion channels.  It is your responsibility to keep up with the material and to check in for updates, assignment due dates, and potential schedule changes.
 
 Should you anticipate that you will not be able to log on and participate in class for an extended period (72 hours), please notify me in advance.  Not logging in to the on-line class at a regular interval will significantly impact your chance for success.   **I will withdraw a student if they are not active in the course and do not respond to my Slack or email correspondence during a 7 day period.**
  
