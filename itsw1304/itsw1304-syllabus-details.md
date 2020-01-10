@@ -19,7 +19,6 @@ In this course, students will learn about the concepts, procedures, and applicat
 * Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or D2L.
 * Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
-* Please use my virtual office hours (see hours above) should you need to set up a WebEx meeting or call for any question or issue that you would like to discuss.
 
 ## Student Learning Outcomes  
 

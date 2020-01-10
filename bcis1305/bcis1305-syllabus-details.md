@@ -21,7 +21,6 @@ This course introduces and develops foundational skills in applying essential an
 **SIMnet** is the on-line service that you will use to complete a majority of the assignments of our class.  You will need to purchase a SIMnet access code for our course.
 * Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
-* Please use my virtual office hours (see hours above) should you need to set up a WebEx meeting or call for any question or issue that you would like to discuss.
 * _Even though most of our class assignments can be completed on a Mac, **there are some assignments that require the Windows (PC) version of Office 365/2020**_.   Specifically, the MS Access SIMnet project assignments require you to use a Windows computer - MS Access is only available for Windows, not the Mac.  If you use a Mac as your primary computer, you will need to find a Windows computer to complete the MS Access assignments.  use the general-use PCs at any LSC campus.
 
 ## Student Learning Outcomes  
