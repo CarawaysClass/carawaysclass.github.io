@@ -13,10 +13,12 @@ In this course, students will learn about the concepts, procedures, and applicat
 
 ## Syllabus Fast Facts
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
-* Check the slack site for our weekly Learning Activities and Assignments.  
-* For communications received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
-* For communications received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
-* Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or D2L.
+* Check Slack for our weekly Learning Activities and Assignments.  
+* For Slack communications received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
+* For Slack communications received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
+* Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email, MyLonestar, and all other LSC properties.
+* Call the McGraw-Hill support line (<a href="tel:800-331-5094">800-331-5094</a>) for issues with **SIMnet**. Be sure to get a case number when you contact them.
+**SIMnet** is the on-line service that you will use to complete a majority of the assignments of our class.  You will need to purchase a SIMnet access code for our course.
 * Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
 
@@ -36,11 +38,11 @@ Generally, students completing this course will be able to:
 ## Required Materials  
 To be successful in this class, the student must:  
 
-* Have Internet access.
-* Access to a Windows PC with Microsoft Excel 2016 installed 
-OR access to a Mac with Microsoft Excel 2016 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
-* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: ISBN: ****
-> SIMnet for Excel 365/2019 Complete, Nordell SIMbook, 1st ed
+* Have access to a Windows PC with Microsoft Office 365/2020 installed
+ _*OR*_ 
+ access to a Mac with Microsoft 365/2020 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
+* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: ISBN: **978-1-260-81868-0**
+> Office 365/2020 SimNet - simnet online for Microsoft Office 365/2020, 1st ed
 > Author: Triad Interactive
 > Access Code 
 > **Note** You may purchase your access code from the campus bookstore or from within the SIMnet app.  I recommend that if you haven't already purchased your access code to wait until after the first week of class to buy.  The publisher provides two weeks of "free" access to start our semester. 

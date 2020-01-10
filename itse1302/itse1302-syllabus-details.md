@@ -1,9 +1,9 @@
 ## Course Info
 **Course Number:** ITSE 1302  
 **Course Title:** Computer Programming  
-**Term and Year:** Spring 2019
-**Course Dates:** January 14 - May 10, 2019
-**Course Section(s):** 6001/2 
+**Term and Year:** Summer 2020
+**Course Dates:** January 13 - May 10, 2020
+**Course Section(s):** 6003/4 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
 **Total Contact Hours** 80
@@ -16,11 +16,10 @@ This course is designed to equip you, the student, with the primary critical thi
 Generally (and per the course catalog), this course will introduce you to concepts and tools used in designing, developing, testing, implementing, and documenting computer programs. 
 
 ## Syllabus Fast Facts
-* Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.  
 * Check the Brightspace calendar and content module *each week* for scheduled Learning Activities and Assignments.  
 * Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.  
-* For messages received between _Monday and Friday noon_, I will make every effort to reply by 5pm, the following day.  
-* For messages received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
+* For Slack communications received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
+* For Slack communications received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
 * Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or D2L.
 * Work is to be submitted by the Due Date.  **Late work may be declined or subject to penalty**.
 * Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
