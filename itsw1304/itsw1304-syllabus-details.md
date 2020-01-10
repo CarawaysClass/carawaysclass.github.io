@@ -40,7 +40,7 @@ To be successful in this class, the student must:
 * Have Internet access.
 * Access to a Windows PC with Microsoft Excel 2016 installed 
 OR access to a Mac with Microsoft Excel 2016 installed.  (As an LSC student you <a href="https://products.office.com/en-us/student/office-in-education" target="_blank">get Office for free</a>).   
-* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: ISBN: **978-1-260-81868-0**
+* Register for access to the McGraw-Hill SIMnet environment.  The ISBN that we will be using is: ISBN: ****
 > SIMnet for Excel 365/2019 Complete, Nordell SIMbook, 1st ed
 > Author: Triad Interactive
 > Access Code 
