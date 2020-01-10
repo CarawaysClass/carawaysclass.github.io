@@ -27,22 +27,44 @@ Students who enrolled in Texas public institutions of higher education as first-
 
 **Lone Star College-University Park Learning Center is committed to your success.**
 
+### GradUP
+The LSC-University Park community is here to support you and we encourage you to graduate! Many of you come to a community college because it provides an open door and it makes sense financially. What you may not realize is what attaining an associate’s or workforce degree can do for you. Below are just some of the reasons why a degree is a positive move for your life and career:
+1. You’ll be eligible for more jobs.
+1. You could have higher earning potential.
+1. You can finish in two years or less.
+1. You have options for career paths.
+1. You can discover what you want from your academic program and career.
+1. You can apply for additional scholarships.
+7. Many of the colleges in Texas have articulation agreements with community colleges that allow you to
+receive full credit for the courses you have completed.
+1. Your transfer acceptance is higher with an associate’s degree.
+
+If you have any questions or need guidance with your academic plan and graduation, please ask for assistance. There are resources, advisors, and additional materials available to you. Because your academic success is important, Lone Star College fosters and commits to a set of cultural beliefs.
+
 ### Your success is our primary concern!  
 If you are experiencing challenges achieving your academic goals, please contact your instructor or an advisor.  We can provide assistance with academic needs, ADA accommodations, classroom difficulties, financial concerns, and other issues.  
 
-**Academic Coaching (formerly Tutoring0: Academic coaching is available through the Student Learning Resource Center (SLRC). Please visit <a href="http://www.lonestar.edu/up-tutoring.htm" target="_blank"> UP Tutoring Center</a> for information on hours and location.** 
+### Academic Coaching (formerly Tutoring) 
+Academic coaching is available through the Student Learning Resource Center (SLRC). Please visit <a href="http://www.lonestar.edu/up-tutoring.htm" target="_blank"> UP Tutoring Center</a> for information on hours and location.
+
+###Advising
+The Advising process is an integral part of your academic success. Academic advisors are available to assist you with a variety of academic services including admissions, testing, advising, registration, referral of campus and community resources, add/drop/withdrawal process, transfer planning and graduation processes. Please visit <a href="http://www.lonestar.edu/advising.htm" target="_blank">Advising</a> for information on hours and location.
+
+**Academic Calendar**: <a href="http://www.lonestar.edu/academic-calendar" target="_blank">www.lonestar.edu/academic-calendar</a>
+
+**Final Exam Schedule**: <a href="http://www.lonestar.edu/examschedule.htm" target="_blank">www.lonestar.edu/examschedule.htm</a>
 
 ### Counseling Services
-Counseling services are available to students who are experiencing difficulty with academic issues, selection of college major, career planning, disability accommodations, or personal issues.  Students may contact Counseling, Career, and Disability Services at <a href="tel:281-401-5370">281-401-5370</a>, or in Building 13, Room 200.
+Counseling services are available to students who are experiencing difficulty with academic issues, selection of college major, career planning, or personal issues.  Please visit <a href="http://www.lonestar.edu/counseling-services.htm" target="_blank">www.lonestar.edu/counseling-services.htm</a> for information on hours and location.
 
 ### The Assistive Technology Lab
-The Assistive Technology Lab is available for students who benefit from its various technologies to convert text to speech, magnify items, convert text to Braille, etc.  For further information, please call <a href="tel:281-290-2672">281-290-2672</a> or email <a href="mailto:UPAssistiveTech@LoneStar.edu">UPAssistiveTech@LoneStar.edu</a>.
+The Assistive Technology Lab is available for students who benefit from its various technologies to convert text to speech, magnify items, convert text to Braille, etc. For further information, please visit <a href="http://www.lonestar.edu/UP-AssistiveTech.htm" target="_blank">www.lonestar.edu/UP-AssistiveTech.htm</a> for information on hours and location.
 
 ### Student Learning Resource Center (SLRC)   
-The Lone Star College-University Park SLRC is located in Building 12, on the 8th floor and contains information resources for both college students and community members.  Librarians are available to assist with research.  To contact a reference librarian, email <a href="mailto:uplibrary-ref@lonestar.edu">uplibrary-ref@lonestar.edu</a>.  For Library hours and contact information, please visit <a href="http://www.lonestar.edu/library" target="_blank">http://www.lonestar.edu/library</a>.  
+The Lone Star College-University Park SLRC is located in Building 12, on the 8th floor and contains information resources for both college students and community members.  Librarians are available to assist with research.  To contact a reference librarianemail <a href="mailto:uplibrary-ref@lonestar.edu">uplibrary-ref@lonestar.edu</a>. For SLRC hours and contact information, please visit <a href="http://www.lonestar.edu/UP-Library.htm" target="_blank">www.lonestar.edu/UP-Library.htm</a>.
 
 ### Assessment Center 
-The Lone Star College-University Park Assessment Center is located in Building 13, Room 240.  See link for all testing center hours:   <a href="http://www.lonestar.edu/testing-centers.htm" target="_blank">http://www.lonestar.edu/testing-centers.htm</a>. 
+The Lone Star College-University Park Assessment Center is located in Building 13, Room 240.  See link for all testing center hours:   <a href="http://www.lonestar.edu/testing-centers.htm" target="_blank">www.lonestar.edu/testing-centers.htm</a>. 
 
 ## Lone Star College-University Park Campus and System Policies
 
@@ -60,18 +82,19 @@ The consequences for academic dishonesty are determined by the professor, or the
 ### Student Behavior Expectations
 Students are expected to conduct themselves appropriately while on College property or in an on-line environment.  Students may receive disciplinary action up to and including suspension, if they violate System or College rules, disrupt classes, or interfere with the opportunity of others to obtain an education.  Students who pose a threat to the safety of others will be subject to immediate withdrawal from the classroom, campus environment, and/or on-line environment, as well as face subsequent criminal charges, as appropriate.  
 
-**Please refer to the Student Code of Conduct located on-line at <a href="http://www.lonestar.edu/student-responsibilities.htm"  target="_blank">http://www.lonestar.edu/student-responsibilities.htm</a> for additional information.**
+**Please refer to the Student Code of Conduct located on-line at <a href="http://www.lonestar.edu/student-responsibilities.htm"  target="_blank">www.lonestar.edu/student-responsibilities.htm</a> for additional information.**
 
 ### Lone Star College Assistive Facilities
-Lone Star College is very committed to equal access in educational opportunities and provides assistance through disability services. Each main campus has an assistive technology lab to assist students with disabilities. These centers offer a wide range of educational technology tools, such as screen readers, for example, to assist students with their educational needs.  Information specific to your campus' Assistive Services is located on-line at <a href="http://www.lonestar.edu/19287.htm" target="_blank">http://www.lonestar.edu/19287.htm</a>.  
+Lone Star College is very committed to equal access in educational opportunities and provides assistance through disability services. Each main campus has an assistive technology lab to assist students with disabilities. These centers offer a wide range of educational technology tools, such as screen readers, for example, to assist students with their educational needs.  Information specific to your campus' Assistive Services is located on-line at <a href="http://www.lonestar.edu/19287.htm" target="_blank">www.lonestar.edu/19287.htm</a>.  
 
 ### Americans with Disabilities Act Statement
 Lone Star College-University Park is dedicated to providing the least restrictive environment for all students.  We promote equity in academic access through the implementation of reasonable accommodations as required by the Vocational Rehabilitation Act of 1973, Title V, Section 504 and the Americans with Disabilities Act of 1990 (ADA) which will enable students with disabilities to participate in and benefit from all post-secondary educational activities.
 
-Disability Services is located on the LSC University Park campus in Building 13, Suite 200.  You may contact Disability Services at the following number:  <a href="tel:281-401-5370">281-401-5370</a>.  Additional information may be accessed on-line at the following URL:  <a href="http://www.lonestar.edu/disability-services.htm" target="_blank">http://www.lonestar.edu/disability-services.htm</a>.
+### Disability Services
+If you are an individual with a disability and need classroom accommodations, please contact the Disability Services Office.  Additional information may be accessed online at the  <a href="http://www.lonestar.edu/disability-services.htm" target="_blank">Disability Services web page</a>.
 
 ### Campus Safety and Security
-Lone Star College System is committed to maintaining the safety of the students, faculty, staff, and guests while visiting one of our campuses.  See <a href="http://www.lonestar.edu/campus-safety.htm" target="_blank">http://www.lonestar.edu/campus-safety.htm</a> for details.  Register at <a href="http://www.lonestar.edu/LoneStarCollegeAlert.htm" target="_blank">http://www.lonestar.edu/LoneStarCollegeAlert.htm</a> to receive emergency notifications.  In the event of an emergency, contact the police at 5911.
+Lone Star College System is committed to maintaining the safety of the students, faculty, staff, and guests while visiting one of our campuses.  See <a href="http://www.lonestar.edu/campus-safety.htm" target="_blank">www.lonestar.edu/campus-safety.htm</a> for details.  Register at <a href="http://www.lonestar.edu/LoneStarCollegeAlert.htm" target="_blank">www.lonestar.edu/LoneStarCollegeAlert.htm</a> to receive emergency notifications.  In the event of an emergency, contact the police at 5911.
 
 ### Campus Carry
 The Texas Legislature enacted campus carry by passing Senate Bill 11, effective at LSC on August 1, 2017.  Senate Bill 11, known as the “Campus Carry” law, amends Texas law to allow license holders to carry concealed handguns on college campuses.  To carry a concealed handgun on LSC campuses, an individual must have a valid License to Carry issued by the Texas Department of Public Safety.
@@ -85,7 +108,7 @@ Computer viruses are, unfortunately, a fact of life.  Using flash drives on more
 It is the policy of the Lone Star College System to provide equal employment, admission and educational opportunities without regard to race, color, creed, national origin, gender, age, veteran's status, sexual orientation, or disability.  Lone Star Colleges strive to provide an excellent learning environment free from harassment or intimidation directed at any person’s race, color, creed, national origin, gender, age, veteran's status, sexual orientation, or disability.  Any form of harassment will not be tolerated.
 
 ### FERPA
-The academic, financial, and non-directory information on your student account is confidential and protected by the Family Educational Rights & Privacy Act (FERPA).  LSCS cannot release certain information to another person without your written authorization.  The Authorization to Release Student Educational Records can be found at <a href="http://www.lonestar.edu/departments/generalcounsel/OGC-S-2009-03_-_Authorization_To_Release_Educational_Records.pdf" target="_blank">http://www.lonestar.edu/departments/generalcounsel/OGC-S-2009-03_-_Authorization_To_Release_Educational_Records.pdf</a>.
+The academic, financial, and non-directory information on your student account is confidential and protected by the Family Educational Rights & Privacy Act (FERPA).  LSCS cannot release certain information to another person without your written authorization.  The Authorization to Release Student Educational Records can be found at <a href="http://www.lonestar.edu/departments/generalcounsel/OGC-S-2009-03_-_Authorization_To_Release_Educational_Records.pdf" target="_blank">www.lonestar.edu/departments/generalcounsel/OGC-S-2009-03_-_Authorization_To_Release_Educational_Records.pdf</a>.
 
 ### Internet and E-mail
 LSCS provides computing and network resources.  You are encouraged to use the computers, software packages, and electronic mail (e-mail) for educational or System-related activities and to facilitate the efficient exchange of useful information.  The equipment, software, and network capacities provided through the district computer services are the property of the System.  Use of the equipment and networks is to comport with the policies and procedures of the System and access may be denied to any student who fails to comply with the System’s policies and procedures regarding its use.
