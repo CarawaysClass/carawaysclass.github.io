@@ -2,7 +2,7 @@
 **Course Number:** ITSE 1350  
 **Course Title:** Systems Analysis and Design  
 **Term and Year:** Spring 2020 8W1
-**Course Dates:** March 8 - May 10, 2020
+**Course Dates:** March 16 - May 10, 2020
 **Course Section(s):** 6003/4 
 **Class Days & Times:** ONLINE  
 **Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
