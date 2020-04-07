@@ -2,7 +2,7 @@
 
 <<[boilerplate/bec-contact-info.md]
 
-<<[itse1350/itse1350-syllabus-details.md]
+<<[itse1350/itse1350-syllabus-detailscovid.md]
 
 <<[boilerplate/instructor-guidelines-bp.md]
 
