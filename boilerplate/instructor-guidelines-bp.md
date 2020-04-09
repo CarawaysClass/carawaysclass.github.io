@@ -9,11 +9,11 @@ I will email you an invitation to our Slack class site, during the first week of
 
 
 ### Emailing Your Instructor
-Slack is always your best choice in communicating with me, but there may be instances where you wish to email me.  If you choose to use email, be sure to include your name, course name, and course number in the email.  If you do not fully identify yourself and course info, I will likely not reply.  Keep the body of your message brief, and to-the-point.  Here is an example of a good email:
+Slack is always your best choice in communicating with me, but there may be instances where you need to email me.  In these instances, be sure to include your name, course name, and course number in the email.  If you do not fully identify yourself and the course, I will likely not reply.  Keep the body of your message brief and to-the-point.  Here is an example of a good email:
 
 > Professor Caraway:
 
->I am Angela Ford from your BCIS 1305 (Business Computer Apps) class, and I have a question about this week’s assignment.  I thought that we needed to complete both sections, am I correct?  Can you please help me?
+>I am Angela Ford from your BCIS 1305 (Business Computer Apps) class. I am having difficulty accessing our Slack class site.  Can you please help me?
 
 >Angela Ford
 

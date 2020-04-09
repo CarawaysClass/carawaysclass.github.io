@@ -1,17 +1,19 @@
 ### Non Attendance at Start of Semester
 
-You must **log into our class** and **post to the #introductions Slack channel by to the Official Day of Record (ODR)**.  Otherwise, you will be administratively withdrawn from the class, no exceptions.  For Spring 2020, ODR is:
+You must **log into our class** and **post to the #introductions Slack channel by to the Official Day of Record (ODR)**.  Otherwise, you will be administratively withdrawn from the class, no exceptions.  For Spring 2020 8WK2, ODR is:  
+
 - Jan 27th for regular 16 Week classes
 - Jan 21st for 8 Week Session 1 classes
-- Mar 23rd for 8 Week Session 2 classes   
+- Apr 20th for 8 Week Session 2 classes   
 
 Please make every effort to login and post to the Slack #introductions channel ASAP - don't delay.
 
 ### Withdrawal Policy
-Withdrawal from the course after the Official Day of Record and prior to “W” Day will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.  For Spring 2020, W Day is:
+Withdrawal from the course after the Official Day of Record and prior to “W” Day will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after the Official Day.  No credit will be awarded for a course earning a “W.”  If you stop participating in the on-line class, you must withdraw at the registration office prior to “W” day.  For Spring 2020, W Day is:  
+
 - Apr 1st for regular 16 Week classes
 - Feb 21st for 8 Week Session 1 classes
-- Apr 24th for 8 Week Session 2 classes
+- May 1st for 8 Week Session 2 classes
 
 _If you stop attending class and do not officially withdraw, you **will receive an “F”** for the course._
 

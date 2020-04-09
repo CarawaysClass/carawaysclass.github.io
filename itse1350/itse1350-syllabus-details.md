@@ -39,9 +39,6 @@ To be successful in this class, the student must:
 * Have access to a computer with internet access  
 * Have a license to access the MindTap version of our course. You may purchase access directly from Cengage by visiting:
 
-http://services.cengagebrain.com/course/site.html?id=2148250
- 
-
 ### Assignments
 Assignments are due according to the schedule posted in slack.com and Brightspace.  Students are responsible for meeting assignment due dates.    
 
