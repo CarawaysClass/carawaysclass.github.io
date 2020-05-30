@@ -1,0 +1,1 @@
+<h1 class="logo"><a href="/"><img src="itse1302-syllabus-header-banner.png" alt="BCIS 1305 Syllabus"></a> </h1>
