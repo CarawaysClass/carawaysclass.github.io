@@ -41,12 +41,12 @@ Members of the Lone Star College, which includes faculty, staff, and students, a
 
 You must **log into our class** and **post to the #introductions Slack channel by to the Official Day of Record (ODR)**.  Otherwise, you will be administratively withdrawn from the class, no exceptions.  For Summer I 2020, ODR is:  
 
-- May 14, 2020  
+- June 4, 2020  
 
 Please make every effort to login and post to the Slack #introductions channel ASAP - don't delay.
 
 ### Withdrawal Policy
-Withdrawal from the course after the official day of record and prior to “W” Day, June 2, 2020 will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after official day.  No credit will be awarded for a course earning a “W.”  If you stop attending class, you must withdraw at the registration office prior to “W” day.  
+Withdrawal from the course after the official day of record and prior to “W” Day, June 23, 2020 will result in a final grade of “W” on your transcript.  Instructor approval is necessary if you want to withdraw after official day.  No credit will be awarded for a course earning a “W.”  If you stop attending class, you must withdraw at the registration office prior to “W” day.  
 
 _If you stop attending class and do not officially withdraw, you **will receive an “F”** for the course._
 
