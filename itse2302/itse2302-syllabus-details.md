@@ -1,55 +1,6 @@
-## Course Info
-**Course Number:** ITSE 2302  
-**Course Title:** Intermediate Web Programming  
-**Term and Year:** Fall 2019
-**Course Dates:** October 21 - December 15, 2019
-**Course Section(s):** 6001/2 
-**Class Days & Times:** ONLINE  
-**Credit Hours:** 3 (Lecture hrs: 2 | Lab hrs: 3)
-**Total Contact Hours** 80
+<!--BREAK-->    
 
-## Course Description  
-Generally (and per the course catalog), this course will teach server-side and client-side techniques for Web development.  
-
-## Syllabus Fast Facts
-* Our <a href="https://slack.com" target="_blank">slack.com</a> class team site is the best way to reach your instructor.  Be sure to register for access as soon as you receive the invitation email from me.
-* Check Brightspace (D2L) for our weekly Learning Activities and Assignments.  
-* For communications received between _Monday and Friday noon_, I will reply by 5pm, the following day.  
-* For communications received between _Friday noon and Sunday or on holidays_, I will reply by 5pm, the following Monday.
-* Call OTS (<a href="tel:832-813-6600">832-813-6600</a>) for technical issues with your student email or Brightspace.
-* Work is to be submitted by the Due Date.  **Late work will not be accepted**.
-* Technical issues with your personal computer or Internet access do not exempt you from turning your assignments in on-time.
-* Please use my virtual office hours (see hours above) should you need to set up a WebEx meeting or call for any question or issue that you would like to discuss.
-
-## Student Learning Outcomes  
-
-Generally, students completing this course will be able to:  
-
-* Create and use client-side and server-side scripts to design and implement dynamic websites.
-
-## Prerequisites  
-None.  
-
-## Required Materials  
-To be successful in this class, the student must access to the Internet and purchase a license for codio.com ($48).  As for a textbook, we will use the following book as well as several free online resources.
-
-**JavaScript & jQuery Interactive Front-End Web Development (Print, eBook, Rental)**
-> Author:  Jon Duckett
-> Publisher: Wiley
-> Publish Date: June 30, 2014
-> ISBN: 978-1118531648
-
-> *Note:  You can often find a used copy of this for about $10-12.*
-
-##Technical Requirements  
-A student must have access to an up-to-date and well maintained computer running a recent version of Windows (PC) or MacOS (Mac) to be successful in this class. This computer must have ready access to the Internet and Lone Star College’s Brightspace Learning Management System (LMS).  
-
-Because this is an online, technical class, the student must maintain their computer in working order, keeping it up-to-date and free of malware.
-
-### Assignments
-Assignments are due according to the schedule posted in Brightspace.  Students are responsible for meeting assignment due dates.    
-
-### Grade Determination  
+## Grade Determination  
 
 Evaluation will be based on the following grade components:
 

@@ -2,14 +2,13 @@
 | Welcome to BCIS 1305  | |
 | :------------- | :----------- |
 | **Course Title:** BCIS 1305 | **Classroom Location:** Online |
-| **Course Subject:** Business Computer Applications | **Semester and Year:** Summer I 2020 |
-| **Course Section(s):** 6001/2 |  **Class Days & Times:** ONLINE | 
-| **Course Dates:** June 1 - July 7, 2020 | |
+| **Course Subject:** Business Computer Applications | **Semester and Year:** Fall 2020 |
+| **Course Section(s):** 6001/2 & 6003/4 |  **Class Days & Times:** ONLINE | 
 
 | Course Overview  | |
 | :------------- | :----------- |
-| **Credit Hours:** 3.0 | **Lecture Hours:** 2.0 | 
-| **Credit Hours:** 3.0 | **Lab Hours:** 3.0
+| **Credit Hours:** 3 | **Lecture Hours:** 2 | 
+| **Credit Hours:** 3 | **Lab Hours:** 3
 | **Prerequisite:** None| **Total Contact Hours:** 80 |
 
 ---
@@ -63,7 +62,7 @@ ISBN: **978-1-264-02216-8**
 > **Author:** Triad Interactive  
 
 
-**Important - You will need access to a Windows (PC) to complete the MS Access assignments.**  Even though most of our class assignments can be completed on a Mac, there are some assignments that require the Windows (PC) version of Microsoft Office.   Specifically, the MS Access SIMnet project assignments require you to use a Windows computer as MS Access is only available for Windows, and is not available on the Mac.  If you use a Mac as your primary computer, you will need to find a Windows computer to complete the MS Access assignments.
+**Important - You will need access to a Windows (PC) to complete the MS Access assignments.**  Even though most of our class assignments can be completed on a Mac, there are some assignments that require the Windows (PC) version of Microsoft Office.   Specifically, the MS Access SIMnet project assignments require you to use a Windows computer as MS Access is only available for Windows and is not available on the Mac.  If you use a Mac as your primary computer, you will need to find a Windows computer to complete the MS Access assignments.
 
 **Optional Material:** None
 

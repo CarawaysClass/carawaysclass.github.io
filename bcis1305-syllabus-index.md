@@ -6,6 +6,6 @@
 
 <<[boilerplate/instructor-guidelines-bp.md]
 
-<<[bcis1305/bcis1305-5wksyllabus-details.md]
+<<[bcis1305/bcis1305-syllabus-details.md]
 
 <<[boilerplate/lsc-syllabus-bp.md]

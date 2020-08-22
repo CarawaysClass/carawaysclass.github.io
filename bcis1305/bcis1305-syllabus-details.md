@@ -1,3 +1,4 @@
+<!--BREAK-->
 ### Grade Determination  
 
 Your grade will be determined by the following:
@@ -43,10 +44,3 @@ Our grade book is based on a 1000 point scale.  Your final letter grade will be 
 | 14<br><br> |  Skills: PowerPoint Ch. 3<br><br>| PowerPoint Ch. 3 (SimBook reading and SIMnet project)<br>PowerPoint Capstone Project|
 | 15 | Concepts: Web Technology Lab<br>Office Apps Integraton | Web Technology Lab - LinkedIn<br>Integrated Project |
 | 16 | FINALS | Final Exam|
-
-
-### Department/Division Contact
-If you have any issues in our classroom, the course content or with me, I would ask that you first address the issue directly with me.  If you feel that the issue remains unresolved even after speaking with me, you may contact the following individuals to whom I report.
-
-* Department Chair: Gary Tucker | <a href="tel:281-290-2957">281-290-2957</a> | <a href="mailto:gary.d.tucker@lonestar.edu">gary.d.tucker@lonestar.edu</a>
-* Dean: Steven Kahla | <a href="tel:281-655-3788">281-655-3788</a> | <a href="mailto:steven.c.kahla@lonestar.edu">steven.c.kahla@lonestar.edu</a>
