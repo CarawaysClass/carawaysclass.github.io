@@ -40,7 +40,15 @@ To complete the course assignments you will need:
 
 * Access to a personal computer with a current, updated operating system. 
 * Chrome or Firefox web browser must be installed to complete course assignments.
-* Access to Codio.com: <a href="https://codio.com/p/join-course?token=XXXXXXX" target="_blank">registration link</a>.  
+* Access to Codio.com: <a href="https://codio.com/p/join-course?token=sunday-pegasus" target="_blank">registration link</a>.  
+* Textbook:  
+
+**JavaScript & jQuery Interactive Front-End Web Development (Print, eBook, Rental)**
+_Author: Jon Duckett
+Publisher: Wiley
+Publish Date: June 30, 2014
+ISBN: 978-1118531648
+Note: You can often find a used copy of this for about $10-12._
 
 **Optional Material:** None
 
